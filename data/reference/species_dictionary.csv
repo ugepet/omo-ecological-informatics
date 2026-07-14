@@ -1,5 +1,5 @@
 Accepted_Name,Scientific_Name,Family,Genus,Taxonomic_Status,Confidence,Match_Type,GBIF_Species_Key,Synonym,Original_Name,Reviewed,Review_Status,Reviewer,Review_Date,Remarks,Final_Name
-,,,,,100,NONE,,False,Alstonei boonei,No,Pending,,,,Alstonia boonei
+,,Apocynaceae,Alstonia,ACCEPTED,100,NONE,,False,Alstonei boonei,No,Pending,,,,Alstonia boonei
 Blighia sapida,Blighia sapida K.D.Koenig,Sapindaceae,Blighia,ACCEPTED,99,EXACT,3189955,False,Blighia sapida,No,Pending,,,,Blighia sapida
 Bombax buonopozense,Bombax buonopozense Beauverd,Malvaceae,Bombax,ACCEPTED,95,VARIANT,4073599,False,Bombax buonopozene,No,Pending,,,,Bombax buonopozense
 Bosqueia angolensis,Bosqueia angolensis Ficalho,Moraceae,Bosqueia,SYNONYM,98,EXACT,3763770,True,Bosqueia angolensis,No,Pending,,,,Bosqueia angolensis
@@ -14,7 +14,7 @@ Homalium aylmeri,Homalium aylmeri Hutch. & Dalziel,Salicaceae,Homalium,SYNONYM,9
 Lecaniodiscus cupanioides,Lecaniodiscus cupanioides Planch.,Sapindaceae,Lecaniodiscus,ACCEPTED,94,VARIANT,3785542,False,Lecaniodiscus cupaniodes,No,Pending,,,,Lecaniodiscus cupanioides
 Margaritaria discoidea,Margaritaria discoidea (Baill.) G.L.Webster,Phyllanthaceae,Margaritaria,ACCEPTED,85,VARIANT,5383225,False,Margartaria discoidea,No,Pending,,,,Margaritaria discoidea
 Musanga cecropioides,Musanga cecropioides R.Br. ex Tedlie,Urticaceae,Musanga,ACCEPTED,98,EXACT,5643189,False,Musanga cecropioides,No,Pending,,,,Musanga cecropioides
-Nesogordonia papaverifera,Nesogordonia papaverifera (A.Chev.) Capuron,Malvaceae,Nesogordonia,ACCEPTED,97,EXACT,3670970,False,Nesogordonia papaverifera,No,Pending,,,,Nesogordonia papaverifera
+Nesogordonia papaverifera,Nesogordonia papaverifera (A.Chev.) Capuron,Datiscaceae,Nesogordonia,ACCEPTED,97,EXACT,3670970,False,Nesogordonia papaverifera,No,Pending,,,,Nesogordonia papaverifera
 Pavetta corymbosa,Pavetta corymbosa (DC.) F.N.Williams,Rubiaceae,Pavetta,ACCEPTED,93,VARIANT,2924761,False,Pavetta corymbosia,No,Pending,,,,Pavetta corymbosa
 Picralima nitida,Picralima nitida (Stapf) T.Durand & H.Durand,Apocynaceae,Picralima,ACCEPTED,99,EXACT,3617063,False,Picralima nitida,No,Pending,,,,Picralima nitida
 Pycnanthus angolensis,Pycnanthus angolensis (Welw.) Exell,Myristicaceae,Pycnanthus,ACCEPTED,80,VARIANT,8025076,False,Pycanthus angolensis,No,Pending,,,,Pycnanthus angolensis
@@ -32,7 +32,7 @@ Brachystegia eurycoma,Brachystegia eurycoma Harms,Fabaceae,Brachystegia,ACCEPTED
 Bridelia ferruginea,Bridelia ferruginea Benth.,Phyllanthaceae,Bridelia,ACCEPTED,99,EXACT,3076157,False,Bridelia ferruginea,No,Pending,,,,Bridelia ferruginea
 Cassia siamea,Cassia siamea Lam.,Fabaceae,Cassia,SYNONYM,92,VARIANT,5353880,True,Cassia saimen,No,Pending,,,,Cassia siamea
 Ceiba pentandra,Ceiba pentandra (L.) Gaertn.,Malvaceae,Ceiba,ACCEPTED,98,EXACT,5406697,False,Ceiba pentandra,No,Pending,,,,Ceiba pentandra
-,,,,,100,NONE,,False,Diospyrous melistoformis,No,Pending,,,,Diospyros mespiliformis
+,,Ebenaceae,Diospyros,ACCEPTED,100,NONE,,False,Diospyrous melistoformis,No,Pending,,,,Diospyros mespiliformis
 Drypetes,Drypetes Vahl,Putranjivaceae,,ACCEPTED,94,EXACT,3075615,False,Drypetes,No,Pending,,,,Drypetes
 Funtumia africana,Funtumia africana (Benth.) Stapf,Apocynaceae,Funtumia,ACCEPTED,99,EXACT,3169842,False,Funtumia africana,No,Pending,,,,Funtumia africana
 Funtumia elastica,Funtumia elastica (Preuss) Stapf,Apocynaceae,Funtumia,ACCEPTED,98,EXACT,3169843,False,Funtumia elastica,No,Pending,,,,Funtumia elastica
@@ -53,10 +53,9 @@ Spondias mombin,Spondias mombin Jacq.,Anacardiaceae,Spondias,ACCEPTED,83,VARIANT
 Sterculia oblonga,Sterculia oblonga Mast.,Malvaceae,Sterculia,ACCEPTED,99,EXACT,5545938,False,Sterculia oblonga,No,Pending,,,,Sterculia oblonga
 Strombosia pustulata,Strombosia pustulata Oliv.,Strombosiaceae,Strombosia,ACCEPTED,99,EXACT,7326453,False,Strombosia pustulata,No,Pending,,,,Strombosia pustulata
 Terminalia superba,Terminalia superba Engl. & Diels,Combretaceae,Terminalia,ACCEPTED,99,EXACT,3189393,False,Terminalia superba,No,Pending,,,,Terminalia superba
-Magnoliopsida,Magnoliopsida,,,ACCEPTED,92,HIGHERRANK,220,False,Albizia auxilary,No,Pending,,,,Magnoliopsida
 Anonidium mannii,Anonidium mannii (Oliv.) Engl. & Diels,Annonaceae,Anonidium,ACCEPTED,85,VARIANT,3158147,False,Annonidium manni,No,Pending,,,,Anonidium mannii
 Blighia unijugata,Blighia unijugata Baker,Sapindaceae,Blighia,ACCEPTED,95,VARIANT,3788159,False,Blighia unijigata,No,Pending,,,,Blighia unijugata
-,,,,,100,NONE,,False,Cleistoformis patens,No,Pending,,,,Cleistopholis patens
+,,Annonaceae,Cleistopholis,ACCEPTED,100,NONE,,False,Cleistoformis patens,No,Pending,,,,Cleistopholis patens
 Dialium guineense,Dialium guineense Willd.,Fabaceae,Dialium,ACCEPTED,99,EXACT,2971007,False,Dialium guineense,No,Pending,,,,Dialium guineense
 Diospyros soubreana,Diospyros soubreana F.White,Ebenaceae,Diospyros,ACCEPTED,99,EXACT,4070593,False,Diospyros soubreana,No,Pending,,,,Diospyros soubreana
 Diospyros undabunda,Diospyros undabunda Hiern ex Greves,Ebenaceae,Diospyros,SYNONYM,92,VARIANT,4071060,True,Diospyros undebunda,No,Pending,,,,Diospyros undabunda
@@ -64,10 +63,10 @@ Garcinia kola,Garcinia kola Heckel,Clusiaceae,Garcinia,ACCEPTED,99,EXACT,3189563
 Milicia excelsa,Milicia excelsa (Welw.) C.C.Berg,Moraceae,Milicia,ACCEPTED,99,EXACT,3763589,False,Milicia excelsa,No,Pending,,,,Milicia excelsa
 Musanga cecropioides,Musanga cecropioides R.Br. ex Tedlie,Urticaceae,Musanga,ACCEPTED,92,VARIANT,5643189,False,Musanga cecropoidies,No,Pending,,,,Musanga cecropioides
 Myrianthus arboreus,Myrianthus arboreus P.Beauv.,Urticaceae,Myrianthus,ACCEPTED,99,EXACT,4013416,False,Myrianthus arboreus,No,Pending,,,,Myrianthus arboreus
-,,,,,100,NONE,,False,Nesodogornia papaverifera,No,Pending,,,,Nesogordonia papaverifera
+,,Datiscaceae,Nesogordonia,ACCEPTED,100,NONE,,False,Nesodogornia papaverifera,No,Pending,,,,Nesogordonia papaverifera
 Piptadeniastrum africanum,Piptadeniastrum africanum (Hook.f.) Brenan,Fabaceae,Piptadeniastrum,ACCEPTED,99,EXACT,2945196,False,Piptadeniastrum africanum,No,Pending,,,,Piptadeniastrum africanum
 Ricinodendron heudelotii,Ricinodendron heudelotii (Baill.) Heckel,Euphorbiaceae,Ricinodendron,ACCEPTED,80,VARIANT,3071632,False,Ricinidendron heudeloti,No,Pending,,,,Ricinodendron heudelotii
-,,,,,100,NONE,,False,Scotellia coriacea,No,Pending,,,,Scotellia coriacea
+,,Achariaceae,Scotellia,ACCEPTED,100,NONE,,False,Scotellia coriacea,No,Pending,,,,Scotellia coriacea
 Strombosia,Strombosia Blume,Strombosiaceae,,ACCEPTED,94,HIGHERRANK,7326448,False,Strombosia putulata,No,Pending,,,,Strombosia
 Uapaca heudelotii,Uapaca heudelotii Baill.,Phyllanthaceae,Uapaca,ACCEPTED,99,EXACT,3079870,False,Uapaca heudelotii,No,Pending,,,,Uapaca heudelotii
 Zanthoxylum zanthoxyloides,Zanthoxylum zanthoxyloides (Lam.) Zepern. & Timler,Rutaceae,Zanthoxylum,ACCEPTED,99,EXACT,3833043,False,Zanthoxylum zanthoxyloides,No,Pending,,,,Zanthoxylum zanthoxyloides
@@ -81,13 +80,13 @@ Millettia thonningii,Millettia thonningii (Schumach. & Thonn.) Baker,Fabaceae,Mi
 Monodora tenuifolia,Monodora tenuifolia Benth.,Annonaceae,Monodora,ACCEPTED,99,EXACT,3154093,False,Monodora tenuifolia,No,Pending,,,,Monodora tenuifolia
 Pycnanthus angolensis,Pycnanthus angolensis (Welw.) Exell,Myristicaceae,Pycnanthus,ACCEPTED,97,EXACT,8025076,False,Pycnanthus angolensis,No,Pending,,,,Pycnanthus angolensis
 Ricinodendron heudelotii,Ricinodendron heudelotii (Baill.) Heckel,Euphorbiaceae,Ricinodendron,ACCEPTED,97,EXACT,3071632,False,Ricinodendron heudelotii,No,Pending,,,,Ricinodendron heudelotii
-,,,,,100,NONE,,False,Scotellia coricea,No,Pending,,,,Scotellia coriacea
+,,Achariaceae,Scotellia,ACCEPTED,100,NONE,,False,Scotellia coricea,No,Pending,,,,Scotellia coriacea
 Trichilia gilgiana,Trichilia gilgiana Harms,Meliaceae,Trichilia,ACCEPTED,99,EXACT,3850663,False,Trichilia gilgiana,No,Pending,,,,Trichilia gilgiana
 Bosqueia angolensis,Bosqueia angolensis Ficalho,Moraceae,Bosqueia,SYNONYM,84,VARIANT,3763770,True,Bosquei angolensis,No,Pending,,,,Bosqueia angolensis
 Dialium guineense,Dialium guineense Willd.,Fabaceae,Dialium,ACCEPTED,95,VARIANT,2971007,False,Dialium guinensis,No,Pending,,,,Dialium guineense
 Homalium aylmeri,Homalium aylmeri Hutch. & Dalziel,Salicaceae,Homalium,SYNONYM,94,VARIANT,7428568,True,Homalium alymeri,No,Pending,,,,Homalium aylmeri
 Musanga cecropioides,Musanga cecropioides R.Br. ex Tedlie,Urticaceae,Musanga,ACCEPTED,94,VARIANT,5643189,False,Musanga cecropiodes,No,Pending,,,,Musanga cecropioides
-,,,,,100,NONE,,False,Nesodogornia papaverivera,No,Pending,,,,Nesogordonia papaverifera
+,,Datiscaceae,Nesogordonia,ACCEPTED,100,NONE,,False,Nesodogornia papaverivera,No,Pending,,,,Nesogordonia papaverifera
 Pavetta corymbosa,Pavetta corymbosa (DC.) F.N.Williams,Rubiaceae,Pavetta,ACCEPTED,97,EXACT,2924761,False,Pavetta corymbosa,No,Pending,,,,Pavetta corymbosa
 Ricinodendron heudelotii,Ricinodendron heudelotii (Baill.) Heckel,Euphorbiaceae,Ricinodendron,ACCEPTED,95,VARIANT,3071632,False,Ricinodendron heudeloti,No,Pending,,,,Ricinodendron heudelotii
 Baphia nitida,Baphia nitida G.Lodd.,Fabaceae,Baphia,ACCEPTED,99,EXACT,5352599,False,Baphia nitida,No,Pending,,,,Baphia nitida
@@ -95,7 +94,7 @@ Diospyros mespiliformis,Diospyros mespiliformis Hochst. ex A.DC.,Ebenaceae,Diosp
 Hildegardia barteri,Hildegardia barteri (Mast.) Kosterm.,Malvaceae,Hildegardia,ACCEPTED,99,EXACT,5545403,False,Hildegardia barteri,No,Pending,,,,Hildegardia barteri
 Maesobotrya barteri,Maesobotrya barteri (Baill.) Hutch.,Phyllanthaceae,Maesobotrya,ACCEPTED,99,EXACT,3079229,False,Maesobotrya barteri,No,Pending,,,,Maesobotrya barteri
 Rinorea dentata,Rinorea dentata (P.Beauv.) Kuntze,Violaceae,Rinorea,ACCEPTED,98,EXACT,4076330,False,Rinorea dentata,No,Pending,,,,Rinorea dentata
-,,,,,100,NONE,,False,Scotellia coriaceae,No,Pending,,,,Scotellia coriacea
+,,Achariaceae,Scotellia,ACCEPTED,100,NONE,,False,Scotellia coriaceae,No,Pending,,,,Scotellia coriacea
 Zanthoxylum,Zanthoxylum L.,Rutaceae,,ACCEPTED,94,HIGHERRANK,3190076,False,Zanthoxylum xanthoxyloides,No,Pending,,,,Zanthoxylum
 Albizia ferruginea,Albizia ferruginea (Guill. & Perr.) Benth.,Fabaceae,Albizia,ACCEPTED,99,EXACT,2973196,False,Albizia ferruginea,No,Pending,,,,Albizia ferruginea
 Aningeria robusta,Aningeria robusta (A.Chev.) Aubrév. & Pellegr.,Sapotaceae,Aningeria,SYNONYM,98,EXACT,2884668,True,Aningeria robusta,No,Pending,,,,Aningeria robusta
@@ -112,12 +111,12 @@ Mitragyna ciliata,Mitragyna ciliata Aubrév. & Pellegr.,Rubiaceae,Mitragyna,ACCE
 Pterocarpus,Pterocarpus Jacq.,Fabaceae,,ACCEPTED,92,HIGHERRANK,5349236,False,Pterocarpus santoxyloides,No,Pending,,,,Pterocarpus
 Tetrapleura tetraptera,Tetrapleura tetraptera (Schumach. & Thonn.) Taub.,Fabaceae,Tetrapleura,ACCEPTED,99,EXACT,5347354,False,Tetrapleura tetraptera,No,Pending,,,,Tetrapleura tetraptera
 Uapaca heudelotii,Uapaca heudelotii Baill.,Phyllanthaceae,Uapaca,ACCEPTED,96,VARIANT,3079870,False,Uapaca heudeloti,No,Pending,,,,Uapaca heudelotii
-,,,,,100,NONE,,False,Alstonei bonei,No,Pending,,,,Alstonia boonei
+,,Apocynaceae,Alstonia,ACCEPTED,100,NONE,,False,Alstonei bonei,No,Pending,,,,Alstonia boonei
 Anthocleista vogelii,Anthocleista vogelii Planch.,Gentianaceae,Anthocleista,ACCEPTED,85,VARIANT,4018973,False,Anthocliesta vogelii,No,Pending,,,,Anthocleista vogelii
 Bombax buonopozense,Bombax buonopozense Beauverd,Malvaceae,Bombax,ACCEPTED,99,EXACT,4073599,False,Bombax buonopozense,No,Pending,,,,Bombax buonopozense
 Elaeis guineensis,Elaeis guineensis Jacq.,Arecaceae,Elaeis,ACCEPTED,95,VARIANT,2731882,False,Elaeis guinensis,No,Pending,,,,Elaeis guineensis
 Ficus mucuso,Ficus mucuso Welw. ex Ficalho,Moraceae,Ficus,ACCEPTED,94,VARIANT,5570950,False,Ficus mucosa,No,Pending,,,,Ficus mucuso
-,,,,,100,NONE,,False,Macranga bateri,No,Pending,,,,Macaranga barteri
+,,Euphorbiaceae,Macaranga,ACCEPTED,100,NONE,,False,Macranga bateri,No,Pending,,,,Macaranga barteri
 Nauclea diderrichii,Nauclea diderrichii (De Wild.) Merr.,Rubiaceae,Nauclea,ACCEPTED,99,EXACT,5339118,False,Nauclea diderrichii,No,Pending,,,,Nauclea diderrichii
 Terminalia superba,Terminalia superba Engl. & Diels,Combretaceae,Terminalia,ACCEPTED,85,VARIANT,3189393,False,Termialia superba,No,Pending,,,,Terminalia superba
 Theobroma cacao,Theobroma cacao L.,Malvaceae,Theobroma,ACCEPTED,99,EXACT,3152205,False,Theobroma cacao,No,Pending,,,,Theobroma cacao

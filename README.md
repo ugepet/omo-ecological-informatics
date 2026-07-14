@@ -278,3 +278,54 @@
 
 # Ibadan, Nigeria
 
+
+
+\## Current Progress
+
+
+
+\### Completed
+
+
+
+✅ Notebook 01 – Data Compilation
+
+
+
+✅ Notebook 02 – Taxonomic Standardization
+
+
+
+✅ Notebook 03 – Taxonomic Harmonization
+
+
+
+✅ Notebook 04 – Ecological Characterization
+
+
+
+\### Current Outputs
+
+
+
+\- Analysis-ready ecological dataset
+
+\- 17 publication-ready tables
+
+\- 11 publication-ready figures
+
+\- Biodiversity assessment
+
+\- Community dominance analysis
+
+
+
+\### Next Stage
+
+
+
+Notebook 05 – Advanced Community Ecology
+
+
+
+

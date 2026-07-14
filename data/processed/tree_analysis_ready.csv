@@ -1,0 +1,207 @@
+Species,Plot1,Plot2,Plot3,Plot4,Plot5,Plot6,Plot7,Plot8,Plot9,Plot10,Frequency,Individuals,Density,Relative_Density,Relative_Frequency,RIV,Zone,Habitat,Taxonomic_Resolution,Family,Genus,Taxonomic_Status
+Alstonia boonei,1.0,,,,,1.0,,,,1.0,2,2,0.0027,1.156,2.04,1.5984,Buffer,Major River,Species,Apocynaceae,Alstonia,ACCEPTED
+Blighia sapida,2.0,,1.0,1.0,,,1.0,,1.0,1.0,5,5,0.0068,2.8901,5.102,3.9961,Buffer,Major River,Species,Sapindaceae,Blighia,ACCEPTED
+Bombax buonopozense,,,,2.0,1.0,2.0,1.0,,1.0,,5,7,0.0096,4.0462,5.102,4.5741,Buffer,Major River,Species,Malvaceae,Bombax,ACCEPTED
+Bosqueia angolensis,,,,2.0,,,1.0,,1.0,,3,4,0.0055,2.3121,3.0612,2.6866,Buffer,Major River,Species,Moraceae,Bosqueia,SYNONYM
+Celtis zenkeri,,1.0,,1.0,1.0,,1.0,2.0,,,4,5,0.0068,2.8901,4.0816,3.4859,Buffer,Major River,Species,Cannabaceae,Celtis,ACCEPTED
+Cleistopholis patens,1.0,2.0,1.0,1.0,,1.0,1.0,2.0,1.0,1.0,7,8,0.011,4.6242,7.1428,5.8835,Buffer,Major River,Species,Annonaceae,Cleistopholis,ACCEPTED
+Dialium guineense,,,,,,,1.0,,1.0,,2,2,0.0027,1.156,2.0408,1.5984,Buffer,Major River,Species,Fabaceae,Dialium,ACCEPTED
+Dillenia indica,,,,,,1.0,,,1.0,,2,2,0.0027,1.156,2.0408,1.5984,Buffer,Major River,Species,Dilleniaceae,Dillenia,ACCEPTED
+Diospyros dendo,5.0,1.0,6.0,4.0,,4.0,2.0,5.0,1.0,2.0,9,30,0.0413,17.341,9.1836,13.262,Buffer,Major River,Species,Ebenaceae,Diospyros,ACCEPTED
+Ficus exasperata,1.0,,,,,1.0,,,,2.0,3,4,0.0055,2.3121,3.0617,2.6866,Buffer,Major River,Species,Moraceae,Ficus,ACCEPTED
+Grewia pubescens,5.0,2.0,1.0,,,3.0,,,1.0,3.0,6,15,0.0206,8.6705,6.1224,7.3964,Buffer,Major River,Species,Malvaceae,Grewia,ACCEPTED
+Homalium aylmeri,,,2.0,1.0,,1.0,,,1.0,,4,5,0.0068,2.8901,4.0816,3.4859,Buffer,Major River,Species,Salicaceae,Homalium,SYNONYM
+Lecaniodiscus cupanioides,,1.0,,,,,,1.0,,,2,2,0.0027,1.156,2.0408,1.5984,Buffer,Major River,Species,Sapindaceae,Lecaniodiscus,ACCEPTED
+Margaritaria discoidea,,3.0,,,,,,1.0,,2.0,3,6,0.0082,3.4682,3.0612,3.2647,Buffer,Major River,Species,Phyllanthaceae,Margaritaria,ACCEPTED
+Musanga cecropioides,1.0,,2.0,1.0,2.0,2.0,2.0,,1.0,1.0,8,12,0.0165,6.9364,8.1632,7.5498,Buffer,Major River,Species,Urticaceae,Musanga,ACCEPTED
+Nesogordonia papaverifera,,,1.0,,,,,,,,1,1,0.0013,0.578,1.0204,0.7992,Buffer,Major River,Species,Datiscaceae,Nesogordonia,ACCEPTED
+Pavetta corymbosa,,,,,,,1.0,,,,1,1,0.0013,0.578,1.0204,0.7992,Buffer,Major River,Species,Rubiaceae,Pavetta,ACCEPTED
+Picralima nitida,,1.0,,,,,,2.0,,,2,3,0.0041,1.7341,2.0408,1.8876,Buffer,Major River,Species,Apocynaceae,Picralima,ACCEPTED
+Pycnanthus angolensis,,,2.0,,,2.0,,1.0,1.0,,4,6,0.0082,3.4682,4.0816,3.7749,Buffer,Major River,Species,Myristicaceae,Pycnanthus,ACCEPTED
+Ricinodendron heudelotii,1.0,1.0,,,,,,,,,2,2,0.0027,1.156,2.0408,1.5984,Buffer,Major River,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Sterculia rhinopetala,3.0,,,,1.0,1.0,,,1.0,,4,6,0.0082,3.4682,4.0816,3.7749,Buffer,Major River,Species,Malvaceae,Sterculia,ACCEPTED
+Sterculia tragacantha,1.0,,,,,,,,,,1,1,0.0013,0.578,1.0204,0.7992,Buffer,Major River,Species,Malvaceae,Sterculia,ACCEPTED
+Strombosia pustulata,,1.0,1.0,1.0,,2.0,,,1.0,,5,6,0.0082,3.4682,5.102,4.2851,Buffer,Major River,Species,Strombosiaceae,Strombosia,ACCEPTED
+Trichilia monadelpha,,,1.0,2.0,,1.0,,,,1.0,4,5,0.0068,2.8901,4.0816,3.4859,Buffer,Major River,Species,Meliaceae,Trichilia,ACCEPTED
+Afzelia africana,,,,,1.0,,1.0,1.0,1.0,,4,4,0.00552,1.80995,3.63636,2.7232,Buffer,Stream,Species,Fabaceae,Afzelia,ACCEPTED
+Albizia zygia,,1.0,,,,1.0,,,,,2,2,0.00276,0.90498,1.81818,1.3616,Buffer,Stream,Species,Fabaceae,Albizia,ACCEPTED
+Alstonia boonei,,,,,2.0,,,1.0,1.0,1.0,4,5,0.0069,2.26244,3.63636,2.9494,Buffer,Stream,Species,Apocynaceae,Alstonia,ACCEPTED
+Anthocleista djalonensis,1.0,1.0,,1.0,3.0,,,1.0,1.0,2.0,7,10,0.01379,4.52489,6.36364,5.4443,Buffer,Stream,Species,Gentianaceae,Anthocleista,ACCEPTED
+Anthocleista vogelii,,,,,,,,,1.0,,1,1,0.00138,0.45249,0.90909,0.6808,Buffer,Stream,Species,Gentianaceae,Anthocleista,ACCEPTED
+Brachystegia eurycoma,,,7.0,1.0,,,3.0,1.0,,2.0,5,14,0.01931,6.33484,4.54545,5.4401,Buffer,Stream,Species,Fabaceae,Brachystegia,ACCEPTED
+Bridelia ferruginea,1.0,1.0,,,1.0,1.0,,1.0,2.0,1.0,7,8,0.01103,3.61991,6.36364,4.9918,Buffer,Stream,Species,Phyllanthaceae,Bridelia,ACCEPTED
+Cassia siamea,12.0,10.0,,,,8.0,,,6.0,2.0,5,38,0.05241,17.1946,4.54545,10.87,Buffer,Stream,Species,Fabaceae,Cassia,SYNONYM
+Ceiba pentandra,,,1.0,,,,1.0,,,1.0,3,3,0.00414,1.35747,2.72727,2.0424,Buffer,Stream,Species,Malvaceae,Ceiba,ACCEPTED
+Cleistopholis patens,,,1.0,,2.0,1.0,3.0,1.0,,3.0,6,11,0.01517,4.97738,5.45455,5.216,Buffer,Stream,Species,Annonaceae,Cleistopholis,ACCEPTED
+Diospyros dendo,,,2.0,3.0,,,3.0,1.0,,,4,9,0.01241,4.0724,3.63636,3.8544,Buffer,Stream,Species,Ebenaceae,Diospyros,ACCEPTED
+Diospyros mespiliformis,,,,1.0,,,,1.0,,,2,2,0.00276,0.90498,1.81818,1.3616,Buffer,Stream,Species,Ebenaceae,Diospyros,ACCEPTED
+Funtumia africana,,,2.0,,,,1.0,,,2.0,3,5,0.0069,2.26244,2.72727,2.4949,Buffer,Stream,Species,Apocynaceae,Funtumia,ACCEPTED
+Funtumia elastica,,,2.0,3.0,,,1.0,1.0,,,4,7,0.00966,3.16742,3.63636,3.4019,Buffer,Stream,Species,Apocynaceae,Funtumia,ACCEPTED
+Gmelina arborea,6.0,1.0,,,,3.0,,,,1.0,4,11,0.01517,4.97738,3.63636,4.3069,Buffer,Stream,Species,Lamiaceae,Gmelina,ACCEPTED
+Harungana madagascariensis,,2.0,,,,2.0,,,,1.0,3,5,0.0069,2.26244,2.72727,2.4949,Buffer,Stream,Species,Hypericaceae,Harungana,ACCEPTED
+Hexalobus crispiflorus,,,,8.0,,,1.0,2.0,,,3,11,0.01517,4.97738,2.72727,3.8523,Buffer,Stream,Species,Annonaceae,Hexalobus,ACCEPTED
+Holarrhena floribunda,,,,1.0,,,1.0,,,,2,2,0.00276,0.90498,1.81818,1.3616,Buffer,Stream,Species,Apocynaceae,Holarrhena,ACCEPTED
+Macaranga barteri,5.0,4.0,1.0,10.0,,3.0,2.0,1.0,4.0,1.0,9,31,0.04276,14.0271,8.18182,11.104,Buffer,Stream,Species,Euphorbiaceae,Macaranga,ACCEPTED
+Malacantha alnifolia,,,,3.0,,,,1.0,,,2,4,0.00552,1.80995,1.81818,1.8141,Buffer,Stream,Species,Sapotaceae,Malacantha,ACCEPTED
+Musanga cecropioides,,,,,2.0,,,,,2.0,2,4,0.00552,1.80995,1.81818,1.8141,Buffer,Stream,Species,Urticaceae,Musanga,ACCEPTED
+Nauclea diderrichii,,,,,2.0,,,3.0,2.0,2.0,4,4,0.00552,1.80995,3.63636,2.7232,Buffer,Stream,Species,Rubiaceae,Nauclea,ACCEPTED
+Nothospondias staudtii,,,,,3.0,,,,,3.0,2,6,0.00828,2.71493,1.81818,2.2666,Buffer,Stream,Species,Simaroubaceae,Nothospondias,ACCEPTED
+Pterocarpus osun,,,,1.0,,,,,,,1,1,0.00138,0.45249,0.90909,0.6808,Buffer,Stream,Species,Fabaceae,Pterocarpus,ACCEPTED
+Rauvolfia vomitoria,1.0,,,,,,,,,,1,1,0.00138,0.45249,0.90909,0.6808,Buffer,Stream,Species,Apocynaceae,Rauvolfia,ACCEPTED
+Rothmannia hispida,,,,1.0,,,,,1.0,,2,2,0.00276,0.90498,1.81818,1.3616,Buffer,Stream,Species,Rubiaceae,Rothmannia,ACCEPTED
+Spondias mombin,1.0,,,,,1.0,,,1.0,,3,3,0.00414,1.35747,2.72727,2.0424,Buffer,Stream,Species,Anacardiaceae,Spondias,ACCEPTED
+Sterculia oblonga,,,,,1.0,,,,1.0,,2,3,0.00414,1.35747,1.81818,1.5878,Buffer,Stream,Species,Malvaceae,Sterculia,ACCEPTED
+Sterculia rhinopetala,,,,,1.0,,,,1.0,,2,2,0.00276,0.90498,1.81818,1.3616,Buffer,Stream,Species,Malvaceae,Sterculia,ACCEPTED
+Strombosia pustulata,,,,2.0,,,1.0,1.0,,,4,4,0.00552,1.80995,3.63636,2.7232,Buffer,Stream,Species,Strombosiaceae,Strombosia,ACCEPTED
+Terminalia superba,,,,,1.0,,,1.0,1.0,,3,3,0.00414,1.35747,2.72727,2.0424,Buffer,Stream,Species,Combretaceae,Terminalia,ACCEPTED
+Alstonia boonei,1.0,,,,1.0,,1.0,1.0,2.0,1.0,6,7,0.0096,3.04348,5.172414,4.107946,Buffer,Upland,Species,Apocynaceae,Alstonia,ACCEPTED
+Anonidium mannii,,,,6.0,2.0,2.0,2.0,,1.0,1.0,6,14,0.0193,6.08696,5.172414,5.629685,Buffer,Upland,Species,Annonaceae,Anonidium,ACCEPTED
+Blighia sapida,,,,1.0,,,1.0,1.0,,,3,3,0.0041,1.30435,2.586207,1.945277,Buffer,Upland,Species,Sapindaceae,Blighia,ACCEPTED
+Blighia unijugata,,1.0,,,,,,,1.0,1.0,3,3,0.0041,1.30435,2.586207,1.945277,Buffer,Upland,Species,Sapindaceae,Blighia,ACCEPTED
+Celtis zenkeri,,1.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,9,12,0.0165,5.21739,7.758621,6.488006,Buffer,Upland,Species,Cannabaceae,Celtis,ACCEPTED
+Cleistopholis patens,1.0,,,,1.0,,,1.0,1.0,,4,4,0.0055,1.73913,3.448276,2.593703,Buffer,Upland,Species,Annonaceae,Cleistopholis,ACCEPTED
+Dialium guineense,,1.0,1.0,,,1.0,1.0,2.0,,1.0,6,7,0.0096,3.04348,5.172414,4.107946,Buffer,Upland,Species,Fabaceae,Dialium,ACCEPTED
+Diospyros dendo,,3.0,9.0,9.0,1.0,,2.0,3.0,3.0,3.0,8,33,0.0455,14.3478,6.896552,10.62219,Buffer,Upland,Species,Ebenaceae,Diospyros,ACCEPTED
+Diospyros soubreana,,,,1.0,,3.0,,,2.0,,3,6,0.0082,2.6087,2.586207,2.597451,Buffer,Upland,Species,Ebenaceae,Diospyros,ACCEPTED
+Diospyros undabunda,1.0,,,,,,,1.0,,,2,2,0.0027,0.86957,1.724138,1.296852,Buffer,Upland,Species,Ebenaceae,Diospyros,SYNONYM
+Funtumia elastica,,1.0,,,6.0,,1.0,,1.0,1.0,5,11,0.0151,4.78261,4.310345,4.546477,Buffer,Upland,Species,Apocynaceae,Funtumia,ACCEPTED
+Garcinia kola,,,,1.0,,,,1.0,,1.0,3,3,0.0041,1.30435,2.586207,1.945277,Buffer,Upland,Species,Clusiaceae,Garcinia,ACCEPTED
+Holarrhena floribunda,,,2.0,,,,,1.0,,,2,3,0.0041,1.30435,1.724138,1.514243,Buffer,Upland,Species,Apocynaceae,Holarrhena,ACCEPTED
+Lecaniodiscus cupanioides,,1.0,,,,1.0,,,,1.0,3,3,0.0041,1.30435,2.586207,1.945277,Buffer,Upland,Species,Sapindaceae,Lecaniodiscus,ACCEPTED
+Milicia excelsa,,,,,1.0,1.0,,,,,2,2,0.0027,0.86957,1.724138,1.296852,Buffer,Upland,Species,Moraceae,Milicia,ACCEPTED
+Musanga cecropioides,1.0,,,1.0,,1.0,1.0,,,1.0,5,5,0.0068,2.17391,4.310345,3.242129,Buffer,Upland,Species,Urticaceae,Musanga,ACCEPTED
+Myrianthus arboreus,1.0,,,,,,,,,,1,1,0.0013,0.4347,0.862,0.6484,Buffer,Upland,Species,Urticaceae,Myrianthus,ACCEPTED
+Nesogordonia papaverifera,,2.0,1.0,1.0,1.0,1.0,2.0,2.0,,1.0,8,11,0.0151,4.7826,6.8965,5.8395,Buffer,Upland,Species,Datiscaceae,Nesogordonia,ACCEPTED
+Piptadeniastrum africanum,,1.0,,,,,1.0,,,1.0,3,3,0.0041,1.3043,2.5862,1.9452,Buffer,Upland,Species,Fabaceae,Piptadeniastrum,ACCEPTED
+Ricinodendron heudelotii,,,,,1.0,,,,1.0,1.0,3,3,0.0041,1.3043,2.5862,1.9452,Buffer,Upland,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Scotellia coriacea,,,,,,,,1.0,2.0,,2,3,0.0041,1.3043,1.7241,1.5142,Buffer,Upland,Species,Achariaceae,Scotellia,ACCEPTED
+Sterculia rhinopetala,,,,,4.0,,1.0,,,1.0,3,6,0.0082,2.6087,2.5862,2.5974,Buffer,Upland,Species,Malvaceae,Sterculia,ACCEPTED
+Terminalia superba,,,,11.0,,1.0,,,1.0,,3,13,0.0179,5.6521,2.5862,4.1191,Buffer,Upland,Species,Combretaceae,Terminalia,ACCEPTED
+Uapaca heudelotii,,,1.0,,,,,,,,1,1,0.0013,0.4347,0.862,0.6484,Buffer,Upland,Species,Phyllanthaceae,Uapaca,ACCEPTED
+Zanthoxylum zanthoxyloides,,,1.0,,,,1.0,,,,2,2,0.0027,0.8695,1.7241,1.2968,Buffer,Upland,Species,Rutaceae,Zanthoxylum,ACCEPTED
+Anonidium mannii,2.0,2.0,1.0,,,1.0,,2.0,1.0,,6,9,0.0144,3.3707,4.918,4.1444,Core,Major River,Species,Annonaceae,Anonidium,ACCEPTED
+Anthonotha macrophylla,,,1.0,,,,2.0,,2.0,,3,5,0.008,1.8726,2.459,2.1658,Core,Major River,Species,Fabaceae,Anthonotha,ACCEPTED
+Blighia sapida,,1.0,,,,,,,1.0,,2,2,0.032,0.749,1.6393,1.1942,Core,Major River,Species,Sapindaceae,Blighia,ACCEPTED
+Celtis zenkeri,4.0,,,,,1.0,,1.0,,,3,6,0.0069,2.2471,2.459,2.3531,Core,Major River,Species,Cannabaceae,Celtis,ACCEPTED
+Cleistopholis patens,1.0,,,1.0,,,1.0,1.0,,1.0,5,5,0.08,1.8726,4.0983,2.9855,Core,Major River,Species,Annonaceae,Cleistopholis,ACCEPTED
+Diospyros dendo,3.0,1.0,2.0,5.0,7.0,7.0,5.0,6.0,8.0,8.0,10,52,0.0832,19.4756,8.1967,13.836,Core,Major River,Species,Ebenaceae,Diospyros,ACCEPTED
+Funtumia elastica,,,,2.0,,,3.0,,1.0,1.0,4,7,0.0112,2.6217,3.2786,2.9502,Core,Major River,Species,Apocynaceae,Funtumia,ACCEPTED
+Homalium aylmeri,1.0,2.0,,2.0,,1.0,1.0,1.0,,1.0,7,9,0.0144,3.3707,5.7377,4.5542,Core,Major River,Species,Salicaceae,Homalium,SYNONYM
+Irvingia gabonensis,,1.0,,,,1.0,1.0,,1.0,1.0,5,5,0.008,1.8726,4.0983,2.9855,Core,Major River,Species,Irvingiaceae,Irvingia,ACCEPTED
+Lecaniodiscus cupanioides,1.0,1.0,1.0,,1.0,1.0,2.0,,,2.0,7,9,0.0144,3.3707,5.7377,4.5542,Core,Major River,Species,Sapindaceae,Lecaniodiscus,ACCEPTED
+Margaritaria discoidea,,,1.0,1.0,1.0,,3.0,1.0,3.0,,6,10,0.016,3.7453,4.918,4.3316,Core,Major River,Species,Phyllanthaceae,Margaritaria,ACCEPTED
+Millettia thonningii,,1.0,,,,,1.0,,1.0,,3,3,0.0048,1.1235,2.459,1.7913,Core,Major River,Species,Fabaceae,Millettia,ACCEPTED
+Monodora tenuifolia,2.0,,2.0,,,,1.0,2.0,,,4,7,0.0112,2.6217,3.2786,2.9502,Core,Major River,Species,Annonaceae,Monodora,ACCEPTED
+Nesogordonia papaverifera,1.0,1.0,,,,,1.0,,2.0,,4,5,0.008,1.8726,3.2786,2.5756,Core,Major River,Species,Datiscaceae,Nesogordonia,ACCEPTED
+Picralima nitida,,7.0,4.0,2.0,6.0,4.0,1.0,,,2.0,7,26,0.0416,9.7378,5.7377,7.7377,Core,Major River,Species,Apocynaceae,Picralima,ACCEPTED
+Pycnanthus angolensis,2.0,1.0,,,,,3.0,,1.0,,4,7,0.0112,2.6217,3.2786,2.9502,Core,Major River,Species,Myristicaceae,Pycnanthus,ACCEPTED
+Ricinodendron heudelotii,,1.0,2.0,,,,,,2.0,,3,5,0.008,1.8726,2.459,2.1658,Core,Major River,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Scotellia coriacea,,,1.0,,,,1.0,,,1.0,3,3,0.0048,1.1235,2.459,1.7913,Core,Major River,Species,Achariaceae,Scotellia,ACCEPTED
+Sterculia rhinopetala,,1.0,1.0,3.0,1.0,1.0,1.0,,,,6,8,0.0128,2.9962,4.918,3.9571,Core,Major River,Species,Malvaceae,Sterculia,ACCEPTED
+Strombosia pustulata,3.0,6.0,4.0,2.0,6.0,1.0,,3.0,,2.0,8,27,0.0432,10.1123,6.5573,8.3348,Core,Major River,Species,Strombosiaceae,Strombosia,ACCEPTED
+Trichilia gilgiana,,1.0,,1.0,,,,,1.0,,3,3,0.0048,1.1235,2.459,1.7913,Core,Major River,Species,Meliaceae,Trichilia,ACCEPTED
+Trichilia monadelpha,,,,,,1.0,,,,2.0,2,3,0.0048,1.1235,1.6393,1.3814,Core,Major River,Species,Meliaceae,Trichilia,ACCEPTED
+Uapaca heudelotii,,,,,,,,1.0,,2.0,2,3,0.0048,1.1235,1.6393,1.3814,Core,Major River,Species,Phyllanthaceae,Uapaca,ACCEPTED
+Alstonia boonei,2.0,,,,,,,,3.0,,2,5,0.008,2.74726,2.04082,2.394,Core,Stream,Species,Apocynaceae,Alstonia,ACCEPTED
+Blighia sapida,2.0,,1.0,1.0,,1.0,1.0,,,1.0,6,7,0.0112,3.84616,6.12245,4.984,Core,Stream,Species,Sapindaceae,Blighia,ACCEPTED
+Bombax buonopozense,,,,2.0,1.0,,1.0,,,,3,4,0.0064,2.19781,3.06122,2.629,Core,Stream,Species,Malvaceae,Bombax,ACCEPTED
+Bosqueia angolensis,,,,2.0,,,1.0,,,,2,3,0.0048,1.64835,2.04082,1.844,Core,Stream,Species,Moraceae,Bosqueia,SYNONYM
+Celtis zenkeri,,1.0,,1.0,1.0,3.0,,,,2.0,5,8,0.0128,4.39561,5.10204,4.748,Core,Stream,Species,Cannabaceae,Celtis,ACCEPTED
+Cleistopholis patens,,2.0,1.0,1.0,,1.0,,,,3.0,5,8,0.0128,4.39561,5.10204,4.748,Core,Stream,Species,Annonaceae,Cleistopholis,ACCEPTED
+Dialium guineense,,,,1.0,,1.0,,,,,2,2,0.0032,1.0989,2.04082,1.569,Core,Stream,Species,Fabaceae,Dialium,ACCEPTED
+Diospyros dendo,3.0,1.0,6.0,4.0,,3.0,3.0,6.0,,,7,26,0.0416,14.2857,7.14286,10.71,Core,Stream,Species,Ebenaceae,Diospyros,ACCEPTED
+Ficus exasperata,2.0,,,,,,,,2.0,,2,4,0.0064,2.19781,2.04082,2.119,Core,Stream,Species,Moraceae,Ficus,ACCEPTED
+Grewia pubescens,3.0,2.0,1.0,,,3.0,,2.0,,2.0,6,13,0.0208,7.14287,6.12245,6.632,Core,Stream,Species,Malvaceae,Grewia,ACCEPTED
+Homalium aylmeri,,,2.0,1.0,,,2.0,,,1.0,4,6,0.0036,3.29671,4.08163,3.689,Core,Stream,Species,Salicaceae,Homalium,SYNONYM
+Lecaniodiscus cupanioides,,1.0,,,,,,,,1.0,2,2,0.0032,1.0989,2.04082,1.569,Core,Stream,Species,Sapindaceae,Lecaniodiscus,ACCEPTED
+Margaritaria discoidea,1.0,3.0,,,,1.0,,,2.0,1.0,5,8,0.0128,4.39561,5.10204,4.748,Core,Stream,Species,Phyllanthaceae,Margaritaria,ACCEPTED
+Musanga cecropioides,2.0,,2.0,1.0,2.0,2.0,,2.0,,,6,11,0.0176,6.04397,6.12245,6.082,Core,Stream,Species,Urticaceae,Musanga,ACCEPTED
+Nesogordonia papaverifera,,,1.0,,,,,1.0,,,2,2,0.0032,1.0989,2.04082,1.569,Core,Stream,Species,Datiscaceae,Nesogordonia,ACCEPTED
+Pavetta corymbosa,,,,1.0,,,1.0,,,,2,2,0.0032,1.0989,2.04082,1.569,Core,Stream,Species,Rubiaceae,Pavetta,ACCEPTED
+Picralima nitida,,1.0,,,,1.0,,,,3.0,3,5,0.008,2.74726,3.06122,2.904,Core,Stream,Species,Apocynaceae,Picralima,ACCEPTED
+Pycnanthus angolensis,,,1.0,,,2.0,,1.0,,,3,4,0.0064,2.19781,3.06122,2.629,Core,Stream,Species,Myristicaceae,Pycnanthus,ACCEPTED
+Ricinodendron heudelotii,1.0,1.0,1.0,,,1.0,,,1.0,,5,5,0.008,2.74726,5.10204,3.924,Core,Stream,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Sterculia rhinopetala,2.0,,,,1.0,1.0,,,3.0,,4,7,0.0112,3.84616,4.08163,3.963,Core,Stream,Species,Malvaceae,Sterculia,ACCEPTED
+Sterculia tragacantha,2.0,,,,,,,,1.0,,2,3,0.0048,1.64835,2.04082,1.844,Core,Stream,Species,Malvaceae,Sterculia,ACCEPTED
+Strombosia pustulata,,1.0,2.0,1.0,,1.0,2.0,2.0,,2.0,7,10,0.016,5.49452,7.14286,6.318,Core,Stream,Species,Strombosiaceae,Strombosia,ACCEPTED
+Trichilia monadelpha,,,1.0,2.0,,2.0,5.0,,,,4,10,0.016,5.49452,4.08163,4.788,Core,Stream,Species,Meliaceae,Trichilia,ACCEPTED
+Anonidium mannii,,1.0,,2.0,,,,3.0,,1.0,4,7,0.009655,3.0837,3.703704,3.393702,Core,Upland,Species,Annonaceae,Anonidium,ACCEPTED
+Baphia nitida,,1.0,,,1.0,,,,3.0,1.0,4,6,0.008276,2.64317,3.703704,3.173438,Core,Upland,Species,Fabaceae,Baphia,ACCEPTED
+Blighia sapida,,,,,,1.0,,,,,1,1,0.001379,0.44053,0.925926,0.683227,Core,Upland,Species,Sapindaceae,Blighia,ACCEPTED
+Celtis zenkeri,,1.0,,,,1.0,,1.0,2.0,2.0,5,7,0.009655,3.0837,4.62963,3.856665,Core,Upland,Species,Cannabaceae,Celtis,ACCEPTED
+Diospyros dendo,8.0,8.0,7.0,8.0,6.0,9.0,9.0,10.0,8.0,7.0,10,80,0.110345,35.2423,9.259259,22.25078,Core,Upland,Species,Ebenaceae,Diospyros,ACCEPTED
+Diospyros mespiliformis,,,,,1.0,1.0,1.0,1.0,,,4,1,0.001379,0.44053,3.703704,2.072116,Core,Upland,Species,Ebenaceae,Diospyros,ACCEPTED
+Funtumia elastica,,,1.0,1.0,,1.0,,,1.0,1.0,5,5,0.006897,2.20264,4.62963,3.416137,Core,Upland,Species,Apocynaceae,Funtumia,ACCEPTED
+Garcinia kola,,,,,1.0,2.0,,1.0,,,3,4,0.005517,1.76211,2.777778,2.269946,Core,Upland,Species,Clusiaceae,Garcinia,ACCEPTED
+Hildegardia barteri,,,,,1.0,,1.0,,1.0,,3,3,0.004138,1.32159,2.777778,2.049682,Core,Upland,Species,Malvaceae,Hildegardia,ACCEPTED
+Lecaniodiscus cupanioides,,,,1.0,,,,,1.0,1.0,3,3,0.004138,1.32159,2.777778,2.049682,Core,Upland,Species,Sapindaceae,Lecaniodiscus,ACCEPTED
+Maesobotrya barteri,1.0,,1.0,3.0,2.0,,,,1.0,1.0,6,9,0.012414,3.96476,5.555556,4.760157,Core,Upland,Species,Phyllanthaceae,Maesobotrya,ACCEPTED
+Margaritaria discoidea,1.0,3.0,,1.0,,1.0,1.0,1.0,1.0,,7,9,0.012414,3.96476,6.481481,5.22312,Core,Upland,Species,Phyllanthaceae,Margaritaria,ACCEPTED
+Nauclea diderrichii,,,,1.0,,1.0,,,1.0,,3,3,0.004138,1.32159,2.777778,2.049682,Core,Upland,Species,Rubiaceae,Nauclea,ACCEPTED
+Nesogordonia papaverifera,1.0,2.0,3.0,1.0,2.0,,,2.0,1.0,,7,12,0.016552,5.28634,6.481481,5.883913,Core,Upland,Species,Datiscaceae,Nesogordonia,ACCEPTED
+Pterocarpus osun,,1.0,,,,,1.0,,,1.0,3,3,0.004138,1.32159,2.777778,2.049682,Core,Upland,Species,Fabaceae,Pterocarpus,ACCEPTED
+Pycnanthus angolensis,,1.0,,,,,1.0,1.0,,1.0,4,4,0.005517,1.76211,3.703704,2.732909,Core,Upland,Species,Myristicaceae,Pycnanthus,ACCEPTED
+Ricinodendron heudelotii,,,1.0,,1.0,,,1.0,,,3,3,0.004138,1.32159,2.777778,2.049682,Core,Upland,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Rinorea dentata,,,,,1.0,,3.0,,,,2,4,0.0055,1.76211,1.851852,1.806983,Core,Upland,Species,Violaceae,Rinorea,ACCEPTED
+Scotellia coriacea,1.0,,4.0,7.0,4.0,1.0,4.0,,1.0,3.0,8,25,0.0344,11.0132,7.407407,9.210312,Core,Upland,Species,Achariaceae,Scotellia,ACCEPTED
+Sterculia rhinopetala,,1.0,,1.0,1.0,1.0,2.0,,1.0,,6,7,0.0096,3.0837,5.555556,4.319628,Core,Upland,Species,Malvaceae,Sterculia,ACCEPTED
+Strombosia pustulata,5.0,1.0,1.0,,7.0,1.0,2.0,1.0,2.0,2.0,9,22,0.0303,9.69163,8.333333,9.012482,Core,Upland,Species,Strombosiaceae,Strombosia,ACCEPTED
+Terminalia superba,1.0,,,,,,,2.0,,1.0,3,4,0.0055,1.76211,2.777778,2.269946,Core,Upland,Species,Combretaceae,Terminalia,ACCEPTED
+Albizia ferruginea,,,,5.0,1.0,1.0,,3.0,2.0,,5,12,0.0165,8.7591,6.1728,7.4659,Transition,Major River,Species,Fabaceae,Albizia,ACCEPTED
+Aningeria robusta,,,1.0,,,1.0,,,,,2,2,0.0027,1.4598,2.4691,1.9644,Transition,Major River,Species,Sapotaceae,Aningeria,SYNONYM
+Artocarpus communis,,,,1.0,,1.0,1.0,,,1.0,4,4,0.0055,2.9197,4.9382,3.9289,Transition,Major River,Species,Moraceae,Artocarpus,SYNONYM
+Bambusa vulgaris,1.0,1.0,,,,,,,2.0,1.0,4,5,0.0068,3.6496,4.9382,4.2939,Transition,Major River,Species,Poaceae,Bambusa,ACCEPTED
+Blighia sapida,1.0,,,,,,2.0,,1.0,,3,4,0.0057,2.9197,3.7037,3.3117,Transition,Major River,Species,Sapindaceae,Blighia,ACCEPTED
+Chrysophyllum albidum,,1.0,,,,1.0,,,1.0,,3,3,0.0041,2.1897,3.7037,2.9467,Transition,Major River,Species,Sapotaceae,Chrysophyllum,SYNONYM
+Cleistopholis patens,,,,,2.0,,,2.0,,,2,4,0.0055,2.9197,2.4691,2.6944,Transition,Major River,Species,Annonaceae,Cleistopholis,ACCEPTED
+Cola nitida,,,,,1.0,,1.0,1.0,,2.0,4,5,0.0068,3.6496,4.9382,4.2939,Transition,Major River,Species,Malvaceae,Cola,ACCEPTED
+Corynanthe pachyceras,,,5.0,,,3.0,,,,1.0,3,9,0.0124,6.5693,3.7037,5.1365,Transition,Major River,Species,Rubiaceae,Corynanthe,ACCEPTED
+Diospyros dendo,,,1.0,,,,,,,2.0,2,3,0.0041,2.1897,2.4691,2.3294,Transition,Major River,Species,Ebenaceae,Diospyros,ACCEPTED
+Elaeis guineensis,,1.0,,,,,1.0,,2.0,,3,4,0.0057,2.9197,3.7037,3.3117,Transition,Major River,Species,Arecaceae,Elaeis,ACCEPTED
+Ficus exasperata,,2.0,2.0,,,1.0,,1.0,,1.0,5,7,0.0096,5.1094,6.1728,5.6411,Transition,Major River,Species,Moraceae,Ficus,ACCEPTED
+Holarrhena floribunda,,,1.0,,,,,,1.0,,2,2,0.0027,1.4598,2.4691,1.9644,Transition,Major River,Species,Apocynaceae,Holarrhena,ACCEPTED
+Lonchocarpus cyanescens,,,,,,1.0,1.0,,1.0,,3,3,0.0041,2.1897,3.7037,2.9467,Transition,Major River,Species,Fabaceae,Lonchocarpus,SYNONYM
+Macaranga barteri,,,5.0,,,,,,2.0,,2,7,0.0096,5.1094,2.4691,3.7893,Transition,Major River,Species,Euphorbiaceae,Macaranga,ACCEPTED
+Mitragyna ciliata,,,5.0,,,,,3.0,,,2,8,0.011,5.8394,2.4691,4.1542,Transition,Major River,Species,Rubiaceae,Mitragyna,ACCEPTED
+Musanga cecropioides,,4.0,,,,,,,,,1,4,0.0055,2.9197,1.2345,2.0771,Transition,Major River,Species,Urticaceae,Musanga,ACCEPTED
+Pycnanthus angolensis,2.0,,,1.0,,1.0,1.0,,1.0,1.0,6,7,0.0096,5.1094,7.4074,6.2584,Transition,Major River,Species,Myristicaceae,Pycnanthus,ACCEPTED
+Rauvolfia vomitoria,,,4.0,,,,1.0,,,,2,5,0.0068,3.6496,2.4691,3.0593,Transition,Major River,Species,Apocynaceae,Rauvolfia,ACCEPTED
+Ricinodendron heudelotii,,,,1.0,,1.0,,1.0,,,3,3,0.0041,2.1897,3.7037,2.9467,Transition,Major River,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Spondias mombin,,,,,,,1.0,,,1.0,2,2,0.0027,1.4598,2.4691,1.9644,Transition,Major River,Species,Anacardiaceae,Spondias,ACCEPTED
+Strombosia pustulata,1.0,,1.0,,,1.0,,1.0,,,4,4,0.0055,2.9197,4.9382,3.9289,Transition,Major River,Species,Strombosiaceae,Strombosia,ACCEPTED
+Terminalia superba,,,,1.0,,1.0,,,,2.0,3,4,0.0055,2.9197,3.7037,3.3117,Transition,Major River,Species,Combretaceae,Terminalia,ACCEPTED
+Tetrapleura tetraptera,1.0,,,,,1.0,,,,,2,2,0.0027,1.4598,2.4691,1.9644,Transition,Major River,Species,Fabaceae,Tetrapleura,ACCEPTED
+Trichilia monadelpha,,,6.0,,,3.0,1.0,,,3.0,4,13,0.0179,9.489,4.9382,7.2136,Transition,Major River,Species,Meliaceae,Trichilia,ACCEPTED
+Uapaca heudelotii,,1.0,,,,1.0,,,,,2,2,0.0027,1.4598,2.4691,1.9644,Transition,Major River,Species,Phyllanthaceae,Uapaca,ACCEPTED
+Albizia zygia,,,1.0,,,,1.0,,,,2,2,0.0027,0.9569,3.2258,2.0914,Transition,Stream,Species,Fabaceae,Albizia,ACCEPTED
+Alstonia boonei,,1.0,1.0,4.0,,1.0,4.0,3.0,,4.0,7,18,0.0248,8.6124,11.29,9.9514,Transition,Stream,Species,Apocynaceae,Alstonia,ACCEPTED
+Anthocleista vogelii,1.0,,1.0,14.0,12.0,,7.0,12.0,1.0,3.0,8,51,0.0703,24.401,12.903,18.653,Transition,Stream,Species,Gentianaceae,Anthocleista,ACCEPTED
+Bombax buonopozense,,1.0,,,,1.0,,,11.0,,3,13,0.0179,6.2201,4.8387,5.5294,Transition,Stream,Species,Malvaceae,Bombax,ACCEPTED
+Bridelia ferruginea,1.0,,2.0,,,2.0,1.0,,,1.0,5,7,0.0096,3.3492,8.0645,5.7069,Transition,Stream,Species,Phyllanthaceae,Bridelia,ACCEPTED
+Cleistopholis patens,4.0,2.0,,7.0,11.0,4.0,5.0,9.0,4.0,3.0,9,49,0.0675,23.445,14.516,18.981,Transition,Stream,Species,Annonaceae,Cleistopholis,ACCEPTED
+Elaeis guineensis,2.0,4.0,,,,4.0,,,4.0,,4,14,0.0193,6.6985,6.4516,6.5751,Transition,Stream,Species,Arecaceae,Elaeis,ACCEPTED
+Ficus mucuso,6.0,3.0,1.0,,,5.0,,,8.0,1.0,6,24,0.0331,11.483,9.6774,10.58,Transition,Stream,Species,Moraceae,Ficus,ACCEPTED
+Gmelina arborea,,,2.0,1.0,1.0,,2.0,2.0,,1.0,6,9,0.0124,4.3062,9.6774,6.9918,Transition,Stream,Species,Lamiaceae,Gmelina,ACCEPTED
+Harungana madagascariensis,,,,,,1.0,,,,1.0,2,2,0.0027,0.9569,3.2258,2.0914,Transition,Stream,Species,Hypericaceae,Harungana,ACCEPTED
+Macaranga barteri,1.0,,,,,1.0,,,,,2,2,0.0027,0.9569,3.2258,2.0914,Transition,Stream,Species,Euphorbiaceae,Macaranga,ACCEPTED
+Nauclea diderrichii,3.0,,,,,,,,1.0,,2,4,0.0055,1.9138,3.2258,2.5698,Transition,Stream,Species,Rubiaceae,Nauclea,ACCEPTED
+Terminalia superba,,1.0,4.0,,,1.0,2.0,,,3.0,5,11,0.0151,5.2631,8.0645,6.6638,Transition,Stream,Species,Combretaceae,Terminalia,ACCEPTED
+Theobroma cacao,,1.0,,,,1.0,,,1.0,,3,3,0.0041,1.4354,4.8387,3.1371,Transition,Stream,Species,Malvaceae,Theobroma,ACCEPTED
+Artocarpus communis,,,,,5.0,,,,2.0,,2,7,0.009655,7.77778,4.0,5.888889,Transition,Upland,Species,Moraceae,Artocarpus,SYNONYM
+Bambusa vulgaris,,,,,,1.0,,1.0,,,2,2,0.002759,2.22222,4.0,3.111111,Transition,Upland,Species,Poaceae,Bambusa,ACCEPTED
+Bombax buonopozense,,1.0,,,,,,,,1.0,2,2,0.002759,2.22222,4.0,3.111111,Transition,Upland,Species,Malvaceae,Bombax,ACCEPTED
+Carica papaya,,,,1.0,,,,1.0,,,2,2,0.002759,2.22222,4.0,3.111111,Transition,Upland,Species,Caricaceae,Carica,ACCEPTED
+Ceiba pentandra,1.0,,,,,1.0,,,1.0,,3,3,0.004138,3.33333,6.0,4.666667,Transition,Upland,Species,Malvaceae,Ceiba,ACCEPTED
+Chrysophyllum albidum,,,,,,1.0,,,,,1,1,0.001379,1.11111,2.0,1.555556,Transition,Upland,Species,Sapotaceae,Chrysophyllum,SYNONYM
+Citrus sinensis,,,,1.0,,,,,,,1,1,0.001379,1.11111,2.0,1.555556,Transition,Upland,Species,Rutaceae,Citrus,SYNONYM
+Cola nitida,,,,,3.0,,1.0,,,1.0,3,5,0.006897,5.55556,6.0,5.777778,Transition,Upland,Species,Malvaceae,Cola,ACCEPTED
+Dracaena mannii,1.0,,,,,,,1.0,,1.0,3,3,0.004138,3.33333,6.0,4.666667,Transition,Upland,Species,Asparagaceae,Dracaena,ACCEPTED
+Elaeis guineensis,2.0,3.0,4.0,2.0,2.0,1.0,2.0,2.0,,1.0,9,19,0.026207,21.1111,18.0,19.55556,Transition,Upland,Species,Arecaceae,Elaeis,ACCEPTED
+Ficus exasperata,,,,1.0,,,1.0,1.0,1.0,,4,4,0.005517,4.44444,8.0,6.222222,Transition,Upland,Species,Moraceae,Ficus,ACCEPTED
+Ficus mucuso,,1.0,,,,1.0,,,,,2,2,0.002759,2.22222,4.0,3.111111,Transition,Upland,Species,Moraceae,Ficus,ACCEPTED
+Musa sapientum,,,,2.0,,,,,,,1,2,0.002759,2.22222,2.0,2.111111,Transition,Upland,Species,Musaceae,Musa,SYNONYM
+Rauvolfia vomitoria,2.0,,,,,,1.0,,,,2,3,0.004138,3.33333,4.0,3.666667,Transition,Upland,Species,Apocynaceae,Rauvolfia,ACCEPTED
+Ricinodendron heudelotii,1.0,,,,,1.0,,,,1.0,3,3,0.004138,3.33333,6.0,4.666667,Transition,Upland,Species,Euphorbiaceae,Ricinodendron,ACCEPTED
+Theobroma cacao,,3.0,5.0,5.0,,1.0,5.0,3.0,4.0,2.0,8,28,0.038621,31.1111,16.0,23.55556,Transition,Upland,Species,Malvaceae,Theobroma,ACCEPTED
+Trema orientalis,,2.0,,,,,,,,,1,2,0.002759,2.22222,2.0,2.111111,Transition,Upland,Species,Cannabaceae,Trema,SYNONYM
+Uapaca heudelotii,,,,,,1.0,,,,,1,1,0.001379,1.11111,2.0,1.555556,Transition,Upland,Species,Phyllanthaceae,Uapaca,ACCEPTED

@@ -1,0 +1,91 @@
+Plot_ID,Zone,Habitat
+CmP1,Core,Major River
+CmP2,Core,Major River
+CmP3,Core,Major River
+CmP4,Core,Major River
+CmP5,Core,Major River
+CmP6,Core,Major River
+CmP7,Core,Major River
+CmP8,Core,Major River
+CmP9,Core,Major River
+CmP10,Core,Major River
+CsP1,Core,Stream
+CsP2,Core,Stream
+CsP3,Core,Stream
+CsP4,Core,Stream
+CsP5,Core,Stream
+CsP6,Core,Stream
+CsP7,Core,Stream
+CsP8,Core,Stream
+CsP9,Core,Stream
+CsP10,Core,Stream
+CuP1,Core,Upland
+CuP2,Core,Upland
+CuP3,Core,Upland
+CuP4,Core,Upland
+CuP5,Core,Upland
+CuP6,Core,Upland
+CuP7,Core,Upland
+CuP8,Core,Upland
+CuP9,Core,Upland
+CuP10,Core,Upland
+BmP1,Buffer,Major River
+BmP2,Buffer,Major River
+BmP3,Buffer,Major River
+BmP4,Buffer,Major River
+BmP5,Buffer,Major River
+BmP6,Buffer,Major River
+BmP7,Buffer,Major River
+BmP8,Buffer,Major River
+BmP9,Buffer,Major River
+BmP10,Buffer,Major River
+BsP1,Buffer,Stream
+BsP2,Buffer,Stream
+BsP3,Buffer,Stream
+BsP4,Buffer,Stream
+BsP5,Buffer,Stream
+BsP6,Buffer,Stream
+BsP7,Buffer,Stream
+BsP8,Buffer,Stream
+BsP9,Buffer,Stream
+BsP10,Buffer,Stream
+BuP1,Buffer,Upland
+BuP2,Buffer,Upland
+BuP3,Buffer,Upland
+BuP4,Buffer,Upland
+BuP5,Buffer,Upland
+BuP6,Buffer,Upland
+BuP7,Buffer,Upland
+BuP8,Buffer,Upland
+BuP9,Buffer,Upland
+BuP10,Buffer,Upland
+TmP1,Transition,Major River
+TmP2,Transition,Major River
+TmP3,Transition,Major River
+TmP4,Transition,Major River
+TmP5,Transition,Major River
+TmP6,Transition,Major River
+TmP7,Transition,Major River
+TmP8,Transition,Major River
+TmP9,Transition,Major River
+TmP10,Transition,Major River
+TsP1,Transition,Stream
+TsP2,Transition,Stream
+TsP3,Transition,Stream
+TsP4,Transition,Stream
+TsP5,Transition,Stream
+TsP6,Transition,Stream
+TsP7,Transition,Stream
+TsP8,Transition,Stream
+TsP9,Transition,Stream
+TsP10,Transition,Stream
+TuP1,Transition,Upland
+TuP2,Transition,Upland
+TuP3,Transition,Upland
+TuP4,Transition,Upland
+TuP5,Transition,Upland
+TuP6,Transition,Upland
+TuP7,Transition,Upland
+TuP8,Transition,Upland
+TuP9,Transition,Upland
+TuP10,Transition,Upland

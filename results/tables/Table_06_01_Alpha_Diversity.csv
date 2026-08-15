@@ -1,0 +1,91 @@
+Plot_ID,Zone,Habitat,Richness,Shannon,Simpson,Pielou
+CmP1,Core,Major River,12,2.294,0.881,0.923
+CmP2,Core,Major River,15,2.348,0.872,0.867
+CmP3,Core,Major River,12,2.335,0.888,0.94
+CmP4,Core,Major River,10,2.174,0.871,0.944
+CmP5,Core,Major River,7,1.694,0.793,0.871
+CmP6,Core,Major River,13,2.22,0.843,0.865
+CmP7,Core,Major River,16,2.601,0.913,0.938
+CmP8,Core,Major River,11,2.142,0.854,0.893
+CmP9,Core,Major River,13,2.24,0.858,0.873
+CmP10,Core,Major River,13,2.26,0.861,0.881
+CsP1,Core,Stream,11,2.326,0.896,0.97
+CsP2,Core,Stream,10,2.15,0.865,0.934
+CsP3,Core,Stream,12,2.222,0.861,0.894
+CsP4,Core,Stream,13,2.425,0.898,0.946
+CsP5,Core,Stream,5,1.561,0.778,0.97
+CsP6,Core,Stream,15,2.602,0.918,0.961
+CsP7,Core,Stream,9,2.028,0.848,0.923
+CsP8,Core,Stream,7,1.762,0.796,0.906
+CsP9,Core,Stream,6,1.705,0.806,0.951
+CsP10,Core,Stream,10,2.216,0.883,0.962
+CuP1,Core,Upland,8,1.645,0.737,0.791
+CuP2,Core,Upland,10,1.93,0.79,0.838
+CuP3,Core,Upland,7,1.642,0.759,0.844
+CuP4,Core,Upland,10,1.914,0.805,0.831
+CuP5,Core,Upland,13,2.24,0.861,0.873
+CuP6,Core,Upland,12,2.037,0.785,0.82
+CuP7,Core,Upland,10,1.963,0.81,0.853
+CuP8,Core,Upland,11,1.966,0.785,0.82
+CuP9,Core,Upland,14,2.311,0.854,0.876
+CuP10,Core,Upland,13,2.279,0.858,0.889
+BmP1,Buffer,Major River,10,2.055,0.844,0.893
+BmP2,Buffer,Major River,10,2.15,0.865,0.934
+BmP3,Buffer,Major River,11,2.137,0.851,0.891
+BmP4,Buffer,Major River,11,2.274,0.883,0.948
+BmP5,Buffer,Major River,5,1.561,0.778,0.97
+BmP6,Buffer,Major River,14,2.434,0.893,0.922
+BmP7,Buffer,Major River,10,2.206,0.878,0.958
+BmP8,Buffer,Major River,8,1.921,0.83,0.924
+BmP9,Buffer,Major River,14,2.567,0.914,0.973
+BmP10,Buffer,Major River,10,2.085,0.845,0.906
+BsP1,Buffer,Stream,7,1.495,0.713,0.768
+BsP2,Buffer,Stream,7,1.498,0.69,0.77
+BsP3,Buffer,Stream,8,1.826,0.79,0.878
+BsP4,Buffer,Stream,13,2.169,0.844,0.845
+BsP5,Buffer,Stream,12,2.389,0.9,0.961
+BsP6,Buffer,Stream,8,1.765,0.775,0.849
+BsP7,Buffer,Stream,11,2.264,0.883,0.944
+BsP8,Buffer,Stream,16,2.698,0.925,0.973
+BsP9,Buffer,Stream,13,2.306,0.87,0.899
+BsP10,Buffer,Stream,14,2.557,0.917,0.969
+BuP1,Buffer,Upland,7,1.946,0.857,1.0
+BuP2,Buffer,Upland,10,2.176,0.871,0.945
+BuP3,Buffer,Upland,9,1.853,0.781,0.843
+BuP4,Buffer,Upland,11,2.009,0.838,0.838
+BuP5,Buffer,Upland,11,1.933,0.796,0.806
+BuP6,Buffer,Upland,12,2.322,0.883,0.935
+BuP7,Buffer,Upland,13,2.507,0.913,0.977
+BuP8,Buffer,Upland,14,2.414,0.886,0.915
+BuP9,Buffer,Upland,13,2.484,0.91,0.969
+BuP10,Buffer,Upland,16,2.473,0.875,0.892
+TmP1,Transition,Major River,6,1.677,0.79,0.936
+TmP2,Transition,Major River,7,1.792,0.806,0.921
+TmP3,Transition,Major River,10,2.085,0.86,0.905
+TmP4,Transition,Major River,5,1.303,0.642,0.81
+TmP5,Transition,Major River,4,1.213,0.656,0.875
+TmP6,Transition,Major River,14,2.524,0.907,0.956
+TmP7,Transition,Major River,9,2.164,0.88,0.985
+TmP8,Transition,Major River,7,1.82,0.819,0.935
+TmP9,Transition,Major River,9,2.138,0.876,0.973
+TmP10,Transition,Major River,10,2.211,0.88,0.96
+TsP1,Transition,Stream,7,1.725,0.79,0.886
+TsP2,Transition,Stream,7,1.778,0.805,0.914
+TsP3,Transition,Stream,7,1.792,0.806,0.921
+TsP4,Transition,Stream,4,1.1,0.612,0.793
+TsP5,Transition,Stream,3,0.837,0.538,0.761
+TsP6,Transition,Stream,10,2.067,0.848,0.898
+TsP7,Transition,Stream,7,1.728,0.793,0.888
+TsP8,Transition,Stream,4,1.171,0.648,0.844
+TsP9,Transition,Stream,7,1.598,0.756,0.821
+TsP10,Transition,Stream,8,1.925,0.837,0.926
+TuP1,Transition,Upland,5,1.55,0.776,0.963
+TuP2,Transition,Upland,5,1.505,0.76,0.935
+TuP3,Transition,Upland,2,0.687,0.494,0.991
+TuP4,Transition,Upland,6,1.583,0.75,0.884
+TuP5,Transition,Upland,3,1.03,0.62,0.937
+TuP6,Transition,Upland,8,2.079,0.875,1.0
+TuP7,Transition,Upland,5,1.359,0.68,0.845
+TuP8,Transition,Upland,6,1.677,0.79,0.936
+TuP9,Transition,Upland,4,1.213,0.656,0.875
+TuP10,Transition,Upland,6,1.748,0.816,0.976

@@ -1,0 +1,29 @@
+# =============================================================================
+# CREATE requirements.txt
+# =============================================================================
+
+requirements = """\
+numpy
+pandas
+scipy
+scikit-learn
+scikit-bio
+statsmodels
+scikit-posthocs
+matplotlib
+seaborn
+openpyxl
+"""
+
+requirements_path = PROJECT_ROOT / "requirements.txt"
+
+requirements_path.write_text(
+    requirements,
+    encoding="utf-8",
+)
+
+print("✓ requirements.txt created:")
+print(requirements_path)
+
+print("\nContents:")
+print(requirements_path.read_text())

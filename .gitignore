@@ -31,3 +31,8 @@ outputs/
 *.zip
 
 *.7z
+# Temporary Jupyter notebooks
+notebooks/Untitled*.ipynb
+
+# Temporary notebook tables
+notebooks/Tables/

@@ -4,8 +4,8 @@ An open-source ecological informatics project for the analysis of tropical fores
 communities in the Omo Biosphere Reserve, Nigeria.
 
 The project integrates ecological data engineering, biodiversity analysis,
-multivariate community ecology, statistical inference, spatial ecology,
-functional ecology, machine learning, and reproducible computational workflows.
+multivariate community ecology, statistical inference, functional ecology,
+landscape ecology, machine learning, and reproducible computational workflows.
 
 ---
 
@@ -37,7 +37,7 @@ Sampling covers ecological and management environments including:
 - Core Zone
 - Buffer Zone
 - Transition Zone
-- Major river habitats
+- Major River habitats
 - Stream habitats
 - Upland forest habitats
 
@@ -45,10 +45,11 @@ Sampling covers ecological and management environments including:
 
 ## Current Dataset
 
-The finalized community dataset currently contains:
+The finalized and taxonomically harmonized community dataset currently contains:
 
 - **90 sampling plots**
-- **133 woody plant species**
+- **127 canonical woody plant species**
+- **1,750 individual woody plants**
 - Harmonized species taxonomy
 - Plot-level ecological metadata
 - Species-level metadata
@@ -154,10 +155,22 @@ The project follows a staged ecological informatics workflow.
 - ✅ Notebook 05 — Community Matrix Construction and Ecological Data Restructuring
 - ✅ Notebook 06 — Advanced Community Ecology and Statistical Analysis
 
-### Next Phase
+### Current Phase — Notebook 07: Functional Ecology
 
-- 🔄 Notebook 07 — Functional Ecology
-- ⏳ Notebook 08 — Spatial Ecology
+Notebook 07 has been modularized into a series of linked notebooks to maintain
+reproducibility, clarity, and manageable analytical workflows:
+
+- 🔄 Notebook 07A — Structural Data Reconstruction and Validation
+- ⏳ Notebook 07B — Functional Trait Acquisition and Harmonization
+- ⏳ Notebook 07C — Trait QC and Analytical Matrix Construction
+- ⏳ Notebook 07D — Functional Composition and Community-Weighted Traits
+- ⏳ Notebook 07E — Multidimensional Functional Diversity
+- ⏳ Notebook 07F — Integrated Functional Ecology and Structure–Function Relationships
+- ⏳ Notebook 07G — Functional Ecology Synthesis, Validation and Handover
+
+### Planned
+
+- ⏳ Notebook 08 — Landscape and Environmental Ecology
 - ⏳ Notebook 09 — Ecological Informatics Integration
 
 ---
@@ -191,7 +204,8 @@ successful top-to-bottom execution.
 The finalized Notebook 06 analysis uses:
 
 - **90 plots**
-- **133 woody plant species**
+- **127 canonical woody plant species**
+- **1,750 individuals**
 
 Selected analytical diagnostics include:
 
@@ -209,6 +223,29 @@ Selected analytical diagnostics include:
 Because PERMDISP is significant for both habitat and management zone,
 PERMANOVA results should be interpreted with appropriate consideration of
 differences in multivariate dispersion.
+
+---
+
+## Notebook 07 — Functional Ecology
+
+Notebook 07 extends the taxonomic and community-ecological foundation established
+in Notebooks 01–06 into trait-based and structure–function ecology.
+
+The functional ecology phase will integrate:
+
+- taxonomically harmonized woody plant communities
+- historical forest structural information
+- species functional traits
+- community-weighted mean traits
+- multidimensional functional diversity
+- habitat and management-zone comparisons
+- functional characterization of data-derived plant communities
+- taxonomic–functional relationships
+- forest structure–function relationships
+
+The modular 07A–07G design allows each analytical stage to produce validated
+outputs that become inputs to the subsequent stage without unnecessarily
+repeating upstream analyses.
 
 ---
 
@@ -245,6 +282,9 @@ Analytical functions are implemented in reusable Python modules while notebooks
 serve primarily as orchestration, visualization, interpretation, and reporting
 layers.
 
+Validated upstream products are preserved and consumed by downstream notebooks
+rather than being unnecessarily reconstructed or recalculated.
+
 The intended workflow is:
 
 ```text
@@ -261,8 +301,9 @@ Community matrix construction
 Community ecology and statistical analysis
         ↓
 Functional ecology
+   (Notebooks 07A–07G)
         ↓
-Spatial ecology
+Landscape and environmental ecology
         ↓
 Ecological informatics integration
         ↓
@@ -275,10 +316,12 @@ Scientific interpretation and publication
 
 Planned extensions include:
 
-- Functional diversity analysis
-- Species trait integration
-- Spatial community ecology
-- Environmental predictor integration
+- Functional trait integration
+- Community-weighted trait analysis
+- Multidimensional functional diversity
+- Forest structure–function analysis
+- Landscape ecological analysis
+- Environmental predictor integration where spatial linkage is defensible
 - Machine-learning-based ecological classification
 - Explainable AI
 - Ecological prediction

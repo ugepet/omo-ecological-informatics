@@ -1,0 +1,5 @@
+Trait,Original_Unit,Transformation,Standardization,Final_Trait_Space_Column
+Wood Density,g cm-3,NONE,Z-score,Z_WD
+Specific Leaf Area,mm2 mg-1,NONE,Z-score,Z_SLA
+Seed Mass,mg,LOG10,Z-score,Z_Log10_Seed_Mass
+Maximum Height,m,NONE,Z-score,Z_Max_Height

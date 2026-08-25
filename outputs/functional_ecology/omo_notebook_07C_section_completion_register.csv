@@ -1,0 +1,10 @@
+Section,Analytical_Component,Status
+1.0,"Community matrix, metadata, sampling design, and input validation",FORMALLY CLOSED
+2.0,Trait preprocessing and transformation decisions,FORMALLY CLOSED
+3.0,Trait standardization and four-dimensional matrix preparation,FORMALLY CLOSED
+4.0,Trait correlation and functional strategy analysis,FORMALLY CLOSED
+5.0,Functional trait-space PCA and ordination,FORMALLY CLOSED
+6.0,Community-weighted mean traits,FORMALLY CLOSED
+7.0,Functional-diversity metrics and inference,FORMALLY CLOSED
+8.0,Functional composition-diversity integration,FORMALLY CLOSED
+9.0,"Notebook synthesis, output audit, and formal closure",FORMALLY CLOSED

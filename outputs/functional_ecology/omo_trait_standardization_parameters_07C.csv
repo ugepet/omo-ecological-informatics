@@ -1,0 +1,5 @@
+Trait,Analysis_Column,Mean_Complete_Taxa,SD_Complete_Taxa,N_Taxa_Used
+Wood Density,WD_Analysis,0.5447342974449405,0.1553618191463187,126
+Specific Leaf Area,SLA_Analysis,16.378485270220963,6.586508614560047,126
+Log10 Seed Mass,Log10_Seed_Mass,2.0992314430926817,0.9801301634873266,126
+Maximum Height,Max_Height_Analysis,26.611349751603175,13.549097353408948,126

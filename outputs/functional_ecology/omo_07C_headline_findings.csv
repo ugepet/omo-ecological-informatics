@@ -1,0 +1,10 @@
+Finding_ID,Analytical_Domain,Headline_Finding
+F01,Trait space,The four core traits form complementary functional dimensions; no moderate or strong pairwise trait association was detected among the 126 complete taxa.
+F02,Ordination,"Functional trait variation is multidimensional: PC1-PC2 captures 59.29% of variance, while PC1-PC2-PC3 captures 80.39%; the full standardized four-dimensional space is therefore retained for distance-based analyses."
+F03,Functional composition,"Community-weighted Wood Density, Seed Mass, and Maximum Height show significant Habitat × Zone interactions, whereas SLA shows a strong Zone effect without interaction."
+F04,Functional diversity,Functional dispersion varies through a significant Habitat × Zone interaction rather than through uniform Habitat or Zone effects.
+F05,Core FD contrast,"Within Core plots, Major River assemblages have significantly lower functional dispersion than Stream and Upland assemblages."
+F06,Major River FD contrast,"Within Major River habitat, Buffer assemblages have significantly greater functional dispersion than Core assemblages."
+F07,Composition–diversity integration,"Higher community-weighted Seed Mass is robustly associated with lower functional diversity across pooled, design-adjusted, within-cell, and multivariable analyses."
+F08,Multivariable robustness,"CWM Log10 Seed Mass remains the dominant significant CWM correlate of FDis after simultaneous adjustment for Habitat × Zone and Wood Density, SLA, and Maximum Height."
+F09,Analytical robustness,"Primary conclusions were stable to the documented Seed Mass exception and to influence-sensitivity analyses, without trait imputation or primary-analysis plot deletion."

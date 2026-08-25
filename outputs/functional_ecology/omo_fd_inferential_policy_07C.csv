@@ -1,0 +1,3 @@
+Metric,Ecological_Name,N_Plots,Analytical_Role,Reason
+FDis,Functional Dispersion,90,PRIMARY,Complete 90-plot coverage and direct abundance-weighted dispersion in the full standardized four-dimensional trait space.
+RaoQ,Rao Quadratic Entropy,90,CORROBORATIVE,Complete 90-plot coverage but very high redundancy with FDis (Pearson r = 0.9697); retained to test robustness of conclusions.

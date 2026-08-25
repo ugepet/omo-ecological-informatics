@@ -1,0 +1,5 @@
+Trait,Inference_Type,N_Contrasts_Tested,N_Holm_Significant
+Wood Density,INTERACTION_SIMPLE_EFFECTS,18,14
+Log10 Seed Mass,INTERACTION_SIMPLE_EFFECTS,18,6
+Maximum Height,INTERACTION_SIMPLE_EFFECTS,18,3
+Specific Leaf Area,ZONE_MARGINAL_PAIRWISE,3,3

@@ -1,0 +1,5 @@
+PC,Explained_Variance_Percent,Primary_Traits,Interpretation
+PC1,31.543575583100363,"Seed Mass, Wood Density, Specific Leaf Area","A composite seed-size / tissue-strategy axis. Seed Mass and Wood Density load in one direction, while SLA loads in the opposing direction. Maximum Height contributes very little to PC1."
+PC2,27.74448769715878,"Maximum Height, Wood Density, Specific Leaf Area","Primarily a stature axis dominated by Maximum Height, with secondary contributions from Wood Density and SLA."
+PC3,21.10073532286531,"Specific Leaf Area, Seed Mass","A secondary leaf-economics axis dominated by SLA, with additional contribution from Seed Mass."
+PC4,19.611201396875554,"Wood Density, Seed Mass, Maximum Height","Residual multivariate variation involving primarily Wood Density, Seed Mass, and Maximum Height."

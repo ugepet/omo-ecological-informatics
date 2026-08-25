@@ -1,0 +1,19 @@
+Metric,Value
+Final canonical taxa,127
+Unique canonical taxa,127
+Species-level evidence taxa,88
+Genus-level estimate taxa,2
+Family-level estimate taxa,2
+Global fallback estimate taxa,34
+Special biological-case taxa,1
+Numeric Seed Mass values,126
+Nonnumeric Seed Mass values,1
+Numeric Seed Mass coverage percent,99.21259842519684
+Nonnumeric percent,0.7874015748031497
+Minimum Seed Mass mg,0.3891
+Median Seed Mass mg,131.18999999999997
+Mean Seed Mass mg,810.7262156825161
+Maximum Seed Mass mg,16666.666666666668
+Only nonnumeric canonical taxon,Musa sapiensis
+Validated search name of nonnumeric taxon,Musa × paradisiaca
+Final Seed Mass status,COMPLETE_WITH_ONE_BIOLOGICALLY_NONAPPLICABLE_NUMERIC_CASE

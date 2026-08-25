@@ -1,0 +1,15 @@
+Decision,Locked_Policy
+Seed Mass transformation,LOG10 before standardization
+Trait standardization,Z-score using 126 complete four-trait taxa
+Musa sapiensis,Retained in master trait data; excluded only where complete numeric Seed Mass is mathematically required
+Primary PCA visualization,PC1-PC2
+Extended PCA interpretation,PC1-PC2-PC3
+Functional-distance space,Full standardized four-dimensional trait space
+Primary FD metric,FDis
+Corroborative FD metric,RaoQ
+Supplementary FD metrics,FEve and FRic_4D
+FDiv,Not adopted
+Factorial inference,HC3-robust Type III
+Post-hoc multiplicity control,Holm correction
+Association multiplicity control,FDR correction where applicable
+Causal interpretation,Not permitted; associations interpreted observationally

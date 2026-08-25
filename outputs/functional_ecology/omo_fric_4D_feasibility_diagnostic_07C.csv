@@ -1,0 +1,91 @@
+Plot_ID,Zone,Habitat,FD_Richness,Affine_Rank,FRic_Minimum_Taxa,FRic_4D_Feasible,FRic_Status
+CmP1,Core,Major River,12,4.0,5,True,FRIC_4D_FEASIBLE
+CmP2,Core,Major River,15,4.0,5,True,FRIC_4D_FEASIBLE
+CmP3,Core,Major River,12,4.0,5,True,FRIC_4D_FEASIBLE
+CmP4,Core,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+CmP5,Core,Major River,7,4.0,5,True,FRIC_4D_FEASIBLE
+CmP6,Core,Major River,13,4.0,5,True,FRIC_4D_FEASIBLE
+CmP7,Core,Major River,16,4.0,5,True,FRIC_4D_FEASIBLE
+CmP8,Core,Major River,11,4.0,5,True,FRIC_4D_FEASIBLE
+CmP9,Core,Major River,13,4.0,5,True,FRIC_4D_FEASIBLE
+CmP10,Core,Major River,13,4.0,5,True,FRIC_4D_FEASIBLE
+CsP1,Core,Stream,11,4.0,5,True,FRIC_4D_FEASIBLE
+CsP2,Core,Stream,10,4.0,5,True,FRIC_4D_FEASIBLE
+CsP3,Core,Stream,12,4.0,5,True,FRIC_4D_FEASIBLE
+CsP4,Core,Stream,13,4.0,5,True,FRIC_4D_FEASIBLE
+CsP5,Core,Stream,5,4.0,5,True,FRIC_4D_FEASIBLE
+CsP6,Core,Stream,15,4.0,5,True,FRIC_4D_FEASIBLE
+CsP7,Core,Stream,9,4.0,5,True,FRIC_4D_FEASIBLE
+CsP8,Core,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+CsP9,Core,Stream,6,4.0,5,True,FRIC_4D_FEASIBLE
+CsP10,Core,Stream,10,4.0,5,True,FRIC_4D_FEASIBLE
+CuP1,Core,Upland,8,4.0,5,True,FRIC_4D_FEASIBLE
+CuP2,Core,Upland,10,4.0,5,True,FRIC_4D_FEASIBLE
+CuP3,Core,Upland,7,4.0,5,True,FRIC_4D_FEASIBLE
+CuP4,Core,Upland,10,4.0,5,True,FRIC_4D_FEASIBLE
+CuP5,Core,Upland,13,4.0,5,True,FRIC_4D_FEASIBLE
+CuP6,Core,Upland,12,4.0,5,True,FRIC_4D_FEASIBLE
+CuP7,Core,Upland,10,4.0,5,True,FRIC_4D_FEASIBLE
+CuP8,Core,Upland,11,4.0,5,True,FRIC_4D_FEASIBLE
+CuP9,Core,Upland,14,4.0,5,True,FRIC_4D_FEASIBLE
+CuP10,Core,Upland,13,4.0,5,True,FRIC_4D_FEASIBLE
+BmP1,Buffer,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+BmP2,Buffer,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+BmP3,Buffer,Major River,11,4.0,5,True,FRIC_4D_FEASIBLE
+BmP4,Buffer,Major River,11,4.0,5,True,FRIC_4D_FEASIBLE
+BmP5,Buffer,Major River,5,4.0,5,True,FRIC_4D_FEASIBLE
+BmP6,Buffer,Major River,14,4.0,5,True,FRIC_4D_FEASIBLE
+BmP7,Buffer,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+BmP8,Buffer,Major River,8,4.0,5,True,FRIC_4D_FEASIBLE
+BmP9,Buffer,Major River,14,4.0,5,True,FRIC_4D_FEASIBLE
+BmP10,Buffer,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+BsP1,Buffer,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+BsP2,Buffer,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+BsP3,Buffer,Stream,8,4.0,5,True,FRIC_4D_FEASIBLE
+BsP4,Buffer,Stream,13,4.0,5,True,FRIC_4D_FEASIBLE
+BsP5,Buffer,Stream,12,4.0,5,True,FRIC_4D_FEASIBLE
+BsP6,Buffer,Stream,8,4.0,5,True,FRIC_4D_FEASIBLE
+BsP7,Buffer,Stream,11,4.0,5,True,FRIC_4D_FEASIBLE
+BsP8,Buffer,Stream,16,4.0,5,True,FRIC_4D_FEASIBLE
+BsP9,Buffer,Stream,13,4.0,5,True,FRIC_4D_FEASIBLE
+BsP10,Buffer,Stream,14,4.0,5,True,FRIC_4D_FEASIBLE
+BuP1,Buffer,Upland,7,4.0,5,True,FRIC_4D_FEASIBLE
+BuP2,Buffer,Upland,10,4.0,5,True,FRIC_4D_FEASIBLE
+BuP3,Buffer,Upland,9,4.0,5,True,FRIC_4D_FEASIBLE
+BuP4,Buffer,Upland,11,4.0,5,True,FRIC_4D_FEASIBLE
+BuP5,Buffer,Upland,11,4.0,5,True,FRIC_4D_FEASIBLE
+BuP6,Buffer,Upland,12,4.0,5,True,FRIC_4D_FEASIBLE
+BuP7,Buffer,Upland,13,4.0,5,True,FRIC_4D_FEASIBLE
+BuP8,Buffer,Upland,14,4.0,5,True,FRIC_4D_FEASIBLE
+BuP9,Buffer,Upland,13,4.0,5,True,FRIC_4D_FEASIBLE
+BuP10,Buffer,Upland,16,4.0,5,True,FRIC_4D_FEASIBLE
+TmP1,Transition,Major River,6,4.0,5,True,FRIC_4D_FEASIBLE
+TmP2,Transition,Major River,7,4.0,5,True,FRIC_4D_FEASIBLE
+TmP3,Transition,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+TmP4,Transition,Major River,5,4.0,5,True,FRIC_4D_FEASIBLE
+TmP5,Transition,Major River,4,,5,False,INSUFFICIENT_TAXA
+TmP6,Transition,Major River,14,4.0,5,True,FRIC_4D_FEASIBLE
+TmP7,Transition,Major River,9,4.0,5,True,FRIC_4D_FEASIBLE
+TmP8,Transition,Major River,7,4.0,5,True,FRIC_4D_FEASIBLE
+TmP9,Transition,Major River,9,4.0,5,True,FRIC_4D_FEASIBLE
+TmP10,Transition,Major River,10,4.0,5,True,FRIC_4D_FEASIBLE
+TsP1,Transition,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+TsP2,Transition,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+TsP3,Transition,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+TsP4,Transition,Stream,4,,5,False,INSUFFICIENT_TAXA
+TsP5,Transition,Stream,3,,5,False,INSUFFICIENT_TAXA
+TsP6,Transition,Stream,10,4.0,5,True,FRIC_4D_FEASIBLE
+TsP7,Transition,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+TsP8,Transition,Stream,4,,5,False,INSUFFICIENT_TAXA
+TsP9,Transition,Stream,7,4.0,5,True,FRIC_4D_FEASIBLE
+TsP10,Transition,Stream,8,4.0,5,True,FRIC_4D_FEASIBLE
+TuP1,Transition,Upland,5,4.0,5,True,FRIC_4D_FEASIBLE
+TuP2,Transition,Upland,5,4.0,5,True,FRIC_4D_FEASIBLE
+TuP3,Transition,Upland,2,,5,False,INSUFFICIENT_TAXA
+TuP4,Transition,Upland,5,4.0,5,True,FRIC_4D_FEASIBLE
+TuP5,Transition,Upland,3,,5,False,INSUFFICIENT_TAXA
+TuP6,Transition,Upland,8,4.0,5,True,FRIC_4D_FEASIBLE
+TuP7,Transition,Upland,5,4.0,5,True,FRIC_4D_FEASIBLE
+TuP8,Transition,Upland,6,4.0,5,True,FRIC_4D_FEASIBLE
+TuP9,Transition,Upland,4,,5,False,INSUFFICIENT_TAXA
+TuP10,Transition,Upland,6,4.0,5,True,FRIC_4D_FEASIBLE

@@ -1,0 +1,6 @@
+Metric,Final_Role,Coverage,Principal_Result
+FDis,PRIMARY,90 / 90 plots,Significant Habitat × Zone interaction; three Holm-significant simple contrasts.
+RaoQ,CORROBORATIVE,90 / 90 plots,Significant Habitat × Zone interaction and strong agreement with FDis.
+FEve,SUPPLEMENTARY,89 / 90 plots,Corrected Villéger-style FEve retained as a supplementary metric.
+FRic_4D,SUPPLEMENTARY,83 / 90 plots,Seven low-richness communities cannot form a valid four-dimensional convex hull.
+FDiv,NOT ADOPTED,Not calculated,Not adopted because convex-hull dependency would inherit the low-richness limitations already documented for FRic.

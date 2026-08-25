@@ -1,0 +1,3 @@
+Metric,Habitat_HC3_Significant,Zone_HC3_Significant,Interaction_HC3_Significant,Next_Inference_Pathway
+Functional Dispersion,False,False,True,INTERACTION_SIGNIFICANT_SIMPLE_EFFECTS_REQUIRED
+Rao Quadratic Entropy,False,False,True,INTERACTION_SIGNIFICANT_SIMPLE_EFFECTS_REQUIRED

@@ -1,0 +1,91 @@
+Plot_ID,Zone,Habitat,Original_Abundance,FD_Represented_Abundance,FD_Excluded_Abundance,Original_Richness,FD_Richness,Percent_Abundance_Represented
+CmP1,Core,Major River,27.0,27.0,0.0,12,12,100.0
+CmP2,Core,Major River,33.0,33.0,0.0,15,15,100.0
+CmP3,Core,Major River,22.0,22.0,0.0,12,12,100.0
+CmP4,Core,Major River,21.0,21.0,0.0,10,10,100.0
+CmP5,Core,Major River,26.0,26.0,0.0,7,7,100.0
+CmP6,Core,Major River,22.0,22.0,0.0,13,13,100.0
+CmP7,Core,Major River,30.0,30.0,0.0,16,16,100.0
+CmP8,Core,Major River,24.0,24.0,0.0,11,11,100.0
+CmP9,Core,Major River,30.0,30.0,0.0,13,13,100.0
+CmP10,Core,Major River,32.0,32.0,0.0,13,13,100.0
+CsP1,Core,Stream,24.0,24.0,0.0,11,11,100.0
+CsP2,Core,Stream,17.0,17.0,0.0,10,10,100.0
+CsP3,Core,Stream,24.0,24.0,0.0,12,12,100.0
+CsP4,Core,Stream,21.0,21.0,0.0,13,13,100.0
+CsP5,Core,Stream,6.0,6.0,0.0,5,5,100.0
+CsP6,Core,Stream,25.0,25.0,0.0,15,15,100.0
+CsP7,Core,Stream,19.0,19.0,0.0,9,9,100.0
+CsP8,Core,Stream,17.0,17.0,0.0,7,7,100.0
+CsP9,Core,Stream,12.0,12.0,0.0,6,6,100.0
+CsP10,Core,Stream,18.0,18.0,0.0,10,10,100.0
+CuP1,Core,Upland,19.0,19.0,0.0,8,8,100.0
+CuP2,Core,Upland,20.0,20.0,0.0,10,10,100.0
+CuP3,Core,Upland,18.0,18.0,0.0,7,7,100.0
+CuP4,Core,Upland,26.0,26.0,0.0,10,10,100.0
+CuP5,Core,Upland,29.0,29.0,0.0,13,13,100.0
+CuP6,Core,Upland,21.0,21.0,0.0,12,12,100.0
+CuP7,Core,Upland,25.0,25.0,0.0,10,10,100.0
+CuP8,Core,Upland,24.0,24.0,0.0,11,11,100.0
+CuP9,Core,Upland,25.0,25.0,0.0,14,14,100.0
+CuP10,Core,Upland,23.0,23.0,0.0,13,13,100.0
+BmP1,Buffer,Major River,21.0,21.0,0.0,10,10,100.0
+BmP2,Buffer,Major River,17.0,17.0,0.0,10,10,100.0
+BmP3,Buffer,Major River,23.0,23.0,0.0,11,11,100.0
+BmP4,Buffer,Major River,18.0,18.0,0.0,11,11,100.0
+BmP5,Buffer,Major River,6.0,6.0,0.0,5,5,100.0
+BmP6,Buffer,Major River,28.0,28.0,0.0,14,14,100.0
+BmP7,Buffer,Major River,14.0,14.0,0.0,10,10,100.0
+BmP8,Buffer,Major River,17.0,17.0,0.0,8,8,100.0
+BmP9,Buffer,Major River,16.0,16.0,0.0,14,14,100.0
+BmP10,Buffer,Major River,20.0,20.0,0.0,10,10,100.0
+BsP1,Buffer,Stream,27.0,27.0,0.0,7,7,100.0
+BsP2,Buffer,Stream,20.0,20.0,0.0,7,7,100.0
+BsP3,Buffer,Stream,18.0,18.0,0.0,8,8,100.0
+BsP4,Buffer,Stream,36.0,36.0,0.0,13,13,100.0
+BsP5,Buffer,Stream,20.0,20.0,0.0,12,12,100.0
+BsP6,Buffer,Stream,20.0,20.0,0.0,8,8,100.0
+BsP7,Buffer,Stream,18.0,18.0,0.0,11,11,100.0
+BsP8,Buffer,Stream,19.0,19.0,0.0,16,16,100.0
+BsP9,Buffer,Stream,23.0,23.0,0.0,13,13,100.0
+BsP10,Buffer,Stream,24.0,24.0,0.0,14,14,100.0
+BuP1,Buffer,Upland,7.0,7.0,0.0,7,7,100.0
+BuP2,Buffer,Upland,15.0,15.0,0.0,10,10,100.0
+BuP3,Buffer,Upland,22.0,22.0,0.0,9,9,100.0
+BuP4,Buffer,Upland,51.0,51.0,0.0,11,11,100.0
+BuP5,Buffer,Upland,30.0,30.0,0.0,11,11,100.0
+BuP6,Buffer,Upland,18.0,18.0,0.0,12,12,100.0
+BuP7,Buffer,Upland,17.0,17.0,0.0,13,13,100.0
+BuP8,Buffer,Upland,25.0,25.0,0.0,14,14,100.0
+BuP9,Buffer,Upland,20.0,20.0,0.0,13,13,100.0
+BuP10,Buffer,Upland,24.0,24.0,0.0,16,16,100.0
+TmP1,Transition,Major River,9.0,9.0,0.0,6,6,100.0
+TmP2,Transition,Major River,12.0,12.0,0.0,7,7,100.0
+TmP3,Transition,Major River,31.0,31.0,0.0,10,10,100.0
+TmP4,Transition,Major River,9.0,9.0,0.0,5,5,100.0
+TmP5,Transition,Major River,8.0,8.0,0.0,4,4,100.0
+TmP6,Transition,Major River,18.0,18.0,0.0,14,14,100.0
+TmP7,Transition,Major River,10.0,10.0,0.0,9,9,100.0
+TmP8,Transition,Major River,12.0,12.0,0.0,7,7,100.0
+TmP9,Transition,Major River,13.0,13.0,0.0,9,9,100.0
+TmP10,Transition,Major River,15.0,15.0,0.0,10,10,100.0
+TsP1,Transition,Stream,18.0,18.0,0.0,7,7,100.0
+TsP2,Transition,Stream,13.0,13.0,0.0,7,7,100.0
+TsP3,Transition,Stream,12.0,12.0,0.0,7,7,100.0
+TsP4,Transition,Stream,26.0,26.0,0.0,4,4,100.0
+TsP5,Transition,Stream,24.0,24.0,0.0,3,3,100.0
+TsP6,Transition,Stream,21.0,21.0,0.0,10,10,100.0
+TsP7,Transition,Stream,22.0,22.0,0.0,7,7,100.0
+TsP8,Transition,Stream,26.0,26.0,0.0,4,4,100.0
+TsP9,Transition,Stream,30.0,30.0,0.0,7,7,100.0
+TsP10,Transition,Stream,17.0,17.0,0.0,8,8,100.0
+TuP1,Transition,Upland,7.0,7.0,0.0,5,5,100.0
+TuP2,Transition,Upland,10.0,10.0,0.0,5,5,100.0
+TuP3,Transition,Upland,9.0,9.0,0.0,2,2,100.0
+TuP4,Transition,Upland,12.0,10.0,2.0,6,5,83.33333333333333
+TuP5,Transition,Upland,10.0,10.0,0.0,3,3,100.0
+TuP6,Transition,Upland,8.0,8.0,0.0,8,8,100.0
+TuP7,Transition,Upland,10.0,10.0,0.0,5,5,100.0
+TuP8,Transition,Upland,9.0,9.0,0.0,6,6,100.0
+TuP9,Transition,Upland,8.0,8.0,0.0,4,4,100.0
+TuP10,Transition,Upland,7.0,7.0,0.0,6,6,100.0

@@ -1,0 +1,6 @@
+Result_Component,Interpretation
+Pooled association,CWM Log10 Seed Mass is moderately negatively associated with FDis and RaoQ across all 90 plots.
+Design-adjusted association,"The negative Seed Mass association persists after accounting for Habitat, Zone, and Habitat × Zone structure."
+Within-cell sensitivity,"The negative association remains strong after removing Habitat × Zone cell means, indicating that it is not explained only by between-cell differences."
+Multivariable robustness,CWM Log10 Seed Mass remains a significant negative correlate of functional dispersion after simultaneous adjustment for Habitat × Zone and the other three CWM traits.
+Other CWM traits,"Wood Density, SLA, and Maximum Height show weaker or non-robust associations with functional diversity compared with Seed Mass."

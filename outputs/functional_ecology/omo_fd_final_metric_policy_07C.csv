@@ -1,0 +1,6 @@
+Metric,Role,Coverage,Final_Decision,Rationale
+FDis,PRIMARY,90 / 90 plots,RETAIN,Complete design coverage and direct abundance-weighted dispersion in the full standardized four-dimensional trait space.
+RaoQ,CORROBORATIVE,90 / 90 plots,RETAIN,Complete coverage but very high redundancy with FDis; used to corroborate the principal functional-diversity pattern.
+FEve,SUPPLEMENTARY,89 / 90 plots,RETAIN_SUPPLEMENTARY,"Corrected Villéger-style FEve is mathematically valid and bounded [0,1], but undefined for the two-taxon TuP3 community."
+FRic_4D,SUPPLEMENTARY,83 / 90 plots,RETAIN_SUPPLEMENTARY,Valid only where a four-dimensional convex hull can be formed; seven low-richness plots are structurally ineligible.
+FDiv,NOT_ADOPTED,Not calculated,DO_NOT_ADOPT,Convex-hull dependency would inherit the same low-richness limitations as FRic while adding limited independent information to the current functional-diversity framework.

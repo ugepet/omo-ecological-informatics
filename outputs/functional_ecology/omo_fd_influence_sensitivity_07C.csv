@@ -1,0 +1,7 @@
+Metric,Effect,Primary_N,Sensitivity_N,N_Extreme_Plots_Excluded,Excluded_Plots,Primary_HC3_p,Sensitivity_HC3_p,Primary_Significant,Sensitivity_Significant,Conclusion_Stable
+Functional Dispersion,Habitat,90,88,2,TuP1 | TuP5,0.5876239649447205,0.5695135987303427,False,False,True
+Functional Dispersion,Zone,90,88,2,TuP1 | TuP5,0.9611126379365373,0.8533146384253631,False,False,True
+Functional Dispersion,Habitat_x_Zone,90,88,2,TuP1 | TuP5,0.0018347600783393027,0.001934277840208016,True,True,True
+Rao Quadratic Entropy,Habitat,90,88,2,TuP1 | TuP5,0.9330302504607673,0.9619046753178417,False,False,True
+Rao Quadratic Entropy,Zone,90,88,2,TuP1 | TuP5,0.6133407178506017,0.49133645585025176,False,False,True
+Rao Quadratic Entropy,Habitat_x_Zone,90,88,2,TuP1 | TuP5,0.01914871747437072,0.019654474501289154,True,True,True

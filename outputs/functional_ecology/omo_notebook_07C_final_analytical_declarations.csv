@@ -1,0 +1,13 @@
+Component,Final_Declaration
+Core trait space,"Four traits retained: Wood Density, Specific Leaf Area, log10 Seed Mass, and Maximum Height."
+Trait standardization,All four analysis-scale traits standardized by z-score using the 126 complete four-trait taxa.
+Trait redundancy,No moderate or strong pairwise trait redundancy detected.
+Trait-space dimensionality,Full standardized four-dimensional space retained for distance-based functional analyses.
+PCA visualization,PC1-PC2 retained as primary 2-D visualization; PC1-PC2-PC3 retained for extended ecological interpretation.
+Community-weighted traits,"Wood Density, Seed Mass, and Maximum Height show significant Habitat × Zone interactions; SLA shows a significant Zone effect."
+Primary functional-diversity metric,FDis retained as the principal FD response.
+Corroborative FD metric,RaoQ retained as corroborative because of strong redundancy with FDis.
+Supplementary FD metrics,FEve and FRic retained as supplementary metrics because structural missingness prevents complete 90-plot coverage.
+Seed Mass integration result,"Higher community-weighted log10 Seed Mass is robustly associated with lower functional diversity across pooled, design-adjusted, within-cell, and multivariable analyses."
+Inferential framework,HC3-robust Type III inference used as the authoritative factorial framework; Holm and FDR corrections applied where appropriate.
+Causal interpretation,Associations are observational and are not interpreted causally.

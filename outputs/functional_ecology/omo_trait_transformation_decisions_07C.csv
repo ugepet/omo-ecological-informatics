@@ -1,0 +1,5 @@
+Trait,Source_Column,Analysis_Column,Transformation,Rationale
+Wood Density,WD_Value,WD_Analysis,NONE,Raw distribution has only modest left skew (skewness = -0.5295); log10 increases absolute skewness.
+Specific Leaf Area,SLA_Value,SLA_Analysis,NONE,"Raw SLA is right-skewed, but log10 produces substantial left skew and only modest reduction in absolute skewness; biologically meaningful variation is retained on the original scale."
+Seed Mass,Seed_Mass_mg,Log10_Seed_Mass,LOG10,Strong raw right skew and extreme scale range (4.63 orders of magnitude); log10 reduces skewness from 5.2776 to -0.5175 and excess kurtosis from 32.5050 to 0.2773.
+Maximum Height,Max_Height_m,Max_Height_Analysis,NONE,Raw distribution is only mildly right-skewed (skewness = 0.5607); log10 increases absolute skewness.

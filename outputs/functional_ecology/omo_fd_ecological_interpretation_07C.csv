@@ -1,0 +1,7 @@
+Result_Component,Interpretation
+Overall factorial structure,"Functional diversity does not differ consistently by Habitat or Zone alone. Instead, FDis varies through a significant Habitat × Zone interaction, indicating that spatial management zone effects depend on habitat context."
+Core habitat contrast,"Within Core plots, Major River communities show significantly lower functional dispersion than both Stream and Upland communities. This indicates comparatively narrower abundance-weighted trait dispersion in Core Major River assemblages."
+Major River zone contrast,"Within Major River habitat, Buffer plots show significantly higher functional dispersion than Core plots, indicating a broader spread of abundance-weighted functional strategies in the Buffer relative to the Core."
+RaoQ corroboration,Rao Quadratic Entropy reproduces the principal direction of FDis results and significantly corroborates the Core Major River versus Stream contrast and the Major River Buffer versus Core contrast.
+Metric redundancy,"FDis and RaoQ are extremely strongly correlated and yield concordant omnibus inference. FDis is therefore retained as the principal functional-diversity response, while RaoQ is treated as corroborative rather than independent evidence."
+Supplementary metrics,"FEve and FRic provide useful supplementary descriptions but are not used as primary factorial responses because one and seven plots, respectively, are structurally undefined."

@@ -1,0 +1,13 @@
+Trait,Zone,Mean_CWM,Descriptive_Rank
+Wood Density,Core,0.6253579344079119,1
+Wood Density,Buffer,0.5647287263537404,2
+Wood Density,Transition,0.444242792078608,3
+Specific Leaf Area,Transition,16.89845702598007,1
+Specific Leaf Area,Buffer,13.812174339251902,2
+Specific Leaf Area,Core,12.786807809344184,3
+Log10 Seed Mass,Transition,2.389896456269093,1
+Log10 Seed Mass,Core,2.207542262540574,2
+Log10 Seed Mass,Buffer,2.044107527591101,3
+Maximum Height,Core,25.45654608282742,1
+Maximum Height,Transition,25.162664194669574,2
+Maximum Height,Buffer,24.163633975856996,3

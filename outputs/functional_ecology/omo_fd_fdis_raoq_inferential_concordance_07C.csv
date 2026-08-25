@@ -1,0 +1,4 @@
+Effect,FDis_HC3_p,RaoQ_HC3_p,FDis_Significant,RaoQ_Significant,Significance_Concordant
+Habitat,0.5876239649447205,0.9330302504607673,False,False,True
+Zone,0.9611126379365373,0.6133407178506017,False,False,True
+Habitat_x_Zone,0.0018347600783393027,0.01914871747437072,True,True,True

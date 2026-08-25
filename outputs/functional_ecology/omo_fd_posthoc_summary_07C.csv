@@ -1,0 +1,3 @@
+Metric,N_Total_Contrasts,N_Habitat_Within_Zone_Contrasts,N_Habitat_Within_Zone_Significant,N_Zone_Within_Habitat_Contrasts,N_Zone_Within_Habitat_Significant,N_Total_Holm_Significant
+Functional Dispersion,18,9,2,9,1,3
+Rao Quadratic Entropy,18,9,1,9,1,2

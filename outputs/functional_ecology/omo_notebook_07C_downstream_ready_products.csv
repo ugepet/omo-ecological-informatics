@@ -1,0 +1,9 @@
+Product,Path,Downstream_Use,Exists
+Standardized four-trait species matrix,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_functional_traits_standardized_4trait_07C.csv,Species-level functional trait analysis and integration,True
+Four-dimensional numeric trait-space matrix,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_functional_trait_space_matrix_4trait_07C.csv,Functional distances and downstream multivariate analyses,True
+PCA species scores,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_functional_traits_pca_species_scores_07C.csv,Trait-space visualization and species strategy interpretation,True
+Plot-level CWM traits,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_plot_level_cwm_traits_07C.csv,Community functional composition,True
+Plot-level functional-diversity metrics,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_functional_diversity_plot_metrics_07C.csv,Functional-diversity and structural-functional integration,True
+Plot-level composition-diversity integration table,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_functional_composition_diversity_plot_integration_07C.csv,Integrated functional ecology,True
+Final output manifest,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_notebook_07C_final_output_manifest.csv,Reproducibility and notebook handover,True
+Headline findings,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\functional_ecology\omo_07C_headline_findings.csv,"Manuscript, reporting, and project synthesis",True

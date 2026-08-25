@@ -1,0 +1,15 @@
+Validation_Check,Expected,Observed,Status
+Final matrix rows,127,127,PASS
+Unique canonical taxa,127,127,PASS
+WD numeric values,127,127,PASS
+SLA numeric values,127,127,PASS
+Seed Mass numeric values,126,126,PASS
+Maximum Height numeric values,127,127,PASS
+Complete 4-of-4 taxa,126,126,PASS
+Documented biological exception,1,1,PASS
+Unexpected incomplete taxa,0,0,PASS
+WD authoritative agreement,127,127,PASS
+SLA authoritative agreement,127,127,PASS
+Seed Mass authoritative agreement,127,127,PASS
+Maximum Height authoritative agreement,127,127,PASS
+Missing provenance fields,0,0,PASS

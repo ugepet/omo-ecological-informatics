@@ -1,0 +1,11 @@
+Validation_Check,Expected,Observed,Status
+Canonical rows,127,127,PASS
+Unique canonical taxa,127,127,PASS
+Numeric Maximum Height,127,127,PASS
+Missing Maximum Height,0,0,PASS
+Positive values,127,127,PASS
+Species-level assignments,119,119,PASS
+Genus-level assignments,7,7,PASS
+Species-complex assignments,1,1,PASS
+Unresolved acquisition statuses,0,0,PASS
+Broad plausibility review records,0,0,PASS

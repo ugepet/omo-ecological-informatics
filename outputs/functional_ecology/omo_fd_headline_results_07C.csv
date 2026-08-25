@@ -1,0 +1,5 @@
+Metric,Key_Result
+FDis,Significant Habitat × Zone interaction under HC3; three Holm-significant simple contrasts.
+RaoQ,Significant Habitat × Zone interaction under HC3; two Holm-significant simple contrasts and strong agreement with FDis.
+FEve,Supplementary metric; corrected and valid for 89 of 90 plots.
+FRic_4D,Supplementary metric; valid for 83 of 90 plots because seven communities lack sufficient taxa for a 4-D convex hull.

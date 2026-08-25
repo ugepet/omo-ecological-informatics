@@ -1,0 +1,13 @@
+Trait,Habitat,Mean_CWM,Descriptive_Rank
+Wood Density,Major River,0.5756067916925917,1
+Wood Density,Upland,0.5625757036721014,2
+Wood Density,Stream,0.49614695747556714,3
+Specific Leaf Area,Stream,14.852000806256383,1
+Specific Leaf Area,Major River,14.495235176581255,2
+Specific Leaf Area,Upland,14.150203191738512,3
+Log10 Seed Mass,Upland,2.3215661716176004,1
+Log10 Seed Mass,Major River,2.3000142651850437,2
+Log10 Seed Mass,Stream,2.019965809598123,3
+Maximum Height,Stream,26.064214515528583,1
+Maximum Height,Major River,25.047014263135864,2
+Maximum Height,Upland,23.671615474689542,3

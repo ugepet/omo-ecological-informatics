@@ -1,0 +1,5 @@
+Trait,Value_Field,Numeric_Values,Missing_Values,Coverage_Percent
+WOOD_DENSITY,WD_Value,127,0,100.0
+SPECIFIC_LEAF_AREA,SLA_Value,127,0,100.0
+SEED_MASS,Seed_Mass_mg,126,1,99.21259842519684
+MAXIMUM_HEIGHT,Max_Height_m,127,0,100.0

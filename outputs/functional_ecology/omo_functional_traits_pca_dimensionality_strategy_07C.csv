@@ -1,0 +1,5 @@
+Purpose,Representation,N_Dimensions,Variance_Retained_Percent,Decision
+Primary ordination visualization,PC1-PC2,2,59.288063280259145,RETAIN
+Extended ecological interpretation,PC1-PC2-PC3,3,80.38879860312446,RETAIN
+Supplementary two-dimensional projection,PC1-PC3,2,52.644310905965675,SUPPLEMENTARY
+Distance-based functional analyses,FULL_STANDARDIZED_TRAIT_SPACE,4,100.0,RETAIN

@@ -1,0 +1,9 @@
+Audit_Component,Observed,Expected,Pass
+Four-trait taxa,126,126,True
+PCA taxa,126,126,True
+FD plots,90,90,True
+Integration plots,90,90,True
+Habitat × Zone cells,9,9,True
+FEve valid plots,89,89,True
+FRic valid plots,83,83,True
+Multivariable CWM coefficients,8,8,True

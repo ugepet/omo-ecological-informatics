@@ -1,0 +1,10 @@
+Habitat,Zone,N_Plots,Mean_Seed_Mass_Coverage_Percent,Minimum_Seed_Mass_Coverage_Percent,N_Plots_Below_100_Percent
+Major River,Buffer,10,100.0,100.0,0
+Major River,Core,10,100.0,100.0,0
+Major River,Transition,10,100.0,100.0,0
+Stream,Buffer,10,100.0,100.0,0
+Stream,Core,10,100.0,100.0,0
+Stream,Transition,10,100.0,100.0,0
+Upland,Buffer,10,100.0,100.0,0
+Upland,Core,10,100.0,100.0,0
+Upland,Transition,10,98.33333333333334,83.33333333333334,1

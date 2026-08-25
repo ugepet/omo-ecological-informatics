@@ -1,0 +1,3 @@
+Analysis,Estimate,p_value,Interpretation
+Pooled correlation,-0.40647887674457167,0.0002810871499154665,Unadjusted across all 90 plots
+Design-adjusted regression,-0.44102747738489034,0.00033173818512849607,Adjusted for Habitat × Zone

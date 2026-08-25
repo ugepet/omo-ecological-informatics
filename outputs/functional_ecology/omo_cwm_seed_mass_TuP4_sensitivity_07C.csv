@@ -1,0 +1,4 @@
+Effect,Primary_HC3_p,Exclude_TuP4_HC3_p,Primary_Significant,Exclude_TuP4_Significant,Conclusion_Stable
+Habitat,0.004325796797037061,0.004506649922831887,True,True,True
+Zone,0.004639028911608039,0.0048298111061359185,True,True,True
+Habitat_x_Zone,0.007448557984869063,0.009425610206312217,True,True,True

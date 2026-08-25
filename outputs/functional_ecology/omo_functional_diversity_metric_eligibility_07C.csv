@@ -1,0 +1,6 @@
+Metric,Trait_Space,Abundance_Weighted,Primary_Feasibility_Requirement,Planned_Status
+FRic,Full standardized 4-D,False,>=5 occupied taxa and affine rank 4,PLOT_SPECIFIC_FEASIBILITY
+FDis,Full standardized 4-D,True,At least one represented taxon,RETAIN
+RaoQ,Euclidean 4-D distance,True,Valid abundance proportions and distances,RETAIN
+FEve,Euclidean 4-D distance,True,Multiple occupied taxa; MST-based calculation,ASSESS_AFTER_DIAGNOSTIC
+FDiv,Convex-hull based,True,Sufficient species and valid convex hull,ASSESS_AFTER_FRIC_DIAGNOSTIC

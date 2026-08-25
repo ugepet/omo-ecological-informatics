@@ -1,0 +1,5 @@
+Metric,N_Valid_Plots,Analytical_Role,Reason
+FDis,90,PRIMARY,Defined for all 90 plots; abundance-weighted functional dispersion in full standardized 4-D space.
+RaoQ,90,PRIMARY,Defined for all 90 plots; abundance-weighted pairwise functional dissimilarity.
+FEve,89,SUPPLEMENTARY,"Corrected Villéger-style FEve is bounded [0,1] and valid for 89 plots; undefined for the single two-taxon community TuP3."
+FRic_4D,83,SUPPLEMENTARY,Valid for 83 plots; seven low-richness plots cannot form a four-dimensional convex hull.

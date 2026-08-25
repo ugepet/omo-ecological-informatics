@@ -1,0 +1,19 @@
+Metric,Value
+Final canonical taxa,127.0
+Unique canonical taxa,127.0
+Species-level taxa total,88.0
+Species TRY taxa,46.0
+Species BIEN taxa,28.0
+Species external-rescue taxa,14.0
+Genus-estimate taxa,2.0
+Family-estimate taxa,2.0
+Global-fallback taxa,34.0
+Special biological-case taxa,1.0
+Numeric Seed Mass values,126.0
+Nonnumeric Seed Mass values,1.0
+Numeric Seed Mass coverage percent,99.21259842519684
+Nonnumeric percent,0.7874015748031497
+Minimum numeric Seed Mass mg,0.3891
+Median numeric Seed Mass mg,131.18999999999997
+Mean numeric Seed Mass mg,810.7262156825161
+Maximum numeric Seed Mass mg,16666.666666666668

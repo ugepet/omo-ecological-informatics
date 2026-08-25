@@ -1,0 +1,11 @@
+Typology_ID,Typology_Name,Confidence_Class,N_Plots,Percent_within_Typology
+T1,Core–Upland Dense-Wood Conservative State,HIGH_CONFIDENCE,19,73.07692307692308
+T1,Core–Upland Dense-Wood Conservative State,LOW_CONFIDENCE,3,11.538461538461538
+T1,Core–Upland Dense-Wood Conservative State,MODERATE_CONFIDENCE,4,15.384615384615385
+T2,Buffer-Enriched Structurally Developed Diverse State,HIGH_CONFIDENCE,5,16.666666666666668
+T2,Buffer-Enriched Structurally Developed Diverse State,LOW_CONFIDENCE,6,20.0
+T2,Buffer-Enriched Structurally Developed Diverse State,MODERATE_CONFIDENCE,19,63.333333333333336
+T3,Transition–Stream Functionally Diverse Light-Seeded State,HIGH_CONFIDENCE,6,46.15384615384615
+T3,Transition–Stream Functionally Diverse Light-Seeded State,MODERATE_CONFIDENCE,7,53.84615384615385
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,HIGH_CONFIDENCE,11,84.61538461538461
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,LOW_CONFIDENCE,2,15.384615384615385

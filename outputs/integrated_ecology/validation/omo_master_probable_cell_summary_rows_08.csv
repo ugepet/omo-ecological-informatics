@@ -1,0 +1,9 @@
+Species,Plot1,Plot2,Plot3,Plot4,Plot5,Plot6,Plot7,Plot8,Plot9,Plot10,Frequency,Individuals,Density,Relative_Density,Relative_Frequency,RIV,Zone,Habitat,Plot_Count_Sum,N_Plots_Occupied,Individuals_Num,Numeric_Species_Label,No_Plot_Allocation,Probable_Cell_Summary_Row
+25,,,,,,,,,,,98,173,0.2768,100.0,100.0,100.0,Buffer,Major River,0.0,0,173,True,True,True
+33,,,,,,,,,,,110,221,0.3536,100.0,100.0,100.0,Buffer,Stream,0.0,0,221,True,True,True
+28,,,,,,,,,,,116,230,0.3172,100.0,100.0,100.0,Buffer,Upland,0.0,0,230,True,True,True
+24,,,,,,,,,,,98,182,0.2912,100.0,100.0,100.0,Core,Stream,0.0,0,182,True,True,True
+24,,,,,,,,,,,108,227,0.3632,100.0,100.0,100.0,Core,Upland,0.0,0,227,True,True,True
+27,,,,,,,,,,,81,137,0.1889,100.0,100.0,100.0,Transition,Major River,0.0,0,137,True,True,True
+14,,,,,,,,,,,62,209,0.2882,100.0,100.0,100.0,Transition,Stream,0.0,0,209,True,True,True
+18,,,,,,,,,,,50,90,0.124138,100.0,100.0,100.0,Transition,Upland,0.0,0,90,True,True,True

@@ -1,0 +1,223 @@
+Zone,Habitat,Species,Plot1,Plot2,Plot3,Plot4,Plot5,Plot6,Plot7,Plot8,Plot9,Plot10,Plot_Count_Sum,N_Plots_Occupied
+Buffer,Major River,Alstonei boonei,1.0,,,,,1.0,,,,1.0,3.0,3
+Buffer,Major River,Blighia sapida,2.0,,1.0,1.0,,,1.0,,1.0,1.0,7.0,6
+Buffer,Major River,Bombax buonopozene,,,,2.0,1.0,2.0,1.0,,1.0,,7.0,5
+Buffer,Major River,Bosqueia angolensis,,,,2.0,,,1.0,,1.0,,4.0,3
+Buffer,Major River,Celtis zenkeri,,1.0,,1.0,1.0,,1.0,2.0,,,6.0,5
+Buffer,Major River,Cleistopholis patens,1.0,2.0,1.0,1.0,,1.0,1.0,2.0,1.0,1.0,11.0,9
+Buffer,Major River,Diallium guineense,,,,,,,1.0,,1.0,,2.0,2
+Buffer,Major River,Dillenia indica,,,,,,1.0,,,1.0,,2.0,2
+Buffer,Major River,Diospyros dendo,5.0,1.0,6.0,4.0,,4.0,2.0,5.0,1.0,2.0,30.0,9
+Buffer,Major River,Ficus exasperata,1.0,,,,,1.0,,,,2.0,4.0,3
+Buffer,Major River,Grewia pubescens,5.0,2.0,1.0,,,3.0,,,1.0,3.0,15.0,6
+Buffer,Major River,Homalium aylmeri,,,2.0,1.0,,1.0,,,1.0,,5.0,4
+Buffer,Major River,Lecaniodiscus cupaniodes,,1.0,,,,,,1.0,,,2.0,2
+Buffer,Major River,Margartaria discoidea,,3.0,,,,,,1.0,,2.0,6.0,3
+Buffer,Major River,Musanga cecropioides,1.0,,2.0,1.0,2.0,2.0,2.0,,1.0,1.0,12.0,8
+Buffer,Major River,Nesogordonia papaverifera,,,1.0,,,,,,,,1.0,1
+Buffer,Major River,Pavetta Corymbosia,,,,,,,1.0,,,,1.0,1
+Buffer,Major River,Picralima nitida,,1.0,,,,,,2.0,,,3.0,2
+Buffer,Major River,Pycanthus angolensis,,,2.0,,,2.0,,1.0,1.0,,6.0,4
+Buffer,Major River,Ricinodendron heudeotii,1.0,1.0,,,,,,,,,2.0,2
+Buffer,Major River,Sterculia rhinopetala,3.0,,,,1.0,1.0,,,1.0,,6.0,4
+Buffer,Major River,Sterculia tragacantha,1.0,,,,,,,,,,1.0,1
+Buffer,Major River,Strombosia postulata,,1.0,1.0,1.0,,2.0,,,1.0,,6.0,5
+Buffer,Major River,Trichilia monadelpha,,,1.0,2.0,,1.0,,,,1.0,5.0,4
+Buffer,Major River,25,,,,,,,,,,,0.0,0
+Buffer,Stream,Afzelia africana,,,,,1.0,,1.0,1.0,1.0,,4.0,4
+Buffer,Stream,Albizia zygia,,1.0,,,,1.0,,,,,2.0,2
+Buffer,Stream,Alstonia boonei,,,,,2.0,,,1.0,1.0,1.0,5.0,4
+Buffer,Stream,Anthocleista djalonensis,1.0,1.0,,1.0,3.0,,,1.0,1.0,2.0,10.0,7
+Buffer,Stream,Anthocliesta vogeli,,,,,,,,,1.0,,1.0,1
+Buffer,Stream,Brachystegia eurycoma,,,7.0,1.0,,,3.0,1.0,,2.0,14.0,5
+Buffer,Stream,Bridelia ferruginea,1.0,1.0,,,1.0,1.0,,1.0,2.0,1.0,8.0,7
+Buffer,Stream,Cassia saimen,12.0,10.0,,,,8.0,,,6.0,2.0,38.0,5
+Buffer,Stream,Ceiba pentandra,,,1.0,,,,1.0,,,1.0,3.0,3
+Buffer,Stream,Cleistopholis patens,,,1.0,,2.0,1.0,3.0,1.0,,3.0,11.0,6
+Buffer,Stream,Diospyros dendo,,,2.0,3.0,,,3.0,1.0,,,9.0,4
+Buffer,Stream,Diospyrous melistoformis,,,,1.0,,,,1.0,,,2.0,2
+Buffer,Stream,Drypetes,,,2.0,1.0,,,,1.0,,,4.0,3
+Buffer,Stream,Funtumia africana,,,2.0,,,,1.0,,,2.0,5.0,3
+Buffer,Stream,Funtumia elastica,,,2.0,3.0,,,1.0,1.0,,,7.0,4
+Buffer,Stream,Gmelina arborea,6.0,1.0,,,,3.0,,,,1.0,11.0,4
+Buffer,Stream,Harungana madagascariensis,,2.0,,,,2.0,,,,1.0,5.0,3
+Buffer,Stream,Hexalobus crispiflorus,,,,8.0,,,1.0,2.0,,,11.0,3
+Buffer,Stream,Holarrhena floribunda,,,,1.0,,,1.0,,,,2.0,2
+Buffer,Stream,Macaranga barteri,5.0,4.0,1.0,10.0,,3.0,2.0,1.0,4.0,1.0,31.0,9
+Buffer,Stream,Melacantha alnifolia,,,,3.0,,,,1.0,,,4.0,2
+Buffer,Stream,Musanga cecropoides,,,,,2.0,,,,,2.0,4.0,2
+Buffer,Stream,Nauclea diderrichi,,,,,2.0,,,3.0,2.0,2.0,9.0,4
+Buffer,Stream,Nothospondia staudtii,,,,,3.0,,,,,3.0,6.0,2
+Buffer,Stream,Nuclea diderrichi,,,,,1.0,,,,,,1.0,1
+Buffer,Stream,Pterocarpus osun,,,,1.0,,,,,,,1.0,1
+Buffer,Stream,Rauvolvia vomitoria,1.0,,,,,,,,,,1.0,1
+Buffer,Stream,Rothmania hispida,,,,1.0,,,,,1.0,,2.0,2
+Buffer,Stream,Spondia mombin,1.0,,,,,1.0,,,1.0,,3.0,3
+Buffer,Stream,Sterculia oblonga,,,,,1.0,,,,1.0,,2.0,2
+Buffer,Stream,Sterculia rhinopetala,,,,,1.0,,,,1.0,,2.0,2
+Buffer,Stream,Strombosia pustulata,,,,2.0,,,1.0,1.0,,,4.0,3
+Buffer,Stream,Terminalia superba,,,,,1.0,,,1.0,1.0,,3.0,3
+Buffer,Stream,33,,,,,,,,,,,0.0,0
+Buffer,Upland,Albizia auxilary,1.0,,,,,1.0,,1.0,,,3.0,3
+Buffer,Upland,Alstonei boonei,1.0,,,,1.0,,1.0,1.0,2.0,1.0,7.0,6
+Buffer,Upland,Annonidium manni,,,,6.0,2.0,2.0,2.0,,1.0,1.0,14.0,6
+Buffer,Upland,Blighia sapida,,,,1.0,,,1.0,1.0,,,3.0,3
+Buffer,Upland,Blighia unijigata,,1.0,,,,,,,1.0,1.0,3.0,3
+Buffer,Upland,Celtis zenkeri,,1.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,12.0,9
+Buffer,Upland,Cleistoformis patens,1.0,,,,1.0,,,1.0,1.0,,4.0,4
+Buffer,Upland,Dialium guineense,,1.0,1.0,,,1.0,1.0,2.0,,1.0,7.0,6
+Buffer,Upland,Diospyros dendo,,3.0,9.0,9.0,1.0,,2.0,3.0,3.0,3.0,33.0,8
+Buffer,Upland,Diospyros soubreana,,,,1.0,,3.0,,,2.0,,6.0,3
+Buffer,Upland,Diospyros undebunda,1.0,,,,,,,1.0,,,2.0,2
+Buffer,Upland,Funtumia elastica,,1.0,,,6.0,,1.0,,1.0,1.0,10.0,5
+Buffer,Upland,Garcinia kola,,,,1.0,,,,1.0,,1.0,3.0,3
+Buffer,Upland,Holarrhena floribunda,,,2.0,,,,,1.0,,,3.0,2
+Buffer,Upland,lecaniodiscus cupaniodes,,1.0,,,,1.0,,,,1.0,3.0,3
+Buffer,Upland,Milicia excelsa,,,,,1.0,1.0,,,,,2.0,2
+Buffer,Upland,Musanga cecropoidies,1.0,,,1.0,,1.0,1.0,,,1.0,5.0,5
+Buffer,Upland,Myrianthus arboreus,1.0,,,,,,,,,,1.0,1
+Buffer,Upland,Nesodogornia papaverifera,,2.0,1.0,1.0,1.0,1.0,2.0,2.0,,1.0,11.0,8
+Buffer,Upland,Piptadeniastrum africanum,,1.0,,,,,1.0,,,1.0,3.0,3
+Buffer,Upland,Ricinidendron heudeloti,,,,,1.0,,,,1.0,1.0,3.0,3
+Buffer,Upland,Scotellia coriacea,,,,,,,,1.0,2.0,,3.0,2
+Buffer,Upland,Sterculia rhinopetala,,,,,4.0,,1.0,,,1.0,6.0,3
+Buffer,Upland,Strombosia putulata,1.0,1.0,2.0,5.0,,1.0,2.0,3.0,2.0,1.0,18.0,9
+Buffer,Upland,Terminalia superba,,,,11.0,,1.0,,,1.0,,13.0,3
+Buffer,Upland,Uapaca heudelotii,,,1.0,,,,,,,,1.0,1
+Buffer,Upland,Zanthoxylum zanthoxyloides,,,1.0,,,,1.0,,,,2.0,2
+Buffer,Upland,28,,,,,,,,,,,0.0,0
+Core,Major River,Amphimas tetracoides,1.0,,,,,1.0,,1.0,,,3.0,3
+Core,Major River,Annonidium manni,2.0,2.0,1.0,,,1.0,,2.0,1.0,,9.0,6
+Core,Major River,Anthonotha macrophylla,,,1.0,,,,2.0,,2.0,,5.0,3
+Core,Major River,Blighia Sapida,,1.0,,,,,,,1.0,,2.0,2
+Core,Major River,Celtis zenkeri,4.0,,,,,1.0,,1.0,,,6.0,3
+Core,Major River,Cleistopholis patens,1.0,,,1.0,,,1.0,1.0,,1.0,5.0,5
+Core,Major River,Diospyros dendo,3.0,1.0,2.0,5.0,7.0,7.0,5.0,6.0,8.0,8.0,52.0,10
+Core,Major River,Funtumia elastica,,,,2.0,,,3.0,,1.0,1.0,7.0,4
+Core,Major River,Homalium aylmeri,1.0,2.0,,2.0,,1.0,1.0,1.0,,1.0,9.0,7
+Core,Major River,irvinga gabonensis,,1.0,,,,1.0,1.0,,1.0,1.0,5.0,5
+Core,Major River,Lecaniodiscus cupanioides,1.0,1.0,1.0,,1.0,1.0,2.0,,,2.0,9.0,7
+Core,Major River,Lonchocarpus cilliata,,,,,,1.0,,,,2.0,3.0,2
+Core,Major River,Margaritaria discoidea,,,1.0,1.0,1.0,,3.0,1.0,3.0,,10.0,6
+Core,Major River,Millettia thoningii,,1.0,,,,,1.0,,1.0,,3.0,3
+Core,Major River,Monodora tenuifolia,2.0,,2.0,,,,1.0,2.0,,,7.0,4
+Core,Major River,Nesodogornia papaverifera,1.0,1.0,,,,,1.0,,2.0,,5.0,4
+Core,Major River,Picralima nitida,,7.0,4.0,2.0,6.0,4.0,1.0,,,2.0,26.0,7
+Core,Major River,Pycnanthus angolensis,2.0,1.0,,,,,3.0,,1.0,,7.0,4
+Core,Major River,Ricinodendron heudelotii,,1.0,2.0,,,,,,2.0,,5.0,3
+Core,Major River,Scotellia coricea,,,1.0,,,,1.0,,,1.0,3.0,3
+Core,Major River,Sterculia rhinopetala,,1.0,1.0,3.0,1.0,1.0,1.0,,,,8.0,6
+Core,Major River,Strombosia pustulata,3.0,6.0,4.0,2.0,6.0,1.0,,3.0,,2.0,27.0,8
+Core,Major River,Trichilia gilgiana,,1.0,,1.0,,,,,1.0,,3.0,3
+Core,Major River,Trichilia monadelpha,,,,,,1.0,,,,2.0,3.0,2
+Core,Major River,Uapaca heudelotii,,,,,,,,1.0,,2.0,3.0,2
+Core,Stream,Alstonia boonei,2.0,,,,,,,,3.0,,5.0,2
+Core,Stream,Blighia sapida,2.0,,1.0,1.0,,1.0,1.0,,,1.0,7.0,6
+Core,Stream,Bombax buonopozene,,,,2.0,1.0,,1.0,,,,4.0,3
+Core,Stream,Bosquei angolensis,,,,2.0,,,1.0,,,,3.0,2
+Core,Stream,Celtis zenkeri,,1.0,,1.0,1.0,3.0,,,,2.0,8.0,5
+Core,Stream,Cleistopholis Patens,,2.0,1.0,1.0,,1.0,,,,3.0,8.0,5
+Core,Stream,Dialium guinensis,,,,1.0,,1.0,,,,,2.0,2
+Core,Stream,Diospyros dendo,3.0,1.0,6.0,4.0,,3.0,3.0,6.0,,,26.0,7
+Core,Stream,Ficus exasperata,2.0,,,,,,,,2.0,,4.0,2
+Core,Stream,Grewia pubescens,3.0,2.0,1.0,,,3.0,,2.0,,2.0,13.0,6
+Core,Stream,Homalium alymeri,,,2.0,1.0,,,2.0,,,1.0,6.0,4
+Core,Stream,Lecaniodiscus cupanioides,,1.0,,,,,,,,1.0,2.0,2
+Core,Stream,Margaritaria discoidea,1.0,3.0,,,,1.0,,,2.0,1.0,8.0,5
+Core,Stream,Musanga cecropiodes,2.0,,2.0,1.0,2.0,2.0,,2.0,,,11.0,6
+Core,Stream,Nesodogornia papaverivera,,,1.0,,,,,1.0,,,2.0,2
+Core,Stream,Pavetta corymbosa,,,,1.0,,,1.0,,,,2.0,2
+Core,Stream,Picralima nitida,,1.0,,,,1.0,,,,3.0,5.0,3
+Core,Stream,Pycnanthus angolensis,,,1.0,,,2.0,,1.0,,,4.0,3
+Core,Stream,Ricinodendron heudeloti,1.0,1.0,1.0,,,1.0,,,1.0,,5.0,5
+Core,Stream,Sterculia rhinopetala,2.0,,,,1.0,1.0,,,3.0,,7.0,4
+Core,Stream,Sterculia tragacantha,2.0,,,,,,,,1.0,,3.0,2
+Core,Stream,Strombosia postulata,,1.0,2.0,1.0,,1.0,2.0,2.0,,2.0,11.0,7
+Core,Stream,Trichilia monadelpha,,,1.0,2.0,,2.0,5.0,,,,10.0,4
+Core,Stream,24,,,,,,,,,,,0.0,0
+Core,Upland,Annonidium manni,,1.0,,2.0,,,,3.0,,1.0,7.0,4
+Core,Upland,Baphia nitida,,1.0,,,1.0,,,,3.0,1.0,6.0,4
+Core,Upland,Blighia sapida,,,,,,1.0,,,,,1.0,1
+Core,Upland,Celtis zenkeri,,1.0,,,,1.0,,1.0,2.0,2.0,7.0,5
+Core,Upland,Diospyros dendo,8.0,8.0,7.0,8.0,6.0,9.0,9.0,10.0,8.0,7.0,80.0,10
+Core,Upland,Diospyrous mespiliformis,,,,,1.0,1.0,1.0,1.0,,,4.0,4
+Core,Upland,Funtumia elastica,,,1.0,1.0,,1.0,,,1.0,1.0,5.0,5
+Core,Upland,Garcinia kola,,,,,1.0,2.0,,1.0,,,4.0,3
+Core,Upland,Hildegardia barteri,,,,,1.0,,1.0,,1.0,,3.0,3
+Core,Upland,Lecaniodiscus cupaniodes,,,,1.0,,,,,1.0,1.0,3.0,3
+Core,Upland,Maesobotrya barteri,1.0,,1.0,3.0,2.0,,,,1.0,1.0,9.0,6
+Core,Upland,Margaritaria discoidea,1.0,3.0,,1.0,,1.0,1.0,1.0,1.0,,9.0,7
+Core,Upland,Nauclea diderrichi,,,,1.0,,1.0,,,1.0,,3.0,3
+Core,Upland,Nesogordonia papaverifera,1.0,2.0,3.0,1.0,2.0,,,2.0,1.0,,12.0,7
+Core,Upland,Pterocarpus osun,,1.0,,,,,1.0,,,1.0,3.0,3
+Core,Upland,Pycnanthus angolensis,,1.0,,,,,1.0,1.0,,1.0,4.0,4
+Core,Upland,Ricinodendron heudelotii,,,1.0,,1.0,,,1.0,,,3.0,3
+Core,Upland,Rinorea dentata,,,,,1.0,,3.0,,,,4.0,2
+Core,Upland,Scotellia coriaceae,1.0,,4.0,7.0,4.0,1.0,4.0,,1.0,3.0,25.0,8
+Core,Upland,Sterculia rhinopetala,,1.0,,1.0,1.0,1.0,2.0,,1.0,,7.0,6
+Core,Upland,Strombosia pustulata,5.0,1.0,1.0,,7.0,1.0,2.0,1.0,2.0,2.0,22.0,9
+Core,Upland,Terminalia superba,1.0,,,,,,,2.0,,1.0,4.0,3
+Core,Upland,Zanthoxylum xanthoxyloides,,,,,1.0,1.0,,,,1.0,3.0,3
+Core,Upland,24,,,,,,,,,,,0.0,0
+Transition,Major River,Albizia ferruginea,,,,5.0,1.0,1.0,,3.0,2.0,,12.0,5
+Transition,Major River,Aningeria robusta,,,1.0,,,1.0,,,,,2.0,2
+Transition,Major River,Artocarpus communis,,,,1.0,,1.0,1.0,,,1.0,4.0,4
+Transition,Major River,Bambusa vulgaris,1.0,1.0,,,,,,,2.0,1.0,5.0,4
+Transition,Major River,Bligha sapida,1.0,,,,,,2.0,,1.0,,4.0,3
+Transition,Major River,Chrysophylum albidum,,1.0,,,,1.0,,,1.0,,3.0,3
+Transition,Major River,Cleistopholis patens,,,,,2.0,,,2.0,,,4.0,2
+Transition,Major River,Cola nitida,,,,,1.0,,1.0,1.0,,2.0,5.0,4
+Transition,Major River,Corynante pachycercus,,,5.0,,,3.0,,,,1.0,9.0,3
+Transition,Major River,Diospyrous dendo,,,1.0,,,,,,,2.0,3.0,2
+Transition,Major River,Elaeis guineensis,,1.0,,,,,1.0,,2.0,,4.0,3
+Transition,Major River,Ficus exasperata,,2.0,2.0,,,1.0,,1.0,,1.0,7.0,5
+Transition,Major River,Holarrhena floribunda,,,1.0,,,,,,1.0,,2.0,2
+Transition,Major River,Lonchocarpus cyanescens,,,,,,1.0,1.0,,1.0,,3.0,3
+Transition,Major River,Macaranga barteri,,,5.0,,,,,,2.0,,7.0,2
+Transition,Major River,Mitragyna cilliata,,,5.0,,,,,3.0,,,8.0,2
+Transition,Major River,Musanga cecropoides,,4.0,,,,,,,,,4.0,1
+Transition,Major River,Pterocarpus santoxyloides,3.0,2.0,,,4.0,,,,,,9.0,3
+Transition,Major River,Pycanthus angolensis,2.0,,,1.0,,1.0,1.0,,1.0,1.0,7.0,6
+Transition,Major River,Rauvolvia vomitoria,,,4.0,,,,1.0,,,,5.0,2
+Transition,Major River,Ricinodendron heudelotii,,,,1.0,,1.0,,1.0,,,3.0,3
+Transition,Major River,Spondia mombin,,,,,,,1.0,,,1.0,2.0,2
+Transition,Major River,Strombosia pustulata,1.0,,1.0,,,1.0,,1.0,,,4.0,4
+Transition,Major River,Terminalia superba,,,,1.0,,1.0,,,,2.0,4.0,3
+Transition,Major River,Tetrapleura tetraptera,1.0,,,,,1.0,,,,,2.0,2
+Transition,Major River,Trichilia monadelpha,,,6.0,,,3.0,1.0,,,3.0,13.0,4
+Transition,Major River,Uapaca heudeloti,,1.0,,,,1.0,,,,,2.0,2
+Transition,Major River,27,,,,,,,,,,,0.0,0
+Transition,Stream,Albizia zygia,,,1.0,,,,1.0,,,,2.0,2
+Transition,Stream,Alstonei bonei,,1.0,1.0,4.0,,1.0,4.0,3.0,,4.0,18.0,7
+Transition,Stream,Anthocliesta vogelii,1.0,,1.0,14.0,12.0,,7.0,12.0,1.0,3.0,51.0,8
+Transition,Stream,Bombax buonopozense,,1.0,,,,1.0,,,11.0,,13.0,3
+Transition,Stream,Bridelia ferruginea,1.0,,2.0,,,2.0,1.0,,,1.0,7.0,5
+Transition,Stream,Cleistoformis patens,4.0,2.0,,7.0,11.0,4.0,5.0,9.0,4.0,3.0,49.0,9
+Transition,Stream,Elaeis guinensis,2.0,4.0,,,,4.0,,,4.0,,14.0,4
+Transition,Stream,Ficus mucosa,6.0,3.0,1.0,,,5.0,,,8.0,1.0,24.0,6
+Transition,Stream,Gmelina arborea,,,2.0,1.0,1.0,,2.0,2.0,,1.0,9.0,6
+Transition,Stream,Harungana madagascariensis,,,,,,1.0,,,,1.0,2.0,2
+Transition,Stream,Macranga bateri,1.0,,,,,1.0,,,,,2.0,2
+Transition,Stream,Nauclea diderrichii,3.0,,,,,,,,1.0,,4.0,2
+Transition,Stream,Termialia superba,,1.0,4.0,,,1.0,2.0,,,3.0,11.0,5
+Transition,Stream,Theobroma cacao,,1.0,,,,1.0,,,1.0,,3.0,3
+Transition,Stream,14,,,,,,,,,,,0.0,0
+Transition,Upland,Artocarpus communis,,,,,5.0,,,,2.0,,7.0,2
+Transition,Upland,Bambusa vulgaris,,,,,,1.0,,1.0,,,2.0,2
+Transition,Upland,Bombax buonopozene,,1.0,,,,,,,,1.0,2.0,2
+Transition,Upland,Carica papaya,,,,1.0,,,,1.0,,,2.0,2
+Transition,Upland,Ceiba pentandra,1.0,,,,,1.0,,,1.0,,3.0,3
+Transition,Upland,Chrysophyllum albidum,,,,,,1.0,,,,,1.0,1
+Transition,Upland,Citrus sinenses,,,,1.0,,,,,,,1.0,1
+Transition,Upland,Cola nitida,,,,,3.0,,1.0,,,1.0,5.0,3
+Transition,Upland,Dracena manni,1.0,,,,,,,1.0,,1.0,3.0,3
+Transition,Upland,Elaeis guineense,2.0,3.0,4.0,2.0,2.0,1.0,2.0,2.0,,1.0,19.0,9
+Transition,Upland,Ficus exasperata,,,,1.0,,,1.0,1.0,1.0,,4.0,4
+Transition,Upland,Ficus mucuso,,1.0,,,,1.0,,,,,2.0,2
+Transition,Upland,Musa sapiensis,,,,2.0,,,,,,,2.0,1
+Transition,Upland,Raulvolfia vomitoria,2.0,,,,,,1.0,,,,3.0,2
+Transition,Upland,Ricinodendron heudeloti,1.0,,,,,1.0,,,,1.0,3.0,3
+Transition,Upland,Theobroma cacao,,3.0,5.0,5.0,,1.0,5.0,3.0,4.0,2.0,28.0,8
+Transition,Upland,Trema orientalis,,2.0,,,,,,,,,2.0,1
+Transition,Upland,Uapaca heudeloti,,,,,,1.0,,,,,1.0,1
+Transition,Upland,18,,,,,,,,,,,0.0,0

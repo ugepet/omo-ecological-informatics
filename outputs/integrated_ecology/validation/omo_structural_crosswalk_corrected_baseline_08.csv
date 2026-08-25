@@ -1,0 +1,215 @@
+Zone,Habitat,Species,Frequency,Individuals,Individuals_Num,Plot_Count_Sum,N_Plots_Occupied,Plot_Individuals_Exact,Master_Source_Key,Source_Match_Record_ID,Canonical_Match_Record_ID,Structural_Match_Status,Resolved_Record_ID
+Buffer,Major River,Alstonei boonei,2,2,2,3.0,3,False,buffer||major river||alstonei boonei,,OMO_STR_0076,VALIDATED_CANONICAL_RESCUE,OMO_STR_0076
+Buffer,Major River,Blighia sapida,5,5,5,7.0,6,False,buffer||major river||blighia sapida,OMO_STR_0077,OMO_STR_0077,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0077
+Buffer,Major River,Bombax buonopozene,5,7,7,7.0,5,True,buffer||major river||bombax buonopozene,OMO_STR_0078,OMO_STR_0078,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0078
+Buffer,Major River,Bosqueia angolensis,3,4,4,4.0,3,True,buffer||major river||bosqueia angolensis,OMO_STR_0079,OMO_STR_0079,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0079
+Buffer,Major River,Celtis zenkeri,4,5,5,6.0,5,False,buffer||major river||celtis zenkeri,OMO_STR_0080,OMO_STR_0080,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0080
+Buffer,Major River,Cleistopholis patens,7,8,8,11.0,9,False,buffer||major river||cleistopholis patens,OMO_STR_0081,OMO_STR_0081,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0081
+Buffer,Major River,Diallium guineense,2,2,2,2.0,2,True,buffer||major river||diallium guineense,OMO_STR_0082,OMO_STR_0082,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0082
+Buffer,Major River,Dillenia indica,2,2,2,2.0,2,True,buffer||major river||dillenia indica,OMO_STR_0083,OMO_STR_0083,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0083
+Buffer,Major River,Diospyros dendo,9,30,30,30.0,9,True,buffer||major river||diospyros dendo,,,UNRESOLVED,
+Buffer,Major River,Ficus exasperata,3,4,4,4.0,3,True,buffer||major river||ficus exasperata,OMO_STR_0086,OMO_STR_0086,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0086
+Buffer,Major River,Grewia pubescens,6,15,15,15.0,6,True,buffer||major river||grewia pubescens,OMO_STR_0087,OMO_STR_0087,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0087
+Buffer,Major River,Homalium aylmeri,4,5,5,5.0,4,True,buffer||major river||homalium aylmeri,OMO_STR_0088,OMO_STR_0088,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0088
+Buffer,Major River,Lecaniodiscus cupaniodes,2,2,2,2.0,2,True,buffer||major river||lecaniodiscus cupaniodes,,,UNRESOLVED,
+Buffer,Major River,Margartaria discoidea,3,6,6,6.0,3,True,buffer||major river||margartaria discoidea,,,UNRESOLVED,
+Buffer,Major River,Musanga cecropioides,8,12,12,12.0,8,True,buffer||major river||musanga cecropioides,OMO_STR_0091,OMO_STR_0091,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0091
+Buffer,Major River,Nesogordonia papaverifera,1,1,1,1.0,1,True,buffer||major river||nesogordonia papaverifera,OMO_STR_0092,OMO_STR_0092,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0092
+Buffer,Major River,Pavetta Corymbosia,1,1,1,1.0,1,True,buffer||major river||pavetta corymbosia,OMO_STR_0093,OMO_STR_0093,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0093
+Buffer,Major River,Picralima nitida,2,3,3,3.0,2,True,buffer||major river||picralima nitida,OMO_STR_0094,OMO_STR_0094,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0094
+Buffer,Major River,Pycanthus angolensis,4,6,6,6.0,4,True,buffer||major river||pycanthus angolensis,,,UNRESOLVED,
+Buffer,Major River,Ricinodendron heudeotii,2,2,2,2.0,2,True,buffer||major river||ricinodendron heudeotii,OMO_STR_0096,OMO_STR_0096,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0096
+Buffer,Major River,Sterculia rhinopetala,4,6,6,6.0,4,True,buffer||major river||sterculia rhinopetala,OMO_STR_0097,OMO_STR_0097,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0097
+Buffer,Major River,Sterculia tragacantha,1,1,1,1.0,1,True,buffer||major river||sterculia tragacantha,OMO_STR_0098,OMO_STR_0098,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0098
+Buffer,Major River,Strombosia postulata,5,6,6,6.0,5,True,buffer||major river||strombosia postulata,,,UNRESOLVED,
+Buffer,Major River,Trichilia monadelpha,4,5,5,5.0,4,True,buffer||major river||trichilia monadelpha,OMO_STR_0100,OMO_STR_0100,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0100
+Buffer,Stream,Afzelia africana,4,4,4,4.0,4,True,buffer||stream||afzelia africana,,,UNRESOLVED,
+Buffer,Stream,Albizia zygia,2,2,2,2.0,2,True,buffer||stream||albizia zygia,OMO_STR_0101,OMO_STR_0101,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0101
+Buffer,Stream,Alstonia boonei,4,5,5,5.0,4,True,buffer||stream||alstonia boonei,OMO_STR_0102,OMO_STR_0102,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0102
+Buffer,Stream,Anthocleista djalonensis,7,10,10,10.0,7,True,buffer||stream||anthocleista djalonensis,OMO_STR_0103,OMO_STR_0103,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0103
+Buffer,Stream,Anthocliesta vogeli,1,1,1,1.0,1,True,buffer||stream||anthocliesta vogeli,OMO_STR_0104,OMO_STR_0104,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0104
+Buffer,Stream,Brachystegia eurycoma,5,14,14,14.0,5,True,buffer||stream||brachystegia eurycoma,OMO_STR_0105,OMO_STR_0105,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0105
+Buffer,Stream,Bridelia ferruginea,7,8,8,8.0,7,True,buffer||stream||bridelia ferruginea,,OMO_STR_0106,VALIDATED_CANONICAL_RESCUE,OMO_STR_0106
+Buffer,Stream,Cassia saimen,5,38,38,38.0,5,True,buffer||stream||cassia saimen,OMO_STR_0107,OMO_STR_0107,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0107
+Buffer,Stream,Ceiba pentandra,3,3,3,3.0,3,True,buffer||stream||ceiba pentandra,OMO_STR_0108,OMO_STR_0108,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0108
+Buffer,Stream,Cleistopholis patens,6,11,11,11.0,6,True,buffer||stream||cleistopholis patens,OMO_STR_0109,OMO_STR_0109,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0109
+Buffer,Stream,Diospyros dendo,4,9,9,9.0,4,True,buffer||stream||diospyros dendo,,,UNRESOLVED,
+Buffer,Stream,Diospyrous melistoformis,2,2,2,2.0,2,True,buffer||stream||diospyrous melistoformis,OMO_STR_0111,OMO_STR_0111,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0111
+Buffer,Stream,Drypetes,3,4,4,4.0,3,True,buffer||stream||drypetes,OMO_STR_0112,OMO_STR_0112,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0112
+Buffer,Stream,Funtumia africana,3,5,5,5.0,3,True,buffer||stream||funtumia africana,OMO_STR_0113,OMO_STR_0113,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0113
+Buffer,Stream,Funtumia elastica,4,7,7,7.0,4,True,buffer||stream||funtumia elastica,OMO_STR_0114,OMO_STR_0114,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0114
+Buffer,Stream,Gmelina arborea,4,11,11,11.0,4,True,buffer||stream||gmelina arborea,OMO_STR_0115,OMO_STR_0115,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0115
+Buffer,Stream,Harungana madagascariensis,3,5,5,5.0,3,True,buffer||stream||harungana madagascariensis,OMO_STR_0116,OMO_STR_0116,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0116
+Buffer,Stream,Hexalobus crispiflorus,3,11,11,11.0,3,True,buffer||stream||hexalobus crispiflorus,OMO_STR_0117,OMO_STR_0117,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0117
+Buffer,Stream,Holarrhena floribunda,2,2,2,2.0,2,True,buffer||stream||holarrhena floribunda,OMO_STR_0118,OMO_STR_0118,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0118
+Buffer,Stream,Macaranga barteri,9,31,31,31.0,9,True,buffer||stream||macaranga barteri,OMO_STR_0119,OMO_STR_0119,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0119
+Buffer,Stream,Melacantha alnifolia,2,4,4,4.0,2,True,buffer||stream||melacantha alnifolia,OMO_STR_0120,OMO_STR_0120,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0120
+Buffer,Stream,Musanga cecropoides,2,4,4,4.0,2,True,buffer||stream||musanga cecropoides,OMO_STR_0122,OMO_STR_0122,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0122
+Buffer,Stream,Nauclea diderrichi,4,4,4,9.0,4,False,buffer||stream||nauclea diderrichi,OMO_STR_0123,OMO_STR_0123,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0123
+Buffer,Stream,Nothospondia staudtii,2,6,6,6.0,2,True,buffer||stream||nothospondia staudtii,OMO_STR_0124,OMO_STR_0124,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0124
+Buffer,Stream,Nuclea diderrichi,1,1,1,1.0,1,True,buffer||stream||nuclea diderrichi,OMO_STR_0125,OMO_STR_0125,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0125
+Buffer,Stream,Pterocarpus osun,1,1,1,1.0,1,True,buffer||stream||pterocarpus osun,OMO_STR_0126,OMO_STR_0126,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0126
+Buffer,Stream,Rauvolvia vomitoria,1,1,1,1.0,1,True,buffer||stream||rauvolvia vomitoria,OMO_STR_0127,OMO_STR_0127,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0127
+Buffer,Stream,Rothmania hispida,2,2,2,2.0,2,True,buffer||stream||rothmania hispida,OMO_STR_0128,OMO_STR_0128,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0128
+Buffer,Stream,Spondia mombin,3,3,3,3.0,3,True,buffer||stream||spondia mombin,OMO_STR_0129,OMO_STR_0129,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0129
+Buffer,Stream,Sterculia oblonga,2,3,3,2.0,2,False,buffer||stream||sterculia oblonga,OMO_STR_0130,OMO_STR_0130,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0130
+Buffer,Stream,Sterculia rhinopetala,2,2,2,2.0,2,True,buffer||stream||sterculia rhinopetala,OMO_STR_0131,OMO_STR_0131,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0131
+Buffer,Stream,Strombosia pustulata,4,4,4,4.0,3,True,buffer||stream||strombosia pustulata,OMO_STR_0132,OMO_STR_0132,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0132
+Buffer,Stream,Terminalia superba,3,3,3,3.0,3,True,buffer||stream||terminalia superba,OMO_STR_0133,OMO_STR_0133,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0133
+Buffer,Upland,Albizia auxilary,3,3,3,3.0,3,True,buffer||upland||albizia auxilary,,,UNRESOLVED,
+Buffer,Upland,Alstonei boonei,6,7,7,7.0,6,True,buffer||upland||alstonei boonei,OMO_STR_0135,OMO_STR_0135,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0135
+Buffer,Upland,Annonidium manni,6,14,14,14.0,6,True,buffer||upland||annonidium manni,OMO_STR_0136,OMO_STR_0136,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0136
+Buffer,Upland,Blighia sapida,3,3,3,3.0,3,True,buffer||upland||blighia sapida,OMO_STR_0137,OMO_STR_0137,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0137
+Buffer,Upland,Blighia unijigata,3,3,3,3.0,3,True,buffer||upland||blighia unijigata,OMO_STR_0138,OMO_STR_0138,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0138
+Buffer,Upland,Celtis zenkeri,9,12,12,12.0,9,True,buffer||upland||celtis zenkeri,OMO_STR_0139,OMO_STR_0139,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0139
+Buffer,Upland,Cleistoformis patens,4,4,4,4.0,4,True,buffer||upland||cleistoformis patens,,OMO_STR_0140,VALIDATED_CANONICAL_RESCUE,OMO_STR_0140
+Buffer,Upland,Dialium guineense,6,7,7,7.0,6,True,buffer||upland||dialium guineense,,,UNRESOLVED,
+Buffer,Upland,Diospyros dendo,8,33,33,33.0,8,True,buffer||upland||diospyros dendo,OMO_STR_0142,OMO_STR_0142,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0142
+Buffer,Upland,Diospyros soubreana,3,6,6,6.0,3,True,buffer||upland||diospyros soubreana,OMO_STR_0143,OMO_STR_0143,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0143
+Buffer,Upland,Diospyros undebunda,2,2,2,2.0,2,True,buffer||upland||diospyros undebunda,OMO_STR_0144,OMO_STR_0144,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0144
+Buffer,Upland,Funtumia elastica,5,11,11,10.0,5,False,buffer||upland||funtumia elastica,OMO_STR_0146,OMO_STR_0146,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0146
+Buffer,Upland,Garcinia kola,3,3,3,3.0,3,True,buffer||upland||garcinia kola,OMO_STR_0147,OMO_STR_0147,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0147
+Buffer,Upland,Holarrhena floribunda,2,3,3,3.0,2,True,buffer||upland||holarrhena floribunda,OMO_STR_0148,OMO_STR_0148,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0148
+Buffer,Upland,lecaniodiscus cupaniodes,3,3,3,3.0,3,True,buffer||upland||lecaniodiscus cupaniodes,OMO_STR_0149,OMO_STR_0149,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0149
+Buffer,Upland,Milicia excelsa,2,2,2,2.0,2,True,buffer||upland||milicia excelsa,OMO_STR_0150,OMO_STR_0150,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0150
+Buffer,Upland,Musanga cecropoidies,5,5,5,5.0,5,True,buffer||upland||musanga cecropoidies,,,UNRESOLVED,
+Buffer,Upland,Myrianthus arboreus,1,1,1,1.0,1,True,buffer||upland||myrianthus arboreus,OMO_STR_0152,OMO_STR_0152,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0152
+Buffer,Upland,Nesodogornia papaverifera,8,11,11,11.0,8,True,buffer||upland||nesodogornia papaverifera,OMO_STR_0153,OMO_STR_0153,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0153
+Buffer,Upland,Piptadeniastrum africanum,3,3,3,3.0,3,True,buffer||upland||piptadeniastrum africanum,OMO_STR_0154,OMO_STR_0154,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0154
+Buffer,Upland,Ricinidendron heudeloti,3,3,3,3.0,3,True,buffer||upland||ricinidendron heudeloti,,,UNRESOLVED,
+Buffer,Upland,Scotellia coriacea,2,3,3,3.0,2,True,buffer||upland||scotellia coriacea,OMO_STR_0156,OMO_STR_0156,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0156
+Buffer,Upland,Sterculia rhinopetala,3,6,6,6.0,3,True,buffer||upland||sterculia rhinopetala,OMO_STR_0157,OMO_STR_0157,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0157
+Buffer,Upland,Strombosia putulata,9,18,18,18.0,9,True,buffer||upland||strombosia putulata,OMO_STR_0158,OMO_STR_0158,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0158
+Buffer,Upland,Terminalia superba,3,13,13,13.0,3,True,buffer||upland||terminalia superba,OMO_STR_0159,OMO_STR_0159,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0159
+Buffer,Upland,Uapaca heudelotii,1,1,1,1.0,1,True,buffer||upland||uapaca heudelotii,OMO_STR_0160,OMO_STR_0160,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0160
+Buffer,Upland,Zanthoxylum zanthoxyloides,2,2,2,2.0,2,True,buffer||upland||zanthoxylum zanthoxyloides,OMO_STR_0161,OMO_STR_0161,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0161
+Core,Major River,Amphimas tetracoides,3,3,3,3.0,3,True,core||major river||amphimas tetracoides,OMO_STR_0026,OMO_STR_0026,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0026
+Core,Major River,Annonidium manni,6,9,9,9.0,6,True,core||major river||annonidium manni,OMO_STR_0027,OMO_STR_0027,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0027
+Core,Major River,Anthonotha macrophylla,3,5,5,5.0,3,True,core||major river||anthonotha macrophylla,OMO_STR_0028,OMO_STR_0028,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0028
+Core,Major River,Blighia Sapida,2,2,2,2.0,2,True,core||major river||blighia sapida,OMO_STR_0029,OMO_STR_0029,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0029
+Core,Major River,Celtis zenkeri,3,6,6,6.0,3,True,core||major river||celtis zenkeri,OMO_STR_0030,OMO_STR_0030,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0030
+Core,Major River,Cleistopholis patens,5,5,5,5.0,5,True,core||major river||cleistopholis patens,OMO_STR_0031,OMO_STR_0031,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0031
+Core,Major River,Diospyros dendo,10,52,52,52.0,10,True,core||major river||diospyros dendo,OMO_STR_0032,OMO_STR_0032,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0032
+Core,Major River,Funtumia elastica,4,7,7,7.0,4,True,core||major river||funtumia elastica,OMO_STR_0034,OMO_STR_0034,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0034
+Core,Major River,Homalium aylmeri,7,9,9,9.0,7,True,core||major river||homalium aylmeri,OMO_STR_0035,OMO_STR_0035,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0035
+Core,Major River,irvinga gabonensis,5,5,5,5.0,5,True,core||major river||irvinga gabonensis,OMO_STR_0036,OMO_STR_0036,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0036
+Core,Major River,Lecaniodiscus cupanioides,7,9,9,9.0,7,True,core||major river||lecaniodiscus cupanioides,OMO_STR_0037,OMO_STR_0037,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0037
+Core,Major River,Lonchocarpus cilliata,2,3,3,3.0,2,True,core||major river||lonchocarpus cilliata,,,UNRESOLVED,
+Core,Major River,Margaritaria discoidea,6,10,10,10.0,6,True,core||major river||margaritaria discoidea,OMO_STR_0039,OMO_STR_0039,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0039
+Core,Major River,Millettia thoningii,3,3,3,3.0,3,True,core||major river||millettia thoningii,OMO_STR_0040,OMO_STR_0040,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0040
+Core,Major River,Monodora tenuifolia,4,7,7,7.0,4,True,core||major river||monodora tenuifolia,,,UNRESOLVED,
+Core,Major River,Nesodogornia papaverifera,4,5,5,5.0,4,True,core||major river||nesodogornia papaverifera,OMO_STR_0042,OMO_STR_0042,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0042
+Core,Major River,Picralima nitida,7,26,26,26.0,7,True,core||major river||picralima nitida,OMO_STR_0043,OMO_STR_0043,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0043
+Core,Major River,Pycnanthus angolensis,4,7,7,7.0,4,True,core||major river||pycnanthus angolensis,,,UNRESOLVED,
+Core,Major River,Ricinodendron heudelotii,3,5,5,5.0,3,True,core||major river||ricinodendron heudelotii,,,UNRESOLVED,
+Core,Major River,Scotellia coricea,3,3,3,3.0,3,True,core||major river||scotellia coricea,OMO_STR_0046,OMO_STR_0046,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0046
+Core,Major River,Sterculia rhinopetala,6,8,8,8.0,6,True,core||major river||sterculia rhinopetala,OMO_STR_0047,OMO_STR_0047,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0047
+Core,Major River,Strombosia pustulata,8,27,27,27.0,8,True,core||major river||strombosia pustulata,OMO_STR_0048,OMO_STR_0048,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0048
+Core,Major River,Trichilia gilgiana,3,3,3,3.0,3,True,core||major river||trichilia gilgiana,OMO_STR_0049,OMO_STR_0049,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0049
+Core,Major River,Trichilia monadelpha,2,3,3,3.0,2,True,core||major river||trichilia monadelpha,OMO_STR_0050,OMO_STR_0050,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0050
+Core,Major River,Uapaca heudelotii,2,3,3,3.0,2,True,core||major river||uapaca heudelotii,OMO_STR_0051,OMO_STR_0051,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0051
+Core,Stream,Alstonia boonei,2,5,5,5.0,2,True,core||stream||alstonia boonei,OMO_STR_0001,OMO_STR_0001,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0001
+Core,Stream,Blighia sapida,6,7,7,7.0,6,True,core||stream||blighia sapida,OMO_STR_0002,OMO_STR_0002,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0002
+Core,Stream,Bombax buonopozene,3,4,4,4.0,3,True,core||stream||bombax buonopozene,OMO_STR_0003,OMO_STR_0003,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0003
+Core,Stream,Bosquei angolensis,2,3,3,3.0,2,True,core||stream||bosquei angolensis,OMO_STR_0004,OMO_STR_0004,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0004
+Core,Stream,Celtis zenkeri,5,8,8,8.0,5,True,core||stream||celtis zenkeri,OMO_STR_0005,OMO_STR_0005,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0005
+Core,Stream,Cleistopholis Patens,5,8,8,8.0,5,True,core||stream||cleistopholis patens,OMO_STR_0006,OMO_STR_0006,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0006
+Core,Stream,Dialium guinensis,2,2,2,2.0,2,True,core||stream||dialium guinensis,OMO_STR_0007,OMO_STR_0007,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0007
+Core,Stream,Diospyros dendo,7,26,26,26.0,7,True,core||stream||diospyros dendo,OMO_STR_0008,OMO_STR_0008,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0008
+Core,Stream,Ficus exasperata,2,4,4,4.0,2,True,core||stream||ficus exasperata,OMO_STR_0010,OMO_STR_0010,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0010
+Core,Stream,Grewia pubescens,6,13,13,13.0,6,True,core||stream||grewia pubescens,OMO_STR_0011,OMO_STR_0011,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0011
+Core,Stream,Homalium alymeri,4,6,6,6.0,4,True,core||stream||homalium alymeri,OMO_STR_0012,OMO_STR_0012,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0012
+Core,Stream,Lecaniodiscus cupanioides,2,2,2,2.0,2,True,core||stream||lecaniodiscus cupanioides,OMO_STR_0013,OMO_STR_0013,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0013
+Core,Stream,Margaritaria discoidea,5,8,8,8.0,5,True,core||stream||margaritaria discoidea,OMO_STR_0014,OMO_STR_0014,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0014
+Core,Stream,Musanga cecropiodes,6,11,11,11.0,6,True,core||stream||musanga cecropiodes,,,UNRESOLVED,
+Core,Stream,Nesodogornia papaverivera,2,2,2,2.0,2,True,core||stream||nesodogornia papaverivera,OMO_STR_0016,OMO_STR_0016,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0016
+Core,Stream,Pavetta corymbosa,2,2,2,2.0,2,True,core||stream||pavetta corymbosa,,,UNRESOLVED,
+Core,Stream,Picralima nitida,3,5,5,5.0,3,True,core||stream||picralima nitida,OMO_STR_0018,OMO_STR_0018,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0018
+Core,Stream,Pycnanthus angolensis,3,4,4,4.0,3,True,core||stream||pycnanthus angolensis,OMO_STR_0020,OMO_STR_0020,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0020
+Core,Stream,Ricinodendron heudeloti,5,5,5,5.0,5,True,core||stream||ricinodendron heudeloti,OMO_STR_0021,OMO_STR_0021,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0021
+Core,Stream,Sterculia rhinopetala,4,7,7,7.0,4,True,core||stream||sterculia rhinopetala,OMO_STR_0022,OMO_STR_0022,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0022
+Core,Stream,Sterculia tragacantha,2,3,3,3.0,2,True,core||stream||sterculia tragacantha,OMO_STR_0023,OMO_STR_0023,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0023
+Core,Stream,Strombosia postulata,7,10,10,11.0,7,False,core||stream||strombosia postulata,,,UNRESOLVED,
+Core,Stream,Trichilia monadelpha,4,10,10,10.0,4,True,core||stream||trichilia monadelpha,OMO_STR_0025,OMO_STR_0025,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0025
+Core,Upland,Annonidium manni,4,7,7,7.0,4,True,core||upland||annonidium manni,OMO_STR_0052,OMO_STR_0052,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0052
+Core,Upland,Baphia nitida,4,6,6,6.0,4,True,core||upland||baphia nitida,OMO_STR_0053,OMO_STR_0053,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0053
+Core,Upland,Blighia sapida,1,1,1,1.0,1,True,core||upland||blighia sapida,,,UNRESOLVED,
+Core,Upland,Celtis zenkeri,5,7,7,7.0,5,True,core||upland||celtis zenkeri,OMO_STR_0054,OMO_STR_0054,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0054
+Core,Upland,Diospyros dendo,10,80,80,80.0,10,True,core||upland||diospyros dendo,,,UNRESOLVED,
+Core,Upland,Diospyrous mespiliformis,4,1,1,4.0,4,False,core||upland||diospyrous mespiliformis,,,UNRESOLVED,
+Core,Upland,Funtumia elastica,5,5,5,5.0,5,True,core||upland||funtumia elastica,OMO_STR_0058,OMO_STR_0058,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0058
+Core,Upland,Garcinia kola,3,4,4,4.0,3,True,core||upland||garcinia kola,OMO_STR_0059,OMO_STR_0059,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0059
+Core,Upland,Hildegardia barteri,3,3,3,3.0,3,True,core||upland||hildegardia barteri,,,UNRESOLVED,
+Core,Upland,Lecaniodiscus cupaniodes,3,3,3,3.0,3,True,core||upland||lecaniodiscus cupaniodes,OMO_STR_0061,OMO_STR_0061,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0061
+Core,Upland,Maesobotrya barteri,6,9,9,9.0,6,True,core||upland||maesobotrya barteri,,OMO_STR_0064,VALIDATED_CANONICAL_RESCUE,OMO_STR_0064
+Core,Upland,Margaritaria discoidea,7,9,9,9.0,7,True,core||upland||margaritaria discoidea,,OMO_STR_0063,VALIDATED_CANONICAL_RESCUE,OMO_STR_0063
+Core,Upland,Nauclea diderrichi,3,3,3,3.0,3,True,core||upland||nauclea diderrichi,OMO_STR_0065,OMO_STR_0065,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0065
+Core,Upland,Nesogordonia papaverifera,7,12,12,12.0,7,True,core||upland||nesogordonia papaverifera,,OMO_STR_0066,VALIDATED_CANONICAL_RESCUE,OMO_STR_0066
+Core,Upland,Pterocarpus osun,3,3,3,3.0,3,True,core||upland||pterocarpus osun,OMO_STR_0067,OMO_STR_0067,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0067
+Core,Upland,Pycnanthus angolensis,4,4,4,4.0,4,True,core||upland||pycnanthus angolensis,,OMO_STR_0068,VALIDATED_CANONICAL_RESCUE,OMO_STR_0068
+Core,Upland,Ricinodendron heudelotii,3,3,3,3.0,3,True,core||upland||ricinodendron heudelotii,,,UNRESOLVED,
+Core,Upland,Rinorea dentata,2,4,4,4.0,2,True,core||upland||rinorea dentata,OMO_STR_0070,OMO_STR_0070,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0070
+Core,Upland,Scotellia coriaceae,8,25,25,25.0,8,True,core||upland||scotellia coriaceae,,,UNRESOLVED,
+Core,Upland,Sterculia rhinopetala,6,7,7,7.0,6,True,core||upland||sterculia rhinopetala,OMO_STR_0072,OMO_STR_0072,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0072
+Core,Upland,Strombosia pustulata,9,22,22,22.0,9,True,core||upland||strombosia pustulata,OMO_STR_0073,OMO_STR_0073,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0073
+Core,Upland,Terminalia superba,3,4,4,4.0,3,True,core||upland||terminalia superba,OMO_STR_0074,OMO_STR_0074,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0074
+Core,Upland,Zanthoxylum xanthoxyloides,3,3,3,3.0,3,True,core||upland||zanthoxylum xanthoxyloides,OMO_STR_0075,OMO_STR_0075,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0075
+Transition,Major River,Albizia ferruginea,5,12,12,12.0,5,True,transition||major river||albizia ferruginea,OMO_STR_0162,OMO_STR_0162,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0162
+Transition,Major River,Aningeria robusta,2,2,2,2.0,2,True,transition||major river||aningeria robusta,OMO_STR_0163,OMO_STR_0163,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0163
+Transition,Major River,Artocarpus communis,4,4,4,4.0,4,True,transition||major river||artocarpus communis,OMO_STR_0164,OMO_STR_0164,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0164
+Transition,Major River,Bambusa vulgaris,4,5,5,5.0,4,True,transition||major river||bambusa vulgaris,OMO_STR_0165,OMO_STR_0165,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0165
+Transition,Major River,Bligha sapida,3,4,4,4.0,3,True,transition||major river||bligha sapida,,,UNRESOLVED,
+Transition,Major River,Chrysophylum albidum,3,3,3,3.0,3,True,transition||major river||chrysophylum albidum,OMO_STR_0167,OMO_STR_0167,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0167
+Transition,Major River,Cleistopholis patens,2,4,4,4.0,2,True,transition||major river||cleistopholis patens,OMO_STR_0168,OMO_STR_0168,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0168
+Transition,Major River,Cola nitida,4,5,5,5.0,4,True,transition||major river||cola nitida,OMO_STR_0169,OMO_STR_0169,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0169
+Transition,Major River,Corynante pachycercus,3,9,9,9.0,3,True,transition||major river||corynante pachycercus,OMO_STR_0170,OMO_STR_0170,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0170
+Transition,Major River,Diospyrous dendo,2,3,3,3.0,2,True,transition||major river||diospyrous dendo,OMO_STR_0171,OMO_STR_0171,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0171
+Transition,Major River,Elaeis guineensis,3,4,4,4.0,3,True,transition||major river||elaeis guineensis,OMO_STR_0172,OMO_STR_0172,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0172
+Transition,Major River,Ficus exasperata,5,7,7,7.0,5,True,transition||major river||ficus exasperata,OMO_STR_0173,OMO_STR_0173,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0173
+Transition,Major River,Holarrhena floribunda,2,2,2,2.0,2,True,transition||major river||holarrhena floribunda,OMO_STR_0174,OMO_STR_0174,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0174
+Transition,Major River,Lonchocarpus cyanescens,3,3,3,3.0,3,True,transition||major river||lonchocarpus cyanescens,OMO_STR_0177,OMO_STR_0177,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0177
+Transition,Major River,Macaranga barteri,2,7,7,7.0,2,True,transition||major river||macaranga barteri,OMO_STR_0178,OMO_STR_0178,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0178
+Transition,Major River,Mitragyna cilliata,2,8,8,8.0,2,True,transition||major river||mitragyna cilliata,OMO_STR_0179,OMO_STR_0179,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0179
+Transition,Major River,Musanga cecropoides,1,4,4,4.0,1,True,transition||major river||musanga cecropoides,OMO_STR_0180,OMO_STR_0180,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0180
+Transition,Major River,Pterocarpus santoxyloides,3,9,9,9.0,3,True,transition||major river||pterocarpus santoxyloides,,,UNRESOLVED,
+Transition,Major River,Pycanthus angolensis,6,7,7,7.0,6,True,transition||major river||pycanthus angolensis,OMO_STR_0182,OMO_STR_0182,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0182
+Transition,Major River,Rauvolvia vomitoria,2,5,5,5.0,2,True,transition||major river||rauvolvia vomitoria,OMO_STR_0183,OMO_STR_0183,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0183
+Transition,Major River,Ricinodendron heudelotii,3,3,3,3.0,3,True,transition||major river||ricinodendron heudelotii,OMO_STR_0184,OMO_STR_0184,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0184
+Transition,Major River,Spondia mombin,2,2,2,2.0,2,True,transition||major river||spondia mombin,OMO_STR_0185,OMO_STR_0185,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0185
+Transition,Major River,Strombosia pustulata,4,4,4,4.0,4,True,transition||major river||strombosia pustulata,,,UNRESOLVED,
+Transition,Major River,Terminalia superba,3,4,4,4.0,3,True,transition||major river||terminalia superba,OMO_STR_0187,OMO_STR_0187,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0187
+Transition,Major River,Tetrapleura tetraptera,2,2,2,2.0,2,True,transition||major river||tetrapleura tetraptera,OMO_STR_0188,OMO_STR_0188,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0188
+Transition,Major River,Trichilia monadelpha,4,13,13,13.0,4,True,transition||major river||trichilia monadelpha,OMO_STR_0189,OMO_STR_0189,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0189
+Transition,Major River,Uapaca heudeloti,2,2,2,2.0,2,True,transition||major river||uapaca heudeloti,,,UNRESOLVED,
+Transition,Stream,Albizia zygia,2,2,2,2.0,2,True,transition||stream||albizia zygia,OMO_STR_0191,OMO_STR_0191,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0191
+Transition,Stream,Alstonei bonei,7,18,18,18.0,7,True,transition||stream||alstonei bonei,,,UNRESOLVED,
+Transition,Stream,Anthocliesta vogelii,8,51,51,51.0,8,True,transition||stream||anthocliesta vogelii,OMO_STR_0193,OMO_STR_0193,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0193
+Transition,Stream,Bombax buonopozense,3,13,13,13.0,3,True,transition||stream||bombax buonopozense,OMO_STR_0194,OMO_STR_0194,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0194
+Transition,Stream,Bridelia ferruginea,5,7,7,7.0,5,True,transition||stream||bridelia ferruginea,OMO_STR_0195,OMO_STR_0195,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0195
+Transition,Stream,Cleistoformis patens,9,49,49,49.0,9,True,transition||stream||cleistoformis patens,OMO_STR_0196,OMO_STR_0196,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0196
+Transition,Stream,Elaeis guinensis,4,14,14,14.0,4,True,transition||stream||elaeis guinensis,,,UNRESOLVED,
+Transition,Stream,Ficus mucosa,6,24,24,24.0,6,True,transition||stream||ficus mucosa,OMO_STR_0198,OMO_STR_0198,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0198
+Transition,Stream,Gmelina arborea,6,9,9,9.0,6,True,transition||stream||gmelina arborea,OMO_STR_0199,OMO_STR_0199,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0199
+Transition,Stream,Harungana madagascariensis,2,2,2,2.0,2,True,transition||stream||harungana madagascariensis,OMO_STR_0200,OMO_STR_0200,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0200
+Transition,Stream,Macranga bateri,2,2,2,2.0,2,True,transition||stream||macranga bateri,OMO_STR_0201,OMO_STR_0201,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0201
+Transition,Stream,Nauclea diderrichii,2,4,4,4.0,2,True,transition||stream||nauclea diderrichii,OMO_STR_0202,OMO_STR_0202,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0202
+Transition,Stream,Termialia superba,5,11,11,11.0,5,True,transition||stream||termialia superba,,,UNRESOLVED,
+Transition,Stream,Theobroma cacao,3,3,3,3.0,3,True,transition||stream||theobroma cacao,OMO_STR_0204,OMO_STR_0204,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0204
+Transition,Upland,Artocarpus communis,2,7,7,7.0,2,True,transition||upland||artocarpus communis,OMO_STR_0205,OMO_STR_0205,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0205
+Transition,Upland,Bambusa vulgaris,2,2,2,2.0,2,True,transition||upland||bambusa vulgaris,OMO_STR_0206,OMO_STR_0206,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0206
+Transition,Upland,Bombax buonopozene,2,2,2,2.0,2,True,transition||upland||bombax buonopozene,OMO_STR_0207,OMO_STR_0207,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0207
+Transition,Upland,Carica papaya,2,2,2,2.0,2,True,transition||upland||carica papaya,OMO_STR_0208,OMO_STR_0208,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0208
+Transition,Upland,Ceiba pentandra,3,3,3,3.0,3,True,transition||upland||ceiba pentandra,OMO_STR_0209,OMO_STR_0209,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0209
+Transition,Upland,Chrysophyllum albidum,1,1,1,1.0,1,True,transition||upland||chrysophyllum albidum,OMO_STR_0210,OMO_STR_0210,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0210
+Transition,Upland,Citrus sinenses,1,1,1,1.0,1,True,transition||upland||citrus sinenses,OMO_STR_0211,OMO_STR_0211,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0211
+Transition,Upland,Cola nitida,3,5,5,5.0,3,True,transition||upland||cola nitida,OMO_STR_0212,OMO_STR_0212,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0212
+Transition,Upland,Dracena manni,3,3,3,3.0,3,True,transition||upland||dracena manni,OMO_STR_0213,OMO_STR_0213,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0213
+Transition,Upland,Elaeis guineense,9,19,19,19.0,9,True,transition||upland||elaeis guineense,,,UNRESOLVED,
+Transition,Upland,Ficus exasperata,4,4,4,4.0,4,True,transition||upland||ficus exasperata,OMO_STR_0215,OMO_STR_0215,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0215
+Transition,Upland,Ficus mucuso,2,2,2,2.0,2,True,transition||upland||ficus mucuso,,,UNRESOLVED,
+Transition,Upland,Musa sapiensis,1,2,2,2.0,1,True,transition||upland||musa sapiensis,OMO_STR_0217,OMO_STR_0217,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0217
+Transition,Upland,Raulvolfia vomitoria,2,3,3,3.0,2,True,transition||upland||raulvolfia vomitoria,OMO_STR_0218,OMO_STR_0218,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0218
+Transition,Upland,Ricinodendron heudeloti,3,3,3,3.0,3,True,transition||upland||ricinodendron heudeloti,OMO_STR_0219,OMO_STR_0219,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0219
+Transition,Upland,Theobroma cacao,8,28,28,28.0,8,True,transition||upland||theobroma cacao,OMO_STR_0220,OMO_STR_0220,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0220
+Transition,Upland,Trema orientalis,1,2,2,2.0,1,True,transition||upland||trema orientalis,OMO_STR_0221,OMO_STR_0221,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0221
+Transition,Upland,Uapaca heudeloti,1,1,1,1.0,1,True,transition||upland||uapaca heudeloti,OMO_STR_0222,OMO_STR_0222,EXACT_NORMALIZED_SOURCE_KEY,OMO_STR_0222

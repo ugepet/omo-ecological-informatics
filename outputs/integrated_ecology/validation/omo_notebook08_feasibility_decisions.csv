@@ -1,0 +1,10 @@
+Domain,Status,Notebook_08_Decision,Inference
+Geographic coordinates,NOT_AVAILABLE,DEFER,Coordinate-dependent spatial analysis unsupported
+Independent environmental predictors,NOT_AVAILABLE,DEFER,Environmental-gradient analysis unsupported
+Plot identity,AVAILABLE,RETAIN,90 unique plots retained
+Habitat,AVAILABLE,RETAIN,3-level ecological factor retained
+Management Zone,AVAILABLE,RETAIN,3-level management factor retained
+Taxonomic/community structure,AVAILABLE,INTEGRATE,Load authoritative Notebook 06 products
+Forest structural properties,AVAILABLE,INTEGRATE,Load authoritative Notebook 07A products
+Functional composition,AVAILABLE,INTEGRATE,Load authoritative Notebook 07C CWM products
+Functional diversity,AVAILABLE,INTEGRATE,Load authoritative Notebook 07C FD products

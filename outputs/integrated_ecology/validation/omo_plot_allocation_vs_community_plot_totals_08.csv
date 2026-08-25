@@ -1,0 +1,91 @@
+,Reconstructed_Total,Community_Total,Difference,Exact,Zone,Habitat
+buffer||major_river||plot01,21.0,21,0.0,True,Buffer,Major River
+buffer||major_river||plot02,13.0,17,-4.0,False,Buffer,Major River
+buffer||major_river||plot03,18.0,23,-5.0,False,Buffer,Major River
+buffer||major_river||plot04,16.0,18,-2.0,False,Buffer,Major River
+buffer||major_river||plot05,5.0,6,-1.0,False,Buffer,Major River
+buffer||major_river||plot06,22.0,28,-6.0,False,Buffer,Major River
+buffer||major_river||plot07,11.0,14,-3.0,False,Buffer,Major River
+buffer||major_river||plot08,14.0,17,-3.0,False,Buffer,Major River
+buffer||major_river||plot09,13.0,16,-3.0,False,Buffer,Major River
+buffer||major_river||plot10,14.0,20,-6.0,False,Buffer,Major River
+buffer||stream||plot01,27.0,27,0.0,True,Buffer,Stream
+buffer||stream||plot02,20.0,20,0.0,True,Buffer,Stream
+buffer||stream||plot03,18.0,18,0.0,True,Buffer,Stream
+buffer||stream||plot04,36.0,36,0.0,True,Buffer,Stream
+buffer||stream||plot05,20.0,20,0.0,True,Buffer,Stream
+buffer||stream||plot06,20.0,20,0.0,True,Buffer,Stream
+buffer||stream||plot07,18.0,18,0.0,True,Buffer,Stream
+buffer||stream||plot08,19.0,19,0.0,True,Buffer,Stream
+buffer||stream||plot09,23.0,23,0.0,True,Buffer,Stream
+buffer||stream||plot10,24.0,24,0.0,True,Buffer,Stream
+buffer||upland||plot01,7.0,7,0.0,True,Buffer,Upland
+buffer||upland||plot02,12.0,15,-3.0,False,Buffer,Upland
+buffer||upland||plot03,19.0,22,-3.0,False,Buffer,Upland
+buffer||upland||plot04,39.0,51,-12.0,False,Buffer,Upland
+buffer||upland||plot05,19.0,30,-11.0,False,Buffer,Upland
+buffer||upland||plot06,14.0,18,-4.0,False,Buffer,Upland
+buffer||upland||plot07,17.0,17,0.0,True,Buffer,Upland
+buffer||upland||plot08,19.0,25,-6.0,False,Buffer,Upland
+buffer||upland||plot09,18.0,20,-2.0,False,Buffer,Upland
+buffer||upland||plot10,17.0,24,-7.0,False,Buffer,Upland
+core||major_river||plot01,21.0,27,-6.0,False,Core,Major River
+core||major_river||plot02,27.0,33,-6.0,False,Core,Major River
+core||major_river||plot03,20.0,22,-2.0,False,Core,Major River
+core||major_river||plot04,19.0,21,-2.0,False,Core,Major River
+core||major_river||plot05,22.0,26,-4.0,False,Core,Major River
+core||major_river||plot06,21.0,22,-1.0,False,Core,Major River
+core||major_river||plot07,27.0,30,-3.0,False,Core,Major River
+core||major_river||plot08,19.0,24,-5.0,False,Core,Major River
+core||major_river||plot09,24.0,30,-6.0,False,Core,Major River
+core||major_river||plot10,25.0,32,-7.0,False,Core,Major River
+core||stream||plot01,20.0,24,-4.0,False,Core,Stream
+core||stream||plot02,13.0,17,-4.0,False,Core,Stream
+core||stream||plot03,19.0,24,-5.0,False,Core,Stream
+core||stream||plot04,18.0,21,-3.0,False,Core,Stream
+core||stream||plot05,5.0,6,-1.0,False,Core,Stream
+core||stream||plot06,23.0,25,-2.0,False,Core,Stream
+core||stream||plot07,16.0,19,-3.0,False,Core,Stream
+core||stream||plot08,14.0,17,-3.0,False,Core,Stream
+core||stream||plot09,12.0,12,0.0,True,Core,Stream
+core||stream||plot10,16.0,18,-2.0,False,Core,Stream
+core||upland||plot01,18.0,19,-1.0,False,Core,Upland
+core||upland||plot02,20.0,20,0.0,True,Core,Upland
+core||upland||plot03,18.0,18,0.0,True,Core,Upland
+core||upland||plot04,26.0,26,0.0,True,Core,Upland
+core||upland||plot05,29.0,29,0.0,True,Core,Upland
+core||upland||plot06,21.0,21,0.0,True,Core,Upland
+core||upland||plot07,25.0,25,0.0,True,Core,Upland
+core||upland||plot08,24.0,24,0.0,True,Core,Upland
+core||upland||plot09,24.0,25,-1.0,False,Core,Upland
+core||upland||plot10,23.0,23,0.0,True,Core,Upland
+transition||major_river||plot01,9.0,9,0.0,True,Transition,Major River
+transition||major_river||plot02,12.0,12,0.0,True,Transition,Major River
+transition||major_river||plot03,31.0,31,0.0,True,Transition,Major River
+transition||major_river||plot04,9.0,9,0.0,True,Transition,Major River
+transition||major_river||plot05,8.0,8,0.0,True,Transition,Major River
+transition||major_river||plot06,18.0,18,0.0,True,Transition,Major River
+transition||major_river||plot07,10.0,10,0.0,True,Transition,Major River
+transition||major_river||plot08,12.0,12,0.0,True,Transition,Major River
+transition||major_river||plot09,13.0,13,0.0,True,Transition,Major River
+transition||major_river||plot10,15.0,15,0.0,True,Transition,Major River
+transition||stream||plot01,18.0,18,0.0,True,Transition,Stream
+transition||stream||plot02,13.0,13,0.0,True,Transition,Stream
+transition||stream||plot03,12.0,12,0.0,True,Transition,Stream
+transition||stream||plot04,26.0,26,0.0,True,Transition,Stream
+transition||stream||plot05,24.0,24,0.0,True,Transition,Stream
+transition||stream||plot06,21.0,21,0.0,True,Transition,Stream
+transition||stream||plot07,22.0,22,0.0,True,Transition,Stream
+transition||stream||plot08,26.0,26,0.0,True,Transition,Stream
+transition||stream||plot09,30.0,30,0.0,True,Transition,Stream
+transition||stream||plot10,17.0,17,0.0,True,Transition,Stream
+transition||upland||plot01,7.0,7,0.0,True,Transition,Upland
+transition||upland||plot02,10.0,10,0.0,True,Transition,Upland
+transition||upland||plot03,9.0,9,0.0,True,Transition,Upland
+transition||upland||plot04,12.0,12,0.0,True,Transition,Upland
+transition||upland||plot05,10.0,10,0.0,True,Transition,Upland
+transition||upland||plot06,8.0,8,0.0,True,Transition,Upland
+transition||upland||plot07,10.0,10,0.0,True,Transition,Upland
+transition||upland||plot08,9.0,9,0.0,True,Transition,Upland
+transition||upland||plot09,8.0,8,0.0,True,Transition,Upland
+transition||upland||plot10,7.0,7,0.0,True,Transition,Upland

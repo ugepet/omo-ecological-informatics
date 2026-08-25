@@ -1,0 +1,6 @@
+Table_ID,Title,Path,Exists
+Table_08_05_04,Cross-Domain Coupling Summary,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\Table_08_05_04_Cross_Domain_Coupling_Summary.csv,True
+Table_08_06_04,Final Ecological Typology,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\Table_08_06_04_Final_Ecological_Typology.csv,True
+Table_08_07_01,Final Ecological Indicator Registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\Table_08_07_01_Final_Ecological_Indicator_Registry.csv,True
+Table_08_07_02,Habitat × Zone Ecological Scorecard,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\Table_08_07_02_Habitat_Zone_Ecological_Scorecard.csv,True
+Table_08_07_03,Typology–Management Synthesis,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\Table_08_07_03_Typology_Management_Synthesis.csv,True

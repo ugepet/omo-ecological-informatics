@@ -1,0 +1,4 @@
+Data_Domain,Authoritative_Product,Status,Rationale
+Plot abundance,data\processed\omo_community_matrix_harmonized.csv,AUTHORITATIVE,"Complete 90-plot × 127-taxon matrix containing all 1,750 individuals."
+Plot identity / sampling architecture,data/processed/tree_master_database_v1.0.csv,VALIDATED_PROVENANCE,Plot1–Plot10 reconstruct all 90 Habitat × Zone plot positions.
+Structural attributes,outputs/integrated_ecology/validation/omo_structural_authoritative_crosswalk_08.csv,AUTHORITATIVE_WHERE_AVAILABLE,Validated Notebook 07A structural crosswalk with explicit unavailable records.

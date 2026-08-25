@@ -1,0 +1,52 @@
+{
+    "Notebook": "08",
+    "Final_Title": "Integrated Ecological Structure and Multidimensional Community Synthesis",
+    "Ecological_Backbone": {
+        "N_Plots": 90,
+        "N_Canonical_Taxa": 127,
+        "N_Individuals": 1750,
+        "Habitats": [
+            "Major River",
+            "Stream",
+            "Upland"
+        ],
+        "Zones": [
+            "Core",
+            "Buffer",
+            "Transition"
+        ],
+        "Plots_Per_Habitat_Zone_Cell": 10
+    },
+    "Spatial_Feasibility": {
+        "Validated_Plot_Coordinates": false,
+        "Coordinate_Dependent_Analysis": "DEFERRED",
+        "Reason": "No validated geographic coordinates were identified for the 90 Omo Forest plots."
+    },
+    "Environmental_Feasibility": {
+        "Validated_Plot_Level_Independent_Environmental_Predictors": false,
+        "Environmental_Gradient_Analysis": "DEFERRED",
+        "Reason": "No independently measured environmental predictors were identified for the validated 90-plot backbone."
+    },
+    "Retained_Sampling_Design": {
+        "Plot_ID": true,
+        "Habitat": true,
+        "Zone": true,
+        "Balanced_Factorial_Design": true
+    },
+    "Primary_Integration_Domains": [
+        "Taxonomic community structure",
+        "Forest structural properties",
+        "Functional composition",
+        "Functional diversity"
+    ],
+    "Deferred_Analyses": [
+        "Geographic plot mapping",
+        "Moran's I",
+        "Local Moran's I / LISA",
+        "Spatial-weight modelling",
+        "Geographic distance-decay",
+        "Spatial autoregressive modelling",
+        "Spatial hotspot analysis",
+        "Environmental-gradient modelling"
+    ]
+}

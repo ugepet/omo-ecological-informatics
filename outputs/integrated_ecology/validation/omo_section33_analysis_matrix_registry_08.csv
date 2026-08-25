@@ -1,0 +1,4 @@
+Matrix,N_Plots,N_Metrics,Metrics,Use
+FULL_CORE_COMPLETE,89,10,Richness; Pielou; CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m; FDis; FEve; Estimated_Mean_DBH; Estimated_Mean_Height,Full-backbone multivariate analyses not requiring structural coverage restriction.
+PRIMARY_CORE_COMPLETE,53,10,Richness; Pielou; CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m; FDis; FEve; Estimated_Mean_DBH; Estimated_Mean_Height,Primary cross-domain analyses involving structural metrics and FEve.
+PRIMARY_CORE_NO_FEVE,54,9,Richness; Pielou; CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m; FDis; Estimated_Mean_DBH; Estimated_Mean_Height,Primary structural analyses where FEve is not required; retains the complete 54-plot primary structural subset.

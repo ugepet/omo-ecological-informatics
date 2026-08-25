@@ -1,0 +1,10 @@
+Zone,Typology_ID,Typology_Name,N_Plots,N_Classified_Plots,Percent_of_Zone_Classified
+Buffer,T1,Core–Upland Dense-Wood Conservative State,8,27,29.62962962962963
+Buffer,T2,Buffer-Enriched Structurally Developed Diverse State,16,27,59.25925925925926
+Buffer,T3,Transition–Stream Functionally Diverse Light-Seeded State,3,27,11.11111111111111
+Core,T1,Core–Upland Dense-Wood Conservative State,17,27,62.96296296296296
+Core,T2,Buffer-Enriched Structurally Developed Diverse State,10,27,37.03703703703704
+Transition,T1,Core–Upland Dense-Wood Conservative State,1,28,3.5714285714285716
+Transition,T2,Buffer-Enriched Structurally Developed Diverse State,4,28,14.285714285714286
+Transition,T3,Transition–Stream Functionally Diverse Light-Seeded State,10,28,35.714285714285715
+Transition,T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,13,28,46.42857142857143

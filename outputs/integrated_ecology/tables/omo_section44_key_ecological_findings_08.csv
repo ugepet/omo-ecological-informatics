@@ -1,0 +1,7 @@
+Finding_ID,Domain,Finding,Evidence
+F01,TAXONOMIC_DIVERSITY,Transition plots have lower species richness than both Core and Buffer plots.,"Marginal EMMs: Core=10.93, Buffer=10.93, Transition=6.50."
+F02,FUNCTIONAL_COMPOSITION,Transition plots have substantially higher community-weighted SLA than Core and Buffer.,"Marginal EMMs: Core=12.79, Buffer=13.81, Transition=16.90."
+F03,FUNCTIONAL_COMPOSITION,Wood-density composition differs strongly among management zones and varies further by habitat.,Zone partial eta²=0.762; interaction partial eta²=0.157. Upland: Core>Transition (q=7.049e-17); Stream: Core>Transition (q=1.375e-12); Upland: Buffer>Transition (q=3.036e-12); Major River: Core>Transition (q=7.146e-11); Stream: Buffer>Transition (q=8.922e-09); Major River: Core>Buffer (q=4.513e-05); Major River: Buffer>Transition (q=0.002102); Upland: Core>Buffer (q=0.01233); Stream: Core>Buffer (q=0.03403)
+F04,STRUCTURAL_ECOLOGY,Forest height shows strong Habitat and Zone × Habitat effects.,Habitat partial eta²=0.622; interaction partial eta²=0.558.
+F05,STRUCTURAL_ECOLOGY,"Mean DBH varies strongly by habitat and through Habitat × Zone interaction, while the marginal Zone effect is not stable.",Habitat partial eta²=0.317; interaction partial eta²=0.343.
+F06,FUNCTIONAL_DIVERSITY,"Functional dispersion shows a possible Habitat × Zone interaction, but this conclusion depends on HC3 robust inference.",Interaction partial eta²=0.068; classical interaction was non-significant.

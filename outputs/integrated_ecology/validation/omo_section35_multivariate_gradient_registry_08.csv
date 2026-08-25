@@ -1,0 +1,6 @@
+Component,Explained_Variance_Percent,Top_Positive_Loadings,Top_Negative_Loadings,Minimum_Congruence_Across_Restricted_Sets,Stability_Class
+PC1,26.36722833321264,Estimated_Mean_Height; Pielou; Estimated_Mean_DBH; FEve; FDis,,0.8435966218818405,MODERATE_SIMILARITY
+PC2,21.99179763659055,CWM_WD; Richness,CWM_SLA; Pielou; FDis,0.7906099572390706,MODERATE_SIMILARITY
+PC3,12.885193439810802,Estimated_Mean_DBH; Estimated_Mean_Height,CWM_Max_Height_m; FDis; FEve,0.7721086808217696,MODERATE_SIMILARITY
+PC4,11.12249196914358,CWM_Log10_Seed_Mass; Pielou; Richness,CWM_Max_Height_m; Estimated_Mean_Height,0.7840843267874928,MODERATE_SIMILARITY
+PC5,10.18925655499853,CWM_Max_Height_m; CWM_Log10_Seed_Mass; FEve,FDis; Richness,0.9053641411393073,HIGH_SIMILARITY

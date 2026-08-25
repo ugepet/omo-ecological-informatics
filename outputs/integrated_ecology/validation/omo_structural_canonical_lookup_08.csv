@@ -1,0 +1,209 @@
+Preferred_Structural_Lookup_Key,Resolved_Record_ID,Master_Species,Structural_Canonical_Species,Mean_DBH,Mean_Height,Basal_Area,Final_Linkage_Class,Structural_Integration_QC,Preferred_Identity_Source
+buffer||major river||alstonia boonei,OMO_STR_0076,Alstonei boonei,Alstonia boonei,44.5,43.6,1555.0,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||blighia sapida,OMO_STR_0077,Blighia sapida,Blighia sapida,27.2,24.2,581.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||bombax buonopozense,OMO_STR_0078,Bombax buonopozene,Bombax buonopozense,36.9,34.2,1069.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||bosqueia angolensis,OMO_STR_0079,Bosqueia angolensis,Bosqueia angolensis,26.8,29.5,564.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||celtis zenkeri,OMO_STR_0080,Celtis zenkeri,Celtis zenkeri,42.0,42.1,1386.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||cleistopholis patens,OMO_STR_0081,Cleistopholis patens,Cleistopholis patens,27.5,29.9,594.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||diallium guineense,OMO_STR_0082,Diallium guineense,Diallium guineense,25.8,24.5,523.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||dillenia indica,OMO_STR_0083,Dillenia indica,Dillenia indica,33.6,31.3,887.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||diospyrous dendo,OMO_STR_0084,Diospyros dendo,Diospyrous dendo,23.6,23.9,437.6,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||ficus exasperata,OMO_STR_0086,Ficus exasperata,Ficus exasperata,42.7,40.0,1432.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||grewia pubescens,OMO_STR_0087,Grewia pubescens,Grewia pubescens,22.0,20.2,380.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||homalium aylmeri,OMO_STR_0088,Homalium aylmeri,Homalium aylmeri,62.0,56.6,3020.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||lecaniodiscus cupanioides,OMO_STR_0089,Lecaniodiscus cupaniodes,Lecaniodiscus cupanioides,10.8,9.8,91.64,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||margaritaria discoidea,OMO_STR_0090,Margartaria discoidea,Margaritaria discoidea,27.9,26.1,611.6,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||musanga cecropioides,OMO_STR_0091,Musanga cecropioides,Musanga cecropioides,25.0,21.4,491.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||nesogordonia papaverifera,OMO_STR_0092,Nesogordonia papaverifera,Nesogordonia papaverifera,84.0,62.4,5544.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||pavetta corymbosia,OMO_STR_0093,Pavetta Corymbosia,Pavetta corymbosia,66.8,58.1,3506.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||picralima nitida,OMO_STR_0094,Picralima nitida,Picralima nitida,28.8,25.9,651.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||pycnanthus angolensis,OMO_STR_0095,Pycanthus angolensis,Pycnanthus angolensis,26.6,24.3,555.9,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||ricinodendron heudeotii,OMO_STR_0096,Ricinodendron heudeotii,Ricinodendron heudeotii,51.2,55.9,2059.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||sterculia rhinopetala,OMO_STR_0097,Sterculia rhinopetala,Sterculia rhinopetala,29.3,26.7,674.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||sterculia tragacantha,OMO_STR_0098,Sterculia tragacantha,Sterculia tragacantha,24.8,15.8,483.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||strombosia pustulata,OMO_STR_0099,Strombosia postulata,Strombosia pustulata,29.3,26.0,674.5,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||major river||trichilia monadelpha,OMO_STR_0100,Trichilia monadelpha,Trichilia monadelpha,21.4,27.3,359.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||albizia zygia,OMO_STR_0101,Albizia zygia,Albizia zygia,28.5,28.3,638.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||alstonia boonei,OMO_STR_0102,Alstonia boonei,Alstonia boonei,15.9,14.3,198.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||anthocleista djalonensis,OMO_STR_0103,Anthocleista djalonensis,Anthocleista djalonensis,43.9,38.5,1514.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||anthocleista vogelii,OMO_STR_0104,Anthocliesta vogeli,Anthocleista vogelii,10.0,12.7,78.57,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||brachystegia eurycoma,OMO_STR_0105,Brachystegia eurycoma,Brachystegia eurycoma,22.2,24.0,387.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||bridelia ferruginea,OMO_STR_0106,Bridelia ferruginea,Bridelia ferruginea,19.0,20.0,283.6,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||cassia saimen,OMO_STR_0107,Cassia saimen,Cassia saimen,27.2,27.2,581.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||ceiba pentandra,OMO_STR_0108,Ceiba pentandra,Ceiba pentandra,22.8,25.3,408.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||cleistopholis patens,OMO_STR_0109,Cleistopholis patens,Cleistopholis patens,31.2,33.4,764.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||diospyrous dendo,OMO_STR_0110,Diospyros dendo,Diospyrous dendo,42.8,38.5,1439.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||diospyrous melistoformis,OMO_STR_0111,Diospyrous melistoformis,Diospyrous melistoformis,19.7,19.3,304.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||drypetes,OMO_STR_0112,Drypetes,Drypetes,30.6,31.0,735.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||funtumia africana,OMO_STR_0113,Funtumia africana,Funtumia africana,33.1,37.1,860.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||funtumia elastica,OMO_STR_0114,Funtumia elastica,Funtumia elastica,24.6,28.2,475.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||gmelina arborea,OMO_STR_0115,Gmelina arborea,Gmelina arborea,24.0,24.5,452.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||harungana madagascariensis,OMO_STR_0116,Harungana madagascariensis,Harungana madagascariensis,16.7,17.5,219.1,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||hexalobus crispiflorus,OMO_STR_0117,Hexalobus crispiflorus,Hexalobus crispiflorus,28.4,28.0,633.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||holarrhena floribunda,OMO_STR_0118,Holarrhena floribunda,Holarrhena floribunda,27.0,27.0,572.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||macaranga barteri,OMO_STR_0119,Macaranga barteri,Macaranga barteri,40.1,39.7,1263.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||melacantha alnifolia,OMO_STR_0120,Melacantha alnifolia,Melacantha alnifolia,43.4,44.9,1479.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||musanga cecropoides,OMO_STR_0122,Musanga cecropoides,Musanga cecropoides,42.5,28.4,1419.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||nauclea diderrichi,OMO_STR_0123,Nauclea diderrichi,Nauclea diderrichi,28.4,29.7,633.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||nothospondia staudtii,OMO_STR_0124,Nothospondia staudtii,Nothospondia staudtii,33.25,35.5,868.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||nuclea diderrichi,OMO_STR_0125,Nuclea diderrichi,Nuclea diderrichi,33.6,26.9,887.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||pterocarpus osun,OMO_STR_0126,Pterocarpus osun,Pterocarpus osun,17.0,13.8,227.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||rauvolvia vomitoria,OMO_STR_0127,Rauvolvia vomitoria,Rauvolvia vomitoria,34.0,36.5,908.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||rothmania hispida,OMO_STR_0128,Rothmania hispida,Rothmania hispida,44.0,48.4,1521.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||spondia mombin,OMO_STR_0129,Spondia mombin,Spondia mombin,16.9,20.8,224.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||sterculia oblonga,OMO_STR_0130,Sterculia oblonga,Sterculia oblonga,53.5,43.8,2248.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||sterculia rhinopetala,OMO_STR_0131,Sterculia rhinopetala,Sterculia rhinopetala,19.0,15.3,283.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||strombosia pustulata,OMO_STR_0132,Strombosia pustulata,Strombosia pustulata,39.7,33.9,1238.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||stream||terminalia superba,OMO_STR_0133,Terminalia superba,Terminalia superba,38.5,39.7,1164.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||albizia auxilary,OMO_STR_0134,Albizia auxilary,Albizia auxilary,22.3,23.7,390.7,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||alstonia boonei,OMO_STR_0135,Alstonei boonei,Alstonia boonei,23.6,25.5,437.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||annonidium manni,OMO_STR_0136,Annonidium manni,Annonidium manni,23.2,24.0,422.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||blighia sapida,OMO_STR_0137,Blighia sapida,Blighia sapida,48.8,55.2,1871.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||blighia unijigata,OMO_STR_0138,Blighia unijigata,Blighia unijigata,22.5,24.1,397.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||celtis zenkeri,OMO_STR_0139,Celtis zenkeri,Celtis zenkeri,26.5,30.0,551.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||cleistoformis patens,OMO_STR_0140,Cleistoformis patens,Cleistoformis patens,17.76,40.4,247.8,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||diallium guineense,OMO_STR_0141,Dialium guineense,Diallium guineense,47.4,44.7,1765.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||diospyros dendo,OMO_STR_0142,Diospyros dendo,Diospyros dendo,19.4,20.2,295.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||diospyros soubreana,OMO_STR_0143,Diospyros soubreana,Diospyros soubreana,30.8,32.1,745.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||diospyros undebunda,OMO_STR_0144,Diospyros undebunda,Diospyros undebunda,13.3,15.9,138.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||funtumia elastica,OMO_STR_0146,Funtumia elastica,Funtumia elastica,21.75,23.2,371.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||garcinia kola,OMO_STR_0147,Garcinia kola,Garcinia kola,27.7,27.7,602.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||holarrhena floribunda,OMO_STR_0148,Holarrhena floribunda,Holarrhena floribunda,38.2,37.2,1146.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||lecaniodiscus cupaniodes,OMO_STR_0149,lecaniodiscus cupaniodes,Lecaniodiscus cupaniodes,32.2,33.2,814.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||milicia excelsa,OMO_STR_0150,Milicia excelsa,Milicia excelsa,13.7,14.8,147.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||musanga cecropioides,OMO_STR_0151,Musanga cecropoidies,Musanga cecropioides,30.1,31.4,711.8,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||myrianthus arboreus,OMO_STR_0152,Myrianthus arboreus,Myrianthus arboreus,49.0,50.0,1886.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||nesodogornia papaverifera,OMO_STR_0153,Nesodogornia papaverifera,Nesodogornia papaverifera,32.8,32.1,845.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||piptadeniastrum africanum,OMO_STR_0154,Piptadeniastrum africanum,Piptadeniastrum africanum,38.8,39.7,1182.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||ricinidendron heudeloti,OMO_STR_0155,Ricinidendron heudeloti,,33.8,33.5,897.6,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,VALIDATED_MASTER_SPECIES_FALLBACK
+buffer||upland||scotellia coriacea,OMO_STR_0156,Scotellia coriacea,Scotellia coriacea,29.1,30.1,665.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||sterculia rhinopetala,OMO_STR_0157,Sterculia rhinopetala,Sterculia rhinopetala,12.6,12.9,124.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||strombosia putulata,OMO_STR_0158,Strombosia putulata,Strombosia putulata,27.4,30.6,589.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||terminalia superba,OMO_STR_0159,Terminalia superba,Terminalia superba,29.7,35.8,693.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||uapaca heudelotii,OMO_STR_0160,Uapaca heudelotii,Uapaca heudelotii,26.4,27.5,547.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+buffer||upland||zanthoxylum zanthoxyloides,OMO_STR_0161,Zanthoxylum zanthoxyloides,Zanthoxylum zanthoxyloides,18.2,19.7,260.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||amphimas tetracoides,OMO_STR_0026,Amphimas tetracoides,Amphimas tetracoides,21.4,22.1,359.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||annonidium manni,OMO_STR_0027,Annonidium manni,Annonidium manni,30.2,29.6,716.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||anthonotha macrophylla,OMO_STR_0028,Anthonotha macrophylla,Anthonotha macrophylla,18.2,16.9,260.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||blighia sapida,OMO_STR_0029,Blighia Sapida,Blighia sapida,20.2,24.25,320.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||celtis zenkeri,OMO_STR_0030,Celtis zenkeri,Celtis zenkeri,25.0,21.16,491.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||cleistopholis patens,OMO_STR_0031,Cleistopholis patens,Cleistopholis patens,39.8,40.34,1244.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||diospyros dendo,OMO_STR_0032,Diospyros dendo,Diospyros dendo,19.4,20.4,295.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||funtumia elastica,OMO_STR_0034,Funtumia elastica,Funtumia elastica,24.4,29.2,467.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||homalium aylmeri,OMO_STR_0035,Homalium aylmeri,Homalium aylmeri,32.2,34.8,814.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||irvinga gabonensis,OMO_STR_0036,irvinga gabonensis,Irvinga gabonensis,23.6,22.7,437.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||lecaniodiscus cupanioides,OMO_STR_0037,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,19.4,21.34,295.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||lonchocarpus cilliata,OMO_STR_0038,Lonchocarpus cilliata,Lonchocarpus cilliata,23.8,24.25,445.0,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||margaritaria discoidea,OMO_STR_0039,Margaritaria discoidea,Margaritaria discoidea,26.75,27.3,562.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||millettia thoningii,OMO_STR_0040,Millettia thoningii,Millettia thoningii,18.8,17.8,277.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||monodora tenuifolia,OMO_STR_0041,Monodora tenuifolia,Monodora tenuifolia,26.5,26.5,551.7,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||nesodogornia papaverifera,OMO_STR_0042,Nesodogornia papaverifera,Nesodogornia papaverifera,56.6,54.8,2517.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||picralima nitida,OMO_STR_0043,Picralima nitida,Picralima nitida,20.7,20.3,336.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||pycanthus angolensis,OMO_STR_0044,Pycnanthus angolensis,Pycanthus angolensis,26.0,25.8,531.1,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||ricinodendron heudeloti,OMO_STR_0045,Ricinodendron heudelotii,Ricinodendron heudeloti,64.8,66.5,3299.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||scotellia coricea,OMO_STR_0046,Scotellia coricea,Scotellia coricea,27.5,33.2,594.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||sterculia rhinopetala,OMO_STR_0047,Sterculia rhinopetala,Sterculia rhinopetala,16.6,14.9,216.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||strombosia pustulata,OMO_STR_0048,Strombosia pustulata,Strombosia pustulata,27.2,26.8,581.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||trichilia gilgiana,OMO_STR_0049,Trichilia gilgiana,Trichilia gilgiana,16.9,20.5,224.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||trichilia monadelpha,OMO_STR_0050,Trichilia monadelpha,Trichilia monadelpha,21.0,18.7,346.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||major river||uapaca heudelotii,OMO_STR_0051,Uapaca heudelotii,Uapaca heudelotii,43.3,54.9,1473.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||alstonia boonei,OMO_STR_0001,Alstonia boonei,Alstonia boonei,36.34,35.58,1037.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||blighia sapida,OMO_STR_0002,Blighia sapida,Blighia sapida,33.4,35.2,876.51,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||bombax buonopozense,OMO_STR_0003,Bombax buonopozene,Bombax buonopozense,31.5,31.5,779.63,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||bosqueia angolensis,OMO_STR_0004,Bosquei angolensis,Bosqueia angolensis,28.7,28.1,647.19,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||celtis zenkeri,OMO_STR_0005,Celtis zenkeri,Celtis zenkeri,29.4,31.0,679.14,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||cleistopholis patens,OMO_STR_0006,Cleistopholis Patens,Cleistopholis patens,31.0,34.9,755.07,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||dialium guinensis,OMO_STR_0007,Dialium guinensis,Dialium guinensis,33.1,32.6,860.84,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||diospyros dendo,OMO_STR_0008,Diospyros dendo,Diospyros dendo,21.5,24.9,363.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||ficus exasperata,OMO_STR_0010,Ficus exasperata,Ficus exasperata,56.4,54.4,2499.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||grewia pubescens,OMO_STR_0011,Grewia pubescens,Grewia pubescens,31.5,32.6,779.63,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||homalium alymeri,OMO_STR_0012,Homalium alymeri,Homalium alymeri,52.1,50.45,2132.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||lecaniodiscus cupanioides,OMO_STR_0013,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,23.7,26.0,441.33,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||margaritaria discoidea,OMO_STR_0014,Margaritaria discoidea,Margaritaria discoidea,24.9,26.4,487.15,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||nesodogornia papaverivera,OMO_STR_0016,Nesodogornia papaverivera,Nesodogornia papaverivera,52.5,41.0,2165.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||picralima nitida,OMO_STR_0018,Picralima nitida,Picralima nitida,46.5,47.8,1698.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||pycnanthus angolensis,OMO_STR_0020,Pycnanthus angolensis,Pycnanthus angolensis,77.7,67.5,4743.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||ricinodendron heudeloti,OMO_STR_0021,Ricinodendron heudeloti,Ricinodendron heudeloti,102.2,82.1,8206.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||sterculia rhinopetala,OMO_STR_0022,Sterculia rhinopetala,Sterculia rhinopetala,49.4,45.2,1917.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||sterculia tragacantha,OMO_STR_0023,Sterculia tragacantha,Sterculia tragacantha,37.6,39.0,1110.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||strombosia pustulata,OMO_STR_0024,Strombosia postulata,Strombosia pustulata,42.6,35.2,1425.9,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+core||stream||trichilia monadelpha,OMO_STR_0025,Trichilia monadelpha,Trichilia monadelpha,40.7,39.2,1301.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||annonidium manni,OMO_STR_0052,Annonidium manni,Annonidium manni,20.4,20.9,326.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||baphia nitida,OMO_STR_0053,Baphia nitida,Baphia nitida,17.8,19.3,248.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||celtis zenkeri,OMO_STR_0054,Celtis zenkeri,Celtis zenkeri,20.6,21.31,333.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||diospyrous dendo,OMO_STR_0056,Diospyros dendo,Diospyrous dendo,20.5,21.5,330.2,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||diospyrous mespiliformis,OMO_STR_0057,Diospyrous mespiliformis,Diospyrous mespiliformis,24.2,26.0,460.1,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||funtumia elastica,OMO_STR_0058,Funtumia elastica,Funtumia elastica,21.6,22.4,366.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||garcinia kola,OMO_STR_0059,Garcinia kola,Garcinia kola,26.4,27.2,547.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||hildegardia barteri,OMO_STR_0060,Hildegardia barteri,Hildegardia barteri,23.0,21.2,415.6,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||lecaniodiscus cupaniodes,OMO_STR_0061,Lecaniodiscus cupaniodes,Lecaniodiscus cupaniodes,18.0,18.2,254.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||maesobotrya barteri,OMO_STR_0064,Maesobotrya barteri,Maesobotrya barteri,22.4,23.3,394.2,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||margaritaria discoidea,OMO_STR_0063,Margaritaria discoidea,Margaritaria discoidea,23.0,23.9,415.6,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||nauclea diderrichi,OMO_STR_0065,Nauclea diderrichi,Nauclea diderrichi,24.0,27.7,452.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||nesogordonia papaverifera,OMO_STR_0066,Nesogordonia papaverifera,Nesogordonia papaverifera,32.7,34.1,840.1,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||pterocarpus osun,OMO_STR_0067,Pterocarpus osun,Pterocarpus osun,41.5,42.6,1353.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||pycnanthus angolensis,OMO_STR_0068,Pycnanthus angolensis,Pycnanthus angolensis,22.1,24.5,383.7,VALIDATED_CANONICAL_RESCUE,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||ricinodendron heudeloti,OMO_STR_0069,Ricinodendron heudelotii,Ricinodendron heudeloti,27.5,28.5,594.2,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||rinorea dentata,OMO_STR_0070,Rinorea dentata,Rinorea dentata,19.2,20.0,289.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||scotellia coriacea,OMO_STR_0071,Scotellia coriaceae,Scotellia coriacea,21.1,22.6,349.8,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||sterculia rhinopetala,OMO_STR_0072,Sterculia rhinopetala,Sterculia rhinopetala,15.0,15.8,176.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||strombosia pustulata,OMO_STR_0073,Strombosia pustulata,Strombosia pustulata,19.8,20.0,308.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||terminalia superba,OMO_STR_0074,Terminalia superba,Terminalia superba,36.4,30.0,1041.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+core||upland||zanthoxylum xanthoxyloides,OMO_STR_0075,Zanthoxylum xanthoxyloides,Zanthoxylum xanthoxyloides,36.3,39.4,1035.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||albizia ferruginea,OMO_STR_0162,Albizia ferruginea,Albizia ferruginea,21.1,20.9,349.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||aningeria robusta,OMO_STR_0163,Aningeria robusta,Aningeria robusta,13.5,13.9,143.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||artocarpus communis,OMO_STR_0164,Artocarpus communis,Artocarpus communis,28.45,30.8,635.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||bambusa vulgaris,OMO_STR_0165,Bambusa vulgaris,Bambusa vulgaris,227.7,58.4,40737.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||blighia sapida,OMO_STR_0166,Bligha sapida,Blighia sapida,26.3,27.1,543.4,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||chrysophylum albidum,OMO_STR_0167,Chrysophylum albidum,Chrysophylum albidum,19.0,16.0,283.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||cleistopholis patens,OMO_STR_0168,Cleistopholis patens,Cleistopholis patens,20.2,20.5,320.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||cola nitida,OMO_STR_0169,Cola nitida,Cola nitida,21.4,20.8,359.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||corynante pachycercus,OMO_STR_0170,Corynante pachycercus,Corynante pachycercus,35.6,34.6,995.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||diospyrous dendo,OMO_STR_0171,Diospyrous dendo,Diospyrous dendo,15.5,15.3,188.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||elaeis guineensis,OMO_STR_0172,Elaeis guineensis,Elaeis guineensis,46.1,36.1,1669.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||ficus exasperata,OMO_STR_0173,Ficus exasperata,Ficus exasperata,17.7,19.7,246.1,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||holarrhena floribunda,OMO_STR_0174,Holarrhena floribunda,Holarrhena floribunda,17.7,14.3,246.1,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||lonchocarpus cyanescens,OMO_STR_0177,Lonchocarpus cyanescens,Lonchocarpus cyanescens,12.8,10.4,128.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||macaranga barteri,OMO_STR_0178,Macaranga barteri,Macaranga barteri,50.1,26.1,1972.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||mitragyna cilliata,OMO_STR_0179,Mitragyna cilliata,Mitragyna cilliata,25.8,26.1,523.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||musanga cecropoides,OMO_STR_0180,Musanga cecropoides,Musanga cecropoides,16.2,12.4,206.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||pterocarpus santoxyloides,OMO_STR_0181,Pterocarpus santoxyloides,Pterocarpus santoxyloides,21.7,20.6,369.9,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||pycanthus angolensis,OMO_STR_0182,Pycanthus angolensis,Pycanthus angolensis,26.3,27.3,543.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||rauvolvia vomitoria,OMO_STR_0183,Rauvolvia vomitoria,Rauvolvia vomitoria,13.5,12.7,143.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||ricinodendron heudelotii,OMO_STR_0184,Ricinodendron heudelotii,Ricinodendron heudelotii,18.2,22.6,260.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||spondia mombin,OMO_STR_0185,Spondia mombin,Spondia mombin,34.4,31.7,929.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||strombosia postulata,OMO_STR_0186,Strombosia pustulata,Strombosia postulata,35.7,27.6,1001.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||terminalia superba,OMO_STR_0187,Terminalia superba,Terminalia superba,30.1,31.3,711.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||tetrapleura tetraptera,OMO_STR_0188,Tetrapleura tetraptera,Tetrapleura tetraptera,36.9,35.6,1069.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||trichilia monadelpha,OMO_STR_0189,Trichilia monadelpha,Trichilia monadelpha,30.8,28.5,745.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||major river||uapaca heudelotii,OMO_STR_0190,Uapaca heudeloti,Uapaca heudelotii,53.5,58.4,2248.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||albizia zygia,OMO_STR_0191,Albizia zygia,Albizia zygia,22.0,24.5,380.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||alstonia boonei,OMO_STR_0192,Alstonei bonei,Alstonia boonei,29.4,28.9,679.1,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||anthocleista vogelii,OMO_STR_0193,Anthocliesta vogelii,Anthocleista vogelii,24.0,25.2,452.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||bombax buonopozense,OMO_STR_0194,Bombax buonopozense,Bombax buonopozense,19.6,17.7,301.8,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||bridelia ferruginea,OMO_STR_0195,Bridelia ferruginea,Bridelia ferruginea,23.2,22.1,422.9,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||cleistoformis patens,OMO_STR_0196,Cleistoformis patens,Cleistoformis patens,23.1,24.1,419.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||ficus mucosa,OMO_STR_0198,Ficus mucosa,Ficus mucosa,31.7,33.5,789.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||gmelina arborea,OMO_STR_0199,Gmelina arborea,Gmelina arborea,35.1,38.2,968.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||harungana madagascariensis,OMO_STR_0200,Harungana madagascariensis,Harungana madagascariensis,28.6,30.4,642.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||macranga bateri,OMO_STR_0201,Macranga bateri,Macranga bateri,11.0,13.0,95.07,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||nauclea diderrichii,OMO_STR_0202,Nauclea diderrichii,Nauclea diderrichii,29.7,27.3,693.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||terminalia superba,OMO_STR_0203,Termialia superba,Terminalia superba,45.0,44.5,1591.0,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE,ORTHOGRAPHIC_AND_ABUNDANCE_SUPPORTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||stream||theobroma cacao,OMO_STR_0204,Theobroma cacao,Theobroma cacao,16.9,13.5,224.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||artocarpus communis,OMO_STR_0205,Artocarpus communis,Artocarpus communis,22.0,22.6,380.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||bambusa vulgaris,OMO_STR_0206,Bambusa vulgaris,Bambusa vulgaris,12.6,17.8,124.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||bombax buonopozense,OMO_STR_0207,Bombax buonopozene,Bombax buonopozense,27.3,27.0,585.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||carica papaya,OMO_STR_0208,Carica papaya,Carica papaya,14.7,18.0,169.7,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||ceiba pentandra,OMO_STR_0209,Ceiba pentandra,Ceiba pentandra,16.2,17.4,206.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||chrysophyllum albidum,OMO_STR_0210,Chrysophyllum albidum,Chrysophyllum albidum,12.1,14.7,115.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||citrus sinenses,OMO_STR_0211,Citrus sinenses,Citrus sinenses,24.5,22.2,471.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||cola nitida,OMO_STR_0212,Cola nitida,Cola nitida,16.9,17.9,224.4,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||dracena manni,OMO_STR_0213,Dracena manni,Dracena manni,19.0,20.5,283.6,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||elaeis guineensis,OMO_STR_0214,Elaeis guineense,Elaeis guineensis,34.7,34.2,946.0,LINK_TAXONOMICALLY_SECURE_WITH_ABUNDANCE_DISCREPANCY,TAXONOMICALLY_SECURE_ABUNDANCE_DISCREPANCY,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||ficus exasperata,OMO_STR_0215,Ficus exasperata,Ficus exasperata,27.8,31.7,607.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||musa sapiensis,OMO_STR_0217,Musa sapiensis,Musa sapiensis,27.6,27.8,598.5,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||raulvolfia vomitoria,OMO_STR_0218,Raulvolfia vomitoria,Raulvolfia vomitoria,11.4,13.9,102.1,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||ricinodendron heudeloti,OMO_STR_0219,Ricinodendron heudeloti,Ricinodendron heudeloti,26.2,28.9,539.3,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||theobroma cacao,OMO_STR_0220,Theobroma cacao,Theobroma cacao,18.3,18.6,263.1,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||trema orientalis,OMO_STR_0221,Trema orientalis,Trema orientalis,21.5,23.8,363.2,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES
+transition||upland||uapaca heudeloti,OMO_STR_0222,Uapaca heudeloti,Uapaca heudeloti,17.0,23.0,227.0,EXACT_NORMALIZED_SOURCE_KEY,BASELINE_ACCEPTED,NOTEBOOK_07A_CANONICAL_SPECIES

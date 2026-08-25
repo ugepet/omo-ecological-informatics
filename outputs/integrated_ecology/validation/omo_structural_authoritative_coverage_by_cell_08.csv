@@ -1,0 +1,10 @@
+Zone,Habitat,N_Master_Records,N_Structural_Available,N_Structural_Unavailable,Percent_Available
+Buffer,Major River,24,24,0,100.0
+Buffer,Stream,33,32,1,96.96969696969697
+Buffer,Upland,27,27,0,100.0
+Core,Major River,25,25,0,100.0
+Core,Stream,23,21,2,91.30434782608695
+Core,Upland,23,22,1,95.65217391304348
+Transition,Major River,27,27,0,100.0
+Transition,Stream,14,13,1,92.85714285714286
+Transition,Upland,18,17,1,94.44444444444444

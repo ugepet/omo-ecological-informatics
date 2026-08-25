@@ -1,0 +1,5 @@
+Typology_ID,Typology_Name,N_Plots,Percent_of_82,Mean_Within_Consensus,Mean_Silhouette,N_Low_Confidence,Primary_Syndrome,Landscape_Association
+T1,Core–Upland Dense-Wood Conservative State,26,31.70731707317073,0.8860246153846153,0.2373845414729587,3,High wood density; low SLA; low evenness; below-average DBH and height.,Core-enriched and Upland-enriched.
+T2,Buffer-Enriched Structurally Developed Diverse State,30,36.58536585365854,0.748512643678161,0.22069228315612827,6,High DBH and height with relatively high species richness and Pielou evenness.,Buffer-enriched with modest Stream enrichment.
+T3,Transition–Stream Functionally Diverse Light-Seeded State,13,15.853658536585366,0.8242948717948718,0.13193823981931224,0,Very high FDis; high FEve; low wood density; low seed mass; high CWM maximum height.,Strongly Transition-enriched and Stream-enriched.
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,13,15.853658536585366,0.830974358974359,0.23476051476373733,2,Very high SLA; very low wood density and richness; high seed mass; low CWM maximum height; low DBH and structural height.,Exclusively Transition within the discovery set and Upland-enriched.

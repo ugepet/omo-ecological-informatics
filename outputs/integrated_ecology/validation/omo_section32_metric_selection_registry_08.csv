@@ -1,0 +1,17 @@
+Variable,Domain,Final_Status,Core_Multivariate,Sensitivity_Use,Decision_Basis
+Plot_Total_Abundance,TAXONOMIC_COMMUNITY,CONTEXTUAL_COVARIATE,False,True,Retained as contextual abundance covariate; not interpreted as a diversity dimension.
+Richness,TAXONOMIC_DIVERSITY,CORE_RETAIN,True,True,Direct and interpretable taxonomic richness measure; retained as principal taxonomic diversity axis.
+Shannon,TAXONOMIC_DIVERSITY,SECONDARY_REDUNDANT,False,True,Very highly correlated with Richness and Simpson; retained for sensitivity and descriptive analyses.
+Simpson,TAXONOMIC_DIVERSITY,SECONDARY_REDUNDANT,False,True,Very highly correlated with Shannon and highly correlated with Richness.
+Pielou,TAXONOMIC_DIVERSITY,CORE_RETAIN,True,True,Retained as complementary taxonomic evenness dimension; not strongly redundant with Richness.
+CWM_WD,FUNCTIONAL_COMPOSITION,CORE_RETAIN,True,True,Distinct community wood-density composition axis.
+CWM_SLA,FUNCTIONAL_COMPOSITION,CORE_RETAIN,True,True,Distinct leaf-economic composition axis; moderate inverse association with CWM_WD does not justify removal.
+CWM_Log10_Seed_Mass,FUNCTIONAL_COMPOSITION,CORE_RETAIN,True,True,Distinct regenerative-strategy composition axis.
+CWM_Max_Height_m,FUNCTIONAL_COMPOSITION,CORE_RETAIN,True,True,Distinct potential-stature composition axis.
+FDis,FUNCTIONAL_DIVERSITY,CORE_RETAIN,True,True,Retained as primary functional-dispersion metric; near-equivalent to RaoQ in this dataset.
+RaoQ,FUNCTIONAL_DIVERSITY,SECONDARY_REDUNDANT,False,True,Very highly correlated with FDis (Pearson and Spearman >0.96).
+FEve,FUNCTIONAL_DIVERSITY,CORE_RETAIN_WITH_MINOR_MISSINGNESS,True,True,Represents functional evenness and is not strongly redundant with FDis or RaoQ; one missing plot documented.
+FRic_4D,FUNCTIONAL_DIVERSITY,CORE_OPTIONAL_COMPLETE_CASE,False,True,Conceptually important functional-richness dimension but unavailable for seven plots; retained for complete-case and dedicated FRic analyses.
+Estimated_Mean_DBH,STRUCTURAL_ECOLOGY,CORE_RETAIN,True,True,Retained as principal horizontal tree-size structural metric.
+Estimated_Mean_Height,STRUCTURAL_ECOLOGY,CORE_RETAIN,True,True,Retained as vertical structural dimension. DBH relationship is strongly monotonic but not equivalently linear.
+Estimated_Mean_Basal_Area_Contribution,STRUCTURAL_ECOLOGY,SECONDARY_REDUNDANT,False,True,Very highly correlated with Estimated_Mean_DBH; retained for structural sensitivity and descriptive analyses.

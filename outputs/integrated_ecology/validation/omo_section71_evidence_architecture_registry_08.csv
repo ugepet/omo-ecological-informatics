@@ -1,0 +1,5 @@
+Evidence_Layer,Notebook_Section,Scientific_Question,Status
+FACTORIAL_RESPONSE,4,"How do Habitat, Management Zone and their interaction structure ecological metrics?",VALIDATED
+PAIRWISE_CROSS_DOMAIN_COUPLING,5.1–5.2,Which ecological metrics covary before and after controlling Habitat/Zone?,VALIDATED
+MULTIVARIATE_DOMAIN_COUPLING,5.3–5.4,Which ecological domains remain coupled after controlling landscape design?,VALIDATED
+ECOLOGICAL_TYPOLOGY,6,Which recurrent integrated ecological states occur among sufficiently complete plots?,VALIDATED

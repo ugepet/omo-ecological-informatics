@@ -1,0 +1,4 @@
+Variable,Effect,Authoritative_Status,Reason
+Estimated_Mean_DBH,ZONE,NO_STABLE_MAIN_EFFECT,Raw-scale HC3 Zone effect is non-significant while log-scale HC3 result is borderline significant; significant Zone × Habitat interaction further limits interpretation of the marginal Zone effect.
+Estimated_Mean_DBH,HABITAT,ROBUST_SIGNIFICANT,Significant on both raw and log scales.
+Estimated_Mean_DBH,ZONE_X_HABITAT,ROBUST_SIGNIFICANT,Significant on both raw and log scales.

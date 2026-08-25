@@ -1,0 +1,22 @@
+Typology_ID,Typology_Name,Short_Name,Zone,Habitat,N_Plots,Cluster_Total,Percent_of_Cluster
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Buffer,Major River,2,26,7.6923076923076925
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Buffer,Stream,4,26,15.384615384615385
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Buffer,Upland,2,26,7.6923076923076925
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Core,Major River,7,26,26.923076923076923
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Core,Upland,10,26,38.46153846153846
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,Transition,Major River,1,26,3.8461538461538463
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Buffer,Major River,6,30,20.0
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Buffer,Stream,5,30,16.666666666666668
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Buffer,Upland,5,30,16.666666666666668
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Core,Major River,3,30,10.0
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Core,Stream,7,30,23.333333333333332
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,Transition,Major River,4,30,13.333333333333334
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Buffer,Major River,1,13,7.6923076923076925
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Buffer,Stream,1,13,7.6923076923076925
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Buffer,Upland,1,13,7.6923076923076925
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Transition,Major River,2,13,15.384615384615385
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Transition,Stream,5,13,38.46153846153846
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,Transition,Upland,3,13,23.076923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Acquisitive Low-Richness Heavy-Seeded,Transition,Major River,3,13,23.076923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Acquisitive Low-Richness Heavy-Seeded,Transition,Stream,4,13,30.76923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Acquisitive Low-Richness Heavy-Seeded,Transition,Upland,6,13,46.15384615384615

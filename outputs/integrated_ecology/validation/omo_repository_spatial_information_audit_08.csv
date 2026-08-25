@@ -1,0 +1,826 @@
+Relative_Path,File_Name,Strong_Filename_Matches,Context_Filename_Matches,Strong_Column_Matches,Context_Column_Matches,Candidate_Strong_Columns,Candidate_Context_Columns,Read_Status,Read_Error,Has_Strong_Spatial_Signal,Has_Context_Spatial_Signal
+data\external\BIEN\omo_max_height_bien_multispecies_pilot_raw.csv,omo_max_height_bien_multispecies_pilot_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_max_height_bien_multispecies_pilot_summary.csv,omo_max_height_bien_multispecies_pilot_summary.csv,,,,,,,OK,,False,False
+data\external\BIEN\omo_max_height_bien_pilot_raw.csv,omo_max_height_bien_pilot_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_max_height_bien_species_query_log.csv,omo_max_height_bien_species_query_log.csv,,,,,,,OK,,False,False
+data\external\BIEN\omo_max_height_bien_species_raw.csv,omo_max_height_bien_species_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_max_height_bien_whole_height_query_log.csv,omo_max_height_bien_whole_height_query_log.csv,,,,,,,OK,,False,False
+data\external\BIEN\omo_max_height_bien_whole_height_raw.csv,omo_max_height_bien_whole_height_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_seed_mass_bien_pilot_raw.csv,omo_seed_mass_bien_pilot_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_seed_mass_bien_species_no_direct_return.csv,omo_seed_mass_bien_species_no_direct_return.csv,,,,,,,OK,,False,False
+data\external\BIEN\omo_seed_mass_bien_species_raw.csv,omo_seed_mass_bien_species_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_sla_bien_external_family_raw.csv,omo_sla_bien_external_family_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_sla_bien_genus_raw.csv,omo_sla_bien_genus_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\BIEN\omo_sla_bien_residual_genus_raw.csv,omo_sla_bien_residual_genus_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+data\external\GIFT\omo_max_height_gift_numeric_field_diagnostic.csv,omo_max_height_gift_numeric_field_diagnostic.csv,,,,,,,OK,,False,False
+data\external\GIFT\omo_max_height_gift_species_global_raw.csv,omo_max_height_gift_species_global_raw.csv,,,,,,,OK,,False,False
+data\external\GIFT\omo_max_height_gift_trait_metadata.csv,omo_max_height_gift_trait_metadata.csv,,,,,,,OK,,False,False
+data\functional_traits\gwdd_v2\gwddagg_v2.2_binomial.csv,gwddagg_v2.2_binomial.csv,,,,site,,nb_sites,OK,,False,True
+data\functional_traits\gwdd_v2\gwddagg_v2.2_genus.csv,gwddagg_v2.2_genus.csv,,,,site,,nb_sites,OK,,False,True
+data\processed\community_harmonization_summary.csv,community_harmonization_summary.csv,,,,,,,OK,,False,False
+data\processed\community_matrix_90plots.csv,community_matrix_90plots.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\community_species_inventory.csv,community_species_inventory.csv,,,,,,,OK,,False,False
+data\processed\community_taxonomic_corrections.csv,community_taxonomic_corrections.csv,,,,,,,OK,,False,False
+data\processed\community_taxonomic_review.csv,community_taxonomic_review.csv,,,,,,,OK,,False,False
+data\processed\data_integrity_report.csv,data_integrity_report.csv,,,,,,,OK,,False,False
+data\processed\exact_duplicate_species.csv,exact_duplicate_species.csv,,,,,,,OK,,False,False
+data\processed\genus_similarity_candidates.csv,genus_similarity_candidates.csv,,,,,,,OK,,False,False
+data\processed\high_confidence_species_review.csv,high_confidence_species_review.csv,,,,,,,OK,,False,False
+data\processed\notebook_07a\omo_tree_structure_harmonized.csv,omo_tree_structure_harmonized.csv,,,,habitat; zone,,Management_Zone; Habitat,OK,,False,True
+data\processed\notebook_07a\omo_tree_structure_raw.csv,omo_tree_structure_raw.csv,,,,habitat; zone,,Management_Zone; Habitat,OK,,False,True
+data\processed\notebook_07a\structure_internal_consistency.csv,structure_internal_consistency.csv,,,,habitat; zone,,Management_Zone; Habitat,OK,,False,True
+data\processed\notebook_07a\structure_qc_report.csv,structure_qc_report.csv,,,,habitat; zone,,Management_Zone; Habitat,OK,,False,True
+data\processed\notebook_07a\structure_taxonomic_matching.csv,structure_taxonomic_matching.csv,,,,,,,OK,,False,False
+data\processed\omo_community_matrix.csv,omo_community_matrix.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\omo_community_matrix_harmonized.csv,omo_community_matrix_harmonized.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\omo_data_integrity_report.csv,omo_data_integrity_report.csv,,,,,,,OK,,False,False
+data\processed\omo_plot_metadata.csv,omo_plot_metadata.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\omo_species_metadata.csv,omo_species_metadata.csv,,,,,,,OK,,False,False
+data\processed\plot_metadata.csv,plot_metadata.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\species_dictionary_template.csv,species_dictionary_template.csv,,,,,,,OK,,False,False
+data\processed\species_metadata.csv,species_metadata.csv,,,,,,,OK,,False,False
+data\processed\species_review_table.csv,species_review_table.csv,,,,,,,OK,,False,False
+data\processed\tree_analysis_ready.csv,tree_analysis_ready.csv,,,,habitat; plot; zone,,Plot1; Plot2; Plot3; Plot4; Plot5; Plot6; Plot7; Plot8; Plot9; Plot10; Zone; Habitat,OK,,False,True
+data\processed\tree_master_database_v1.0.csv,tree_master_database_v1.0.csv,,,,habitat; plot; zone,,Plot1; Plot2; Plot3; Plot4; Plot5; Plot6; Plot7; Plot8; Plot9; Plot10; Zone; Habitat,OK,,False,True
+data\processed\tree_master_database_v2.0.csv,tree_master_database_v2.0.csv,,,,habitat; plot; zone,,Plot1; Plot2; Plot3; Plot4; Plot5; Plot6; Plot7; Plot8; Plot9; Plot10; Zone; Habitat,OK,,False,True
+data\processed\tree_species_dataset.csv,tree_species_dataset.csv,,,,habitat; plot; zone,,Plot1; Plot2; Plot3; Plot4; Plot5; Plot6; Plot7; Plot8; Plot9; Plot10; Zone; Habitat,OK,,False,True
+data\raw\trees\buffer_major_river_trees.csv,buffer_major_river_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\buffer_stream_trees.csv,buffer_stream_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\buffer_upland_trees.csv,buffer_upland_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\core_major_river_trees.csv,core_major_river_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\core_stream_trees.csv,core_stream_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\core_upland_trees.csv,core_upland_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\transition_major_river_trees.csv,transition_major_river_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\transition_stream_trees.csv,transition_stream_trees.csv,,,,,,,OK,,False,False
+data\raw\trees\transition_upland_trees.csv,transition_upland_trees.csv,,,,,,,OK,,False,False
+data\reference\species_dictionary.csv,species_dictionary.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_acquisition_ledger.csv,omo_sla_acquisition_ledger.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_acquisition_targets.csv,omo_sla_acquisition_targets.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_all_genus_level_targets.csv,omo_sla_all_genus_level_targets.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_bien_genus_query_manifest.csv,omo_sla_bien_genus_query_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_genus_search_manifest.csv,omo_sla_genus_search_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_internal_taxonomic_evidence_counts.csv,omo_sla_internal_taxonomic_evidence_counts.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_internal_taxonomic_evidence_files.csv,omo_sla_internal_taxonomic_evidence_files.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_internal_taxonomic_evidence_memory.csv,omo_sla_internal_taxonomic_evidence_memory.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_match_status_registry.csv,omo_sla_match_status_registry.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_measurement_registry.csv,omo_sla_measurement_registry.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_pretrait_taxonomic_evidence.csv,omo_sla_pretrait_taxonomic_evidence.csv,,,,,,,FAILED,EmptyDataError: No columns to parse from file,False,False
+notebooks\outputs\functional_traits\omo_sla_pretrait_taxonomic_evidence_summary.csv,omo_sla_pretrait_taxonomic_evidence_summary.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_pretrait_taxonomic_mapping_candidates.csv,omo_sla_pretrait_taxonomic_mapping_candidates.csv,,,,,,,FAILED,EmptyDataError: No columns to parse from file,False,False
+notebooks\outputs\functional_traits\omo_sla_source_hierarchy.csv,omo_sla_source_hierarchy.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_species_to_genus_transfer_manifest.csv,omo_sla_species_to_genus_transfer_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_acquisition_register.csv,omo_sla_supplementary_acquisition_register.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_final_pathways.csv,omo_sla_supplementary_final_pathways.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_species_acquisition_register.csv,omo_sla_supplementary_species_acquisition_register.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_species_first_pass_evidence.csv,omo_sla_supplementary_species_first_pass_evidence.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_species_search_closure.csv,omo_sla_supplementary_species_search_closure.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_species_search_manifest.csv,omo_sla_supplementary_species_search_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_taxa_requiring_source_review.csv,omo_sla_supplementary_taxa_requiring_source_review.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_supplementary_taxonomic_verification.csv,omo_sla_supplementary_taxonomic_verification.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_deferred_taxa.csv,omo_sla_try_deferred_taxa.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_primary_request_species.csv,omo_sla_try_primary_request_species.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_request_51853_provenance.csv,omo_sla_try_request_51853_provenance.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_species_acquisition_manifest.csv,omo_sla_try_species_acquisition_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxa_requiring_review.csv,omo_sla_try_taxa_requiring_review.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxa_still_unresolved.csv,omo_sla_try_taxa_still_unresolved.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxa_unresolved_after_controlled_matching.csv,omo_sla_try_taxa_unresolved_after_controlled_matching.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxonomic_crosswalk_preliminary.csv,omo_sla_try_taxonomic_crosswalk_preliminary.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxonomic_crosswalk_resolved.csv,omo_sla_try_taxonomic_crosswalk_resolved.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_try_taxonomic_crosswalk_verified.csv,omo_sla_try_taxonomic_crosswalk_verified.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_unique_genus_acquisition_manifest.csv,omo_sla_unique_genus_acquisition_manifest.csv,,,,,,,OK,,False,False
+notebooks\outputs\functional_traits\omo_sla_unit_registry.csv,omo_sla_unit_registry.csv,,,,,,,OK,,False,False
+notebooks\outputs\tables\missing_values.csv,missing_values.csv,,,,,,,OK,,False,False
+notebooks\Tables\community_species_inventory.csv,community_species_inventory.csv,,,,,,,OK,,False,False
+notebooks\Tables\data_integrity_validation_report.csv,data_integrity_validation_report.csv,,,,,,,OK,,False,False
+notebooks\Tables\exact_duplicate_species.csv,exact_duplicate_species.csv,,,,,,,OK,,False,False
+notebooks\Tables\genus_similarity_candidates.csv,genus_similarity_candidates.csv,,,,,,,OK,,False,False
+notebooks\Tables\omo_community_matrix_harmonized.csv,omo_community_matrix_harmonized.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+notebooks\Tables\omo_plot_metadata.csv,omo_plot_metadata.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+notebooks\Tables\omo_species_metadata.csv,omo_species_metadata.csv,,,,,,,OK,,False,False
+notebooks\Tables\taxonomic_candidate_corrections.csv,taxonomic_candidate_corrections.csv,,,,,,,OK,,False,False
+notebooks\Tables\taxonomic_manual_review.csv,taxonomic_manual_review.csv,,,,,,,OK,,False,False
+notebooks\Tables\taxonomic_merge_report.csv,taxonomic_merge_report.csv,,,,,,,OK,,False,False
+notebooks\Tables\taxonomic_QA_report.csv,taxonomic_QA_report.csv,,,,,,,OK,,False,False
+notebooks\Tables\taxonomic_similarity_candidates.csv,taxonomic_similarity_candidates.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_analytical_coverage_summary.csv,omo_07C_analytical_coverage_summary.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_cwm_headline_synthesis.csv,omo_07C_cwm_headline_synthesis.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_fd_headline_synthesis.csv,omo_07C_fd_headline_synthesis.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_headline_findings.csv,omo_07C_headline_findings.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_methodological_decisions.csv,omo_07C_methodological_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_pca_synthesis.csv,omo_07C_pca_synthesis.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_seed_mass_fd_final_integration.csv,omo_07C_seed_mass_fd_final_integration.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_07C_trait_space_summary.csv,omo_07C_trait_space_summary.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_classical_vs_hc3_disagreement_07C.csv,omo_cwm_classical_vs_hc3_disagreement_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_descriptive_habitat_ranks_07C.csv,omo_cwm_descriptive_habitat_ranks_07C.csv,,habitat,,habitat,,Habitat,OK,,False,True
+outputs\functional_ecology\omo_cwm_descriptive_zone_ranks_07C.csv,omo_cwm_descriptive_zone_ranks_07C.csv,,zone,,zone,,Zone,OK,,False,True
+outputs\functional_ecology\omo_cwm_ecological_interpretation_07C.csv,omo_cwm_ecological_interpretation_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_factorial_assumption_diagnostics_07C.csv,omo_cwm_factorial_assumption_diagnostics_07C.csv,,,,plot,,N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_factorial_influence_diagnostics_07C.csv,omo_cwm_factorial_influence_diagnostics_07C.csv,,,,habitat; plot; zone,,Plot_ID; Habitat; Zone,OK,,False,True
+outputs\functional_ecology\omo_cwm_fd_cell_residualized_07C.csv,omo_cwm_fd_cell_residualized_07C.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_cwm_fd_correlations_07C.csv,omo_cwm_fd_correlations_07C.csv,,,,plot,,N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_fd_design_adjusted_associations_07C.csv,omo_cwm_fd_design_adjusted_associations_07C.csv,,,,plot,,N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_fd_multivariable_results_07C.csv,omo_cwm_fd_multivariable_results_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_fd_standardized_effects_07C.csv,omo_cwm_fd_standardized_effects_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_habitat_zone_cell_diagnostics_07C.csv,omo_cwm_habitat_zone_cell_diagnostics_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_habitat_zone_factorial_results_07C.csv,omo_cwm_habitat_zone_factorial_results_07C.csv,,habitat; zone,,,,,OK,,False,True
+outputs\functional_ecology\omo_cwm_hc3_simple_effects_07C.csv,omo_cwm_hc3_simple_effects_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_headline_results_07C.csv,omo_cwm_headline_results_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_multivariable_vif_07C.csv,omo_cwm_multivariable_vif_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_post_omnibus_inference_pathways_07C.csv,omo_cwm_post_omnibus_inference_pathways_07C.csv,,,,habitat; zone,,Habitat_HC3_Significant; Zone_HC3_Significant,OK,,False,True
+outputs\functional_ecology\omo_cwm_posthoc_summary_07C.csv,omo_cwm_posthoc_summary_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_seed_mass_coverage_by_habitat_zone_07C.csv,omo_cwm_seed_mass_coverage_by_habitat_zone_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots; N_Plots_Below_100_Percent,OK,,False,True
+outputs\functional_ecology\omo_cwm_seed_mass_TuP4_sensitivity_07C.csv,omo_cwm_seed_mass_TuP4_sensitivity_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_significant_seed_mass_ratios_07C.csv,omo_cwm_significant_seed_mass_ratios_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_cwm_sla_zone_posthoc_hc3_07C.csv,omo_cwm_sla_zone_posthoc_hc3_07C.csv,,zone,,,,,OK,,False,True
+outputs\functional_ecology\omo_cwm_summary_by_habitat_07C.csv,omo_cwm_summary_by_habitat_07C.csv,,habitat,,habitat; plot,,Habitat; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_summary_by_habitat_zone_07C.csv,omo_cwm_summary_by_habitat_zone_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_cwm_summary_by_zone_07C.csv,omo_cwm_summary_by_zone_07C.csv,,zone,,plot; zone,,Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_ecological_interpretation_07C.csv,omo_fd_ecological_interpretation_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_factorial_assumption_diagnostics_07C.csv,omo_fd_factorial_assumption_diagnostics_07C.csv,,,,plot,,N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_fdis_raoq_inferential_concordance_07C.csv,omo_fd_fdis_raoq_inferential_concordance_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_fdis_raoq_simple_effect_concordance_07C.csv,omo_fd_fdis_raoq_simple_effect_concordance_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_final_metric_policy_07C.csv,omo_fd_final_metric_policy_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_habitat_zone_cell_diagnostics_07C.csv,omo_fd_habitat_zone_cell_diagnostics_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_habitat_zone_factorial_results_07C.csv,omo_fd_habitat_zone_factorial_results_07C.csv,,habitat; zone,,,,,OK,,False,True
+outputs\functional_ecology\omo_fd_hc3_simple_effects_07C.csv,omo_fd_hc3_simple_effects_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_headline_results_07C.csv,omo_fd_headline_results_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_fd_inferential_policy_07C.csv,omo_fd_inferential_policy_07C.csv,,,,plot,,N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_influence_sensitivity_07C.csv,omo_fd_influence_sensitivity_07C.csv,,,,plot,,N_Extreme_Plots_Excluded; Excluded_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_post_omnibus_inference_pathways_07C.csv,omo_fd_post_omnibus_inference_pathways_07C.csv,,,,habitat; zone,,Habitat_HC3_Significant; Zone_HC3_Significant,OK,,False,True
+outputs\functional_ecology\omo_fd_posthoc_summary_07C.csv,omo_fd_posthoc_summary_07C.csv,,,,habitat; zone,,N_Habitat_Within_Zone_Contrasts; N_Habitat_Within_Zone_Significant; N_Zone_Within_Habitat_Contrasts; N_Zone_Within_Habitat_Significant,OK,,False,True
+outputs\functional_ecology\omo_fd_summary_by_habitat_07C.csv,omo_fd_summary_by_habitat_07C.csv,,habitat,,habitat; plot,,Habitat; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_summary_by_habitat_zone_07C.csv,omo_fd_summary_by_habitat_zone_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_summary_by_zone_07C.csv,omo_fd_summary_by_zone_07C.csv,,zone,,plot; zone,,Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_fd_supplementary_metric_coverage_07C.csv,omo_fd_supplementary_metric_coverage_07C.csv,,,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_feve_correction_audit_07C.csv,omo_feve_correction_audit_07C.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_fric_4D_feasibility_diagnostic_07C.csv,omo_fric_4D_feasibility_diagnostic_07C.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_fric_calculation_audit_07C.csv,omo_fric_calculation_audit_07C.csv,,,,plot,,Plot_ID,OK,,False,True
+outputs\functional_ecology\omo_functional_composition_diversity_plot_integration_07C.csv,omo_functional_composition_diversity_plot_integration_07C.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_functional_diversity_metric_completeness_07C.csv,omo_functional_diversity_metric_completeness_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_diversity_metric_eligibility_07C.csv,omo_functional_diversity_metric_eligibility_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_diversity_metric_policy_07C.csv,omo_functional_diversity_metric_policy_07C.csv,,,,plot,,N_Valid_Plots,OK,,False,True
+outputs\functional_ecology\omo_functional_diversity_plot_diagnostics_07C.csv,omo_functional_diversity_plot_diagnostics_07C.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_functional_diversity_plot_metrics_07C.csv,omo_functional_diversity_plot_metrics_07C.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\functional_ecology\omo_functional_ecology_correlation_matrix_07C.csv,omo_functional_ecology_correlation_matrix_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_ecology_habitat_zone_synthesis_07C.csv,omo_functional_ecology_habitat_zone_synthesis_07C.csv,,habitat; zone,,habitat; plot; zone,,Habitat; Zone; N_Plots,OK,,False,True
+outputs\functional_ecology\omo_functional_trait_duplicate_vectors_07C.csv,omo_functional_trait_duplicate_vectors_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_trait_euclidean_distance_4D_07C.csv,omo_functional_trait_euclidean_distance_4D_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_trait_space_coverage_07C.csv,omo_functional_trait_space_coverage_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_trait_space_matrix_4trait_07C.csv,omo_functional_trait_space_matrix_4trait_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_trait_space_specification_07C.csv,omo_functional_trait_space_specification_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_axis_interpretation_07C.csv,omo_functional_traits_pca_axis_interpretation_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_dimensionality_strategy_07C.csv,omo_functional_traits_pca_dimensionality_strategy_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_extreme_species_07C.csv,omo_functional_traits_pca_extreme_species_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_loadings_07C.csv,omo_functional_traits_pca_loadings_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_species_scores_07C.csv,omo_functional_traits_pca_species_scores_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_pca_variance_07C.csv,omo_functional_traits_pca_variance_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_preprocessed_07C.csv,omo_functional_traits_preprocessed_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_functional_traits_standardized_4trait_07C.csv,omo_functional_traits_standardized_4trait_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_cross_section_integrity_audit.csv,omo_notebook_07C_cross_section_integrity_audit.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_downstream_ready_products.csv,omo_notebook_07C_downstream_ready_products.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_final_analytical_declarations.csv,omo_notebook_07C_final_analytical_declarations.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_final_figure_manifest.csv,omo_notebook_07C_final_figure_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_final_output_manifest.csv,omo_notebook_07C_final_output_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_identity.csv,omo_notebook_07C_identity.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_output_inventory_summary.csv,omo_notebook_07C_output_inventory_summary.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_notebook_07C_section_completion_register.csv,omo_notebook_07C_section_completion_register.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_plot_level_cwm_traits_07C.csv,omo_plot_level_cwm_traits_07C.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat; Plot_Total_Individuals,OK,,False,True
+outputs\functional_ecology\omo_section_4_trait_correlation_summary_07C.csv,omo_section_4_trait_correlation_summary_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_section_5_pca_summary_07C.csv,omo_section_5_pca_summary_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_section_8_functional_integration_interpretation_07C.csv,omo_section_8_functional_integration_interpretation_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_seed_mass_fdis_pooled_vs_adjusted_07C.csv,omo_seed_mass_fdis_pooled_vs_adjusted_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_correlation_interpretation_07C.csv,omo_trait_correlation_interpretation_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_correlations_formal_07C.csv,omo_trait_correlations_formal_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_pair_plot_manifest_07C.csv,omo_trait_pair_plot_manifest_07C.csv,,plot,,plot,,Plot_File,OK,,False,True
+outputs\functional_ecology\omo_trait_pairwise_correlations_diagnostic_07C.csv,omo_trait_pairwise_correlations_diagnostic_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_standardization_parameters_07C.csv,omo_trait_standardization_parameters_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_transformation_decisions_07C.csv,omo_trait_transformation_decisions_07C.csv,,,,,,,OK,,False,False
+outputs\functional_ecology\omo_trait_transformation_diagnostics_07C.csv,omo_trait_transformation_diagnostics_07C.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_four_trait_merged_interim.csv,omo_functional_traits_four_trait_merged_interim.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_four_trait_structure_report.csv,omo_functional_traits_four_trait_structure_report.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_integrated_provenance_audit.csv,omo_functional_traits_integrated_provenance_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_integrated_quality_audit.csv,omo_functional_traits_integrated_quality_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_iqr_outlier_diagnostic.csv,omo_functional_traits_iqr_outlier_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_taxon_evidence_profile.csv,omo_functional_traits_taxon_evidence_profile.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_functional_traits_trait_distribution_audit.csv,omo_functional_traits_trait_distribution_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_max_height_integration_extract.csv,omo_max_height_integration_extract.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_seed_mass_integration_extract.csv,omo_seed_mass_integration_extract.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_sla_integration_extract.csv,omo_sla_integration_extract.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_sla_provenance_field_repair_audit.csv,omo_sla_provenance_field_repair_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_trait_numeric_completeness_preintegration.csv,omo_trait_numeric_completeness_preintegration.csv,,,,,,,OK,,False,False
+outputs\functional_traits\integration\omo_wd_integration_extract.csv,omo_wd_integration_extract.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_functional_traits_core_matrix.csv,omo_functional_traits_core_matrix.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_functional_traits_final.csv,omo_functional_traits_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_functional_traits_final_completeness_summary.csv,omo_functional_traits_final_completeness_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_functional_traits_final_provenance_summary.csv,omo_functional_traits_final_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_functional_traits_final_validation_report.csv,omo_functional_traits_final_validation_report.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_acquisition_status_ledger.csv,omo_max_height_acquisition_status_ledger.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_assignment_level_summary.csv,omo_max_height_assignment_level_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_derived_max_biological_review.csv,omo_max_height_bien_derived_max_biological_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_gift_overlap_audit.csv,omo_max_height_bien_gift_overlap_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_gift_source_precedence.csv,omo_max_height_bien_gift_source_precedence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_provisional_species_values.csv,omo_max_height_bien_provisional_species_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_qc_register.csv,omo_max_height_bien_qc_register.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_max_height_bien_whole_height_candidate_derived_max_corrected.csv,omo_max_height_bien_whole_height_candidate_derived_max_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_whole_height_provisional_derived_max.csv,omo_max_height_bien_whole_height_provisional_derived_max.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_whole_height_qc_corrected.csv,omo_max_height_bien_whole_height_qc_corrected.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_max_height_bien_whole_height_qc_register.csv,omo_max_height_bien_whole_height_qc_register.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_max_height_bien_whole_height_review_records.csv,omo_max_height_bien_whole_height_review_records.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_max_height_bien_whole_height_species_variability.csv,omo_max_height_bien_whole_height_species_variability.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_bien_whole_height_species_variability_corrected.csv,omo_max_height_bien_whole_height_species_variability_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_clean_supplementary_search_register.csv,omo_max_height_clean_supplementary_search_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_clean_taxonomic_mapping.csv,omo_max_height_clean_taxonomic_mapping.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_exceptional_case_evidence.csv,omo_max_height_exceptional_case_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_final.csv,omo_max_height_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_final_evidence_level_reclassification.csv,omo_max_height_final_evidence_level_reclassification.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_final_six_taxonomic_triage.csv,omo_max_height_final_six_taxonomic_triage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_final_validation_report.csv,omo_max_height_final_validation_report.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_genus_estimate_decisions.csv,omo_max_height_genus_estimate_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_genus_estimates_accepted.csv,omo_max_height_genus_estimates_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_genus_estimation_audit.csv,omo_max_height_genus_estimation_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_accepted_species_values.csv,omo_max_height_gift_accepted_species_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_ambiguity_resolution_register.csv,omo_max_height_gift_ambiguity_resolution_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_ambiguous_matches.csv,omo_max_height_gift_ambiguous_matches.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_match_counts.csv,omo_max_height_gift_match_counts.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_match_ledger.csv,omo_max_height_gift_match_ledger.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_plausibility_review.csv,omo_max_height_gift_plausibility_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_target_genus_species_records.csv,omo_max_height_gift_target_genus_species_records.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_target_genus_summary.csv,omo_max_height_gift_target_genus_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_taxonomic_ambiguity_hold.csv,omo_max_height_gift_taxonomic_ambiguity_hold.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_gift_unresolved_taxa.csv,omo_max_height_gift_unresolved_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_provenance_summary.csv,omo_max_height_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_recovered_taxonomic_mapping_evidence.csv,omo_max_height_recovered_taxonomic_mapping_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_recovered_taxonomic_mapping_qc.csv,omo_max_height_recovered_taxonomic_mapping_qc.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_rejected_mapping_artifacts.csv,omo_max_height_rejected_mapping_artifacts.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_species_evidence_accepted_current.csv,omo_max_height_species_evidence_accepted_current.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_supplementary_reference_evidence.csv,omo_max_height_supplementary_reference_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_supplementary_search_register.csv,omo_max_height_supplementary_search_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_target_manifest.csv,omo_max_height_target_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_targeted_reference_batch1_evidence.csv,omo_max_height_targeted_reference_batch1_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_targeted_reference_batch2_evidence.csv,omo_max_height_targeted_reference_batch2_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_max_height_targeted_supplementary_acquisition_register.csv,omo_max_height_targeted_supplementary_acquisition_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_notebook_07B_closure_summary.csv,omo_notebook_07B_closure_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_acquisition_manifest_initial.csv,omo_seed_mass_acquisition_manifest_initial.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_acquisition_routing_after_try_taxonomy.csv,omo_seed_mass_acquisition_routing_after_try_taxonomy.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_approved_family_transfer_candidates.csv,omo_seed_mass_approved_family_transfer_candidates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_28_taxon_consolidation_validation.csv,omo_seed_mass_bien_28_taxon_consolidation_validation.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_28_taxon_set_diagnostic.csv,omo_seed_mass_bien_28_taxon_set_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_accepted_measurements.csv,omo_seed_mass_bien_accepted_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_acquisition_manifest.csv,omo_seed_mass_bien_acquisition_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_aggregation_sensitivity_review.csv,omo_seed_mass_bien_aggregation_sensitivity_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_fresh_qc_resolved_register.csv,omo_seed_mass_bien_alias_fresh_qc_resolved_register.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_accepted_measurements.csv,omo_seed_mass_bien_alias_new_accepted_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_accepted_species_summary.csv,omo_seed_mass_bien_alias_new_accepted_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_adjacent_jumps.csv,omo_seed_mass_bien_alias_new_adjacent_jumps.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_qc_required.csv,omo_seed_mass_bien_alias_new_qc_required.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_qc_routing.csv,omo_seed_mass_bien_alias_new_qc_routing.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_source_method_summary.csv,omo_seed_mass_bien_alias_new_source_method_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_species_summary.csv,omo_seed_mass_bien_alias_new_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_targeted_review_records.csv,omo_seed_mass_bien_alias_new_targeted_review_records.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_new_taxonomic_diagnostics.csv,omo_seed_mass_bien_alias_new_taxonomic_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_prior_accepted_reused.csv,omo_seed_mass_bien_alias_prior_accepted_reused.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_prior_rejected.csv,omo_seed_mass_bien_alias_prior_rejected.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_crosswalk_overlap_audit.csv,omo_seed_mass_bien_alias_requery_crosswalk_overlap_audit.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_qc_candidates.csv,omo_seed_mass_bien_alias_requery_qc_candidates.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_raw.csv,omo_seed_mass_bien_alias_requery_raw.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_species_audit.csv,omo_seed_mass_bien_alias_requery_species_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_status.csv,omo_seed_mass_bien_alias_requery_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_targets.csv,omo_seed_mass_bien_alias_requery_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_alias_requery_taxonomic_review.csv,omo_seed_mass_bien_alias_requery_taxonomic_review.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_rescue_deduplicated.csv,omo_seed_mass_bien_alias_rescue_deduplicated.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_alias_rescue_taxon_status.csv,omo_seed_mass_bien_alias_rescue_taxon_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_all_species_values_current.csv,omo_seed_mass_bien_all_species_values_current.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_current_provenance_summary.csv,omo_seed_mass_bien_current_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_deduplicated_measurements.csv,omo_seed_mass_bien_deduplicated_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_final_quality_summary.csv,omo_seed_mass_bien_final_quality_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_final_species_values.csv,omo_seed_mass_bien_final_species_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_final_taxonomic_rescue_values.csv,omo_seed_mass_bien_final_taxonomic_rescue_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_method_summary.csv,omo_seed_mass_bien_method_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_post_alias_component_audit.csv,omo_seed_mass_bien_post_alias_component_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_post_alias_output_audit.csv,omo_seed_mass_bien_post_alias_output_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_post_dedup_species_summary.csv,omo_seed_mass_bien_post_dedup_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_post_review_species_summary.csv,omo_seed_mass_bien_post_review_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_provisional_species_status.csv,omo_seed_mass_bien_provisional_species_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_provisionally_retained_measurements.csv,omo_seed_mass_bien_provisionally_retained_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_raw_crosswalk_audit.csv,omo_seed_mass_bien_raw_crosswalk_audit.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_rejected_measurements.csv,omo_seed_mass_bien_rejected_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_repeated_signatures.csv,omo_seed_mass_bien_repeated_signatures.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_source_level_summaries.csv,omo_seed_mass_bien_source_level_summaries.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_source_summary.csv,omo_seed_mass_bien_source_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_species_aggregation_comparison.csv,omo_seed_mass_bien_species_aggregation_comparison.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_species_raw_summary.csv,omo_seed_mass_bien_species_raw_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_species_requery_targets_final.csv,omo_seed_mass_bien_species_requery_targets_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_species_source_structure.csv,omo_seed_mass_bien_species_source_structure.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_taxonomic_review.csv,omo_seed_mass_bien_taxonomic_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_127_taxon_coverage.csv,omo_seed_mass_bien_try_127_taxon_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_coverage_category_summary.csv,omo_seed_mass_bien_try_coverage_category_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_cross_source_consolidation.csv,omo_seed_mass_bien_try_cross_source_consolidation.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_global_summary.csv,omo_seed_mass_bien_try_global_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_overlap_diagnostic.csv,omo_seed_mass_bien_try_overlap_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_try_overlap_summary.csv,omo_seed_mass_bien_try_overlap_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_adjacent_jumps.csv,omo_seed_mass_bien_variability_adjacent_jumps.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_hold_measurements.csv,omo_seed_mass_bien_variability_hold_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_variability_metadata_review.csv,omo_seed_mass_bien_variability_metadata_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_review.csv,omo_seed_mass_bien_variability_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_review_records.csv,omo_seed_mass_bien_variability_review_records.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_review_register.csv,omo_seed_mass_bien_variability_review_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_review_register_resolved.csv,omo_seed_mass_bien_variability_review_register_resolved.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_bien_variability_taxonomic_diagnostics.csv,omo_seed_mass_bien_variability_taxonomic_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_bien_variability_value_diagnostics.csv,omo_seed_mass_bien_variability_value_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_broader_fallback_numeric_targets.csv,omo_seed_mass_broader_fallback_numeric_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_canonical_family_assignments.csv,omo_seed_mass_canonical_family_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_canonical_genus_assignments.csv,omo_seed_mass_canonical_genus_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_complete_evidence_genus_family_mapping_summary.csv,omo_seed_mass_complete_evidence_genus_family_mapping_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_congeneric_pseudo_aliases_excluded.csv,omo_seed_mass_congeneric_pseudo_aliases_excluded.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_corrected_family_evidence_audit.csv,omo_seed_mass_corrected_family_evidence_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_corrected_family_evidence_audit_summary.csv,omo_seed_mass_corrected_family_evidence_audit_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_corrected_family_evidence_class_summary.csv,omo_seed_mass_corrected_family_evidence_class_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_corrected_family_evidence_detail.csv,omo_seed_mass_corrected_family_evidence_detail.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_direct_family_audit_canonical_targets.csv,omo_seed_mass_direct_family_audit_canonical_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_evidence_genus_family_crosswalk.csv,omo_seed_mass_evidence_genus_family_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_evidence_genus_family_crosswalk_complete.csv,omo_seed_mass_evidence_genus_family_crosswalk_complete.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_evidence_species_family_mapping_complete.csv,omo_seed_mass_evidence_species_family_mapping_complete.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_evidence_species_in_target_families_complete.csv,omo_seed_mass_evidence_species_in_target_families_complete.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_evidence_species_outside_target_families.csv,omo_seed_mass_evidence_species_outside_target_families.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_existing_records.csv,omo_seed_mass_existing_records.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_existing_trait_field_audit.csv,omo_seed_mass_existing_trait_field_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_evidence_detail.csv,omo_seed_mass_fabaceae_evidence_detail.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_evidence_genus_summary.csv,omo_seed_mass_fabaceae_evidence_genus_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_high_dispersion_review_summary.csv,omo_seed_mass_fabaceae_high_dispersion_review_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_high_dispersion_target_review.csv,omo_seed_mass_fabaceae_high_dispersion_target_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_post_review_unresolved_targets.csv,omo_seed_mass_fabaceae_post_review_unresolved_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_fabaceae_single_congener_context.csv,omo_seed_mass_fabaceae_single_congener_context.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_assignment_summary.csv,omo_seed_mass_family_assignment_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_audit_canonical_family_map_authoritative.csv,omo_seed_mass_family_audit_canonical_family_map_authoritative.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_audit_genus_summary.csv,omo_seed_mass_family_audit_genus_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_audit_genus_summary_after_single_congener_review.csv,omo_seed_mass_family_audit_genus_summary_after_single_congener_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_audit_targets_after_single_congener_review.csv,omo_seed_mass_family_audit_targets_after_single_congener_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_audit_targets_prepared.csv,omo_seed_mass_family_audit_targets_prepared.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_candidate_canonical_preview.csv,omo_seed_mass_family_candidate_canonical_preview.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_evidence_audit_authoritative.csv,omo_seed_mass_family_evidence_audit_authoritative.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_evidence_audit_authoritative_summary.csv,omo_seed_mass_family_evidence_audit_authoritative_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_evidence_detail_authoritative.csv,omo_seed_mass_family_evidence_detail_authoritative.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_evidence_species_mapping_authoritative.csv,omo_seed_mass_family_evidence_species_mapping_authoritative.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_evidence_unmapped_genera.csv,omo_seed_mass_family_evidence_unmapped_genera.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_high_dispersion_review.csv,omo_seed_mass_family_high_dispersion_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_level_assignments.csv,omo_seed_mass_family_level_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_stage_targets.csv,omo_seed_mass_family_stage_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_transfer_decisions.csv,omo_seed_mass_family_transfer_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_transfer_feasibility_register.csv,omo_seed_mass_family_transfer_feasibility_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_transfer_noneligible_families.csv,omo_seed_mass_family_transfer_noneligible_families.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_transfer_rule_summary.csv,omo_seed_mass_family_transfer_rule_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_family_transfer_rules.csv,omo_seed_mass_family_transfer_rules.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final.csv,omo_seed_mass_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_assignment_level_summary.csv,omo_seed_mass_final_assignment_level_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_closure_provenance_summary.csv,omo_seed_mass_final_closure_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_closure_summary.csv,omo_seed_mass_final_closure_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_component_overlap_audit.csv,omo_seed_mass_final_component_overlap_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_provenance_summary.csv,omo_seed_mass_final_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_quality_summary.csv,omo_seed_mass_final_quality_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_species_level_consolidated.csv,omo_seed_mass_final_species_level_consolidated.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_species_requery_manifest.csv,omo_seed_mass_final_species_requery_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_species_source_discovery_audit.csv,omo_seed_mass_final_species_source_discovery_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_taxonomic_rescue_accepted_name_evidence.csv,omo_seed_mass_final_taxonomic_rescue_accepted_name_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_taxonomic_rescue_assignments.csv,omo_seed_mass_final_taxonomic_rescue_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_taxonomic_rescue_crosswalk.csv,omo_seed_mass_final_taxonomic_rescue_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_taxonomic_rescue_summary.csv,omo_seed_mass_final_taxonomic_rescue_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_taxonomic_rescue_unresolved.csv,omo_seed_mass_final_taxonomic_rescue_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_final_validation_summary.csv,omo_seed_mass_final_validation_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_audit_species_evidence_pool.csv,omo_seed_mass_genus_audit_species_evidence_pool.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_audit_species_evidence_pool_normalized.csv,omo_seed_mass_genus_audit_species_evidence_pool_normalized.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_evidence_taxonomic_normalization_diagnostic.csv,omo_seed_mass_genus_evidence_taxonomic_normalization_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_level_assignments.csv,omo_seed_mass_genus_level_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_stage_targets.csv,omo_seed_mass_genus_stage_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_transfer_rules.csv,omo_seed_mass_genus_transfer_rules.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_genus_transfer_summary.csv,omo_seed_mass_genus_transfer_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_assignment_provenance_summary.csv,omo_seed_mass_global_fallback_assignment_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_assignment_route_summary.csv,omo_seed_mass_global_fallback_assignment_route_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_assignments.csv,omo_seed_mass_global_fallback_assignments.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_design_register.csv,omo_seed_mass_global_fallback_design_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_estimator_comparison.csv,omo_seed_mass_global_fallback_estimator_comparison.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_estimator_selection_summary.csv,omo_seed_mass_global_fallback_estimator_selection_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_evidence_distribution.csv,omo_seed_mass_global_fallback_evidence_distribution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_propagation_summary.csv,omo_seed_mass_global_fallback_propagation_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_selected_estimator.csv,omo_seed_mass_global_fallback_selected_estimator.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_global_fallback_sensitivity_analysis.csv,omo_seed_mass_global_fallback_sensitivity_analysis.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_high_dispersion_family_pending_targets.csv,omo_seed_mass_high_dispersion_family_pending_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_musa_paradisiaca_special_case_review.csv,omo_seed_mass_musa_paradisiaca_special_case_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_musa_paradisiaca_special_case_summary.csv,omo_seed_mass_musa_paradisiaca_special_case_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_accepted_evidence_all_batches.csv,omo_seed_mass_non_try_external_accepted_evidence_all_batches.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_acquisition_register.csv,omo_seed_mass_non_try_external_acquisition_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_accepted_evidence.csv,omo_seed_mass_non_try_external_batch01_accepted_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_evidence.csv,omo_seed_mass_non_try_external_batch01_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_evidence_resolved.csv,omo_seed_mass_non_try_external_batch01_evidence_resolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_hold_resolution_summary.csv,omo_seed_mass_non_try_external_batch01_hold_resolution_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_no_numeric_evidence.csv,omo_seed_mass_non_try_external_batch01_no_numeric_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_rejected_evidence.csv,omo_seed_mass_non_try_external_batch01_rejected_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_summary.csv,omo_seed_mass_non_try_external_batch01_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch01_target_status.csv,omo_seed_mass_non_try_external_batch01_target_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_accepted_evidence.csv,omo_seed_mass_non_try_external_batch02_accepted_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_evidence.csv,omo_seed_mass_non_try_external_batch02_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_evidence_resolved.csv,omo_seed_mass_non_try_external_batch02_evidence_resolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_hold_resolution_summary.csv,omo_seed_mass_non_try_external_batch02_hold_resolution_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_no_numeric_evidence.csv,omo_seed_mass_non_try_external_batch02_no_numeric_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_range_derived_accepted.csv,omo_seed_mass_non_try_external_batch02_range_derived_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_rejected_evidence.csv,omo_seed_mass_non_try_external_batch02_rejected_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_summary.csv,omo_seed_mass_non_try_external_batch02_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch02_target_status.csv,omo_seed_mass_non_try_external_batch02_target_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_accepted_evidence.csv,omo_seed_mass_non_try_external_batch03_accepted_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_evidence.csv,omo_seed_mass_non_try_external_batch03_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_evidence_resolved.csv,omo_seed_mass_non_try_external_batch03_evidence_resolved.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_hold_resolution_summary.csv,omo_seed_mass_non_try_external_batch03_hold_resolution_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_no_numeric_evidence.csv,omo_seed_mass_non_try_external_batch03_no_numeric_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_rejected_evidence.csv,omo_seed_mass_non_try_external_batch03_rejected_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_summary.csv,omo_seed_mass_non_try_external_batch03_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch03_target_status.csv,omo_seed_mass_non_try_external_batch03_target_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_accepted_evidence.csv,omo_seed_mass_non_try_external_batch04_accepted_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_evidence.csv,omo_seed_mass_non_try_external_batch04_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_evidence_resolved.csv,omo_seed_mass_non_try_external_batch04_evidence_resolved.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_hold_resolution_summary.csv,omo_seed_mass_non_try_external_batch04_hold_resolution_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_no_numeric_evidence.csv,omo_seed_mass_non_try_external_batch04_no_numeric_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_rejected_evidence.csv,omo_seed_mass_non_try_external_batch04_rejected_evidence.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_summary.csv,omo_seed_mass_non_try_external_batch04_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_batch04_target_status.csv,omo_seed_mass_non_try_external_batch04_target_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_canonical_target_map.csv,omo_seed_mass_non_try_external_canonical_target_map.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_canonical_values.csv,omo_seed_mass_non_try_external_canonical_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_evidence_ledger_template.csv,omo_seed_mass_non_try_external_evidence_ledger_template.csv,,,,location,,Population_or_Location,OK,,False,True
+outputs\functional_traits\omo_seed_mass_non_try_external_framework_summary.csv,omo_seed_mass_non_try_external_framework_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_provenance_summary.csv,omo_seed_mass_non_try_external_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_source_hierarchy.csv,omo_seed_mass_non_try_external_source_hierarchy.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_source_search_checklist.csv,omo_seed_mass_non_try_external_source_search_checklist.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_external_species_target_values.csv,omo_seed_mass_non_try_external_species_target_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_authoritative_taxonomic_corrections.csv,omo_seed_mass_non_try_rescue_authoritative_taxonomic_corrections.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_shared_search_targets.csv,omo_seed_mass_non_try_rescue_shared_search_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_shared_search_targets_corrected.csv,omo_seed_mass_non_try_rescue_shared_search_targets_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_shared_search_targets_final.csv,omo_seed_mass_non_try_rescue_shared_search_targets_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_audit_summary.csv,omo_seed_mass_non_try_rescue_taxonomic_audit_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_audit_summary_corrected.csv,omo_seed_mass_non_try_rescue_taxonomic_audit_summary_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_crosswalk.csv,omo_seed_mass_non_try_rescue_taxonomic_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_crosswalk_corrected.csv,omo_seed_mass_non_try_rescue_taxonomic_crosswalk_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_crosswalk_final.csv,omo_seed_mass_non_try_rescue_taxonomic_crosswalk_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_finalization_summary.csv,omo_seed_mass_non_try_rescue_taxonomic_finalization_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_review_required.csv,omo_seed_mass_non_try_rescue_taxonomic_review_required.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_review_required_corrected.csv,omo_seed_mass_non_try_rescue_taxonomic_review_required_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_taxonomic_review_required_final.csv,omo_seed_mass_non_try_rescue_taxonomic_review_required_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_unique_search_manifest.csv,omo_seed_mass_non_try_rescue_unique_search_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_unique_search_manifest_corrected.csv,omo_seed_mass_non_try_rescue_unique_search_manifest_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_non_try_rescue_unique_search_manifest_final.csv,omo_seed_mass_non_try_rescue_unique_search_manifest_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_picralima_nitida_moisture_normalization_review.csv,omo_seed_mass_picralima_nitida_moisture_normalization_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_bien_try_routing_summary.csv,omo_seed_mass_post_bien_try_routing_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_biological_target_classification.csv,omo_seed_mass_post_external_rescue_biological_target_classification.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_canonical_classification.csv,omo_seed_mass_post_external_rescue_canonical_classification.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_classification_summary.csv,omo_seed_mass_post_external_rescue_classification_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_coverage_summary.csv,omo_seed_mass_post_external_rescue_coverage_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_genus_stage_targets.csv,omo_seed_mass_post_external_rescue_genus_stage_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_true_residual_targets.csv,omo_seed_mass_post_external_rescue_true_residual_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_external_rescue_unresolved_species.csv,omo_seed_mass_post_external_rescue_unresolved_species.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_family_assignment_residual_canonical_taxa.csv,omo_seed_mass_post_family_assignment_residual_canonical_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_family_assignment_state.csv,omo_seed_mass_post_family_assignment_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_genus_assignment_residual_canonical_taxa.csv,omo_seed_mass_post_genus_assignment_residual_canonical_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_genus_assignment_residual_summary.csv,omo_seed_mass_post_genus_assignment_residual_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_genus_assignment_state.csv,omo_seed_mass_post_genus_assignment_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_global_fallback_nonnumeric_residual.csv,omo_seed_mass_post_global_fallback_nonnumeric_residual.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_global_fallback_state.csv,omo_seed_mass_post_global_fallback_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_rescue_fallback_classification.csv,omo_seed_mass_post_rescue_fallback_classification.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_rescue_fallback_classification_summary.csv,omo_seed_mass_post_rescue_fallback_classification_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_rescue_fallback_route_summary.csv,omo_seed_mass_post_rescue_fallback_route_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_single_congener_review_residual_state.csv,omo_seed_mass_post_single_congener_review_residual_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_special_case_residual_canonical_taxa.csv,omo_seed_mass_post_special_case_residual_canonical_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_special_case_state.csv,omo_seed_mass_post_special_case_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_taxonomic_rescue_residual_canonical_taxa.csv,omo_seed_mass_post_taxonomic_rescue_residual_canonical_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_post_taxonomic_rescue_state.csv,omo_seed_mass_post_taxonomic_rescue_state.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_previously_unmapped_evidence_genera_family_resolution.csv,omo_seed_mass_previously_unmapped_evidence_genera_family_resolution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_audit_before_after_comparison.csv,omo_seed_mass_residual_genus_audit_before_after_comparison.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_audit_targets.csv,omo_seed_mass_residual_genus_audit_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_audit.csv,omo_seed_mass_residual_genus_evidence_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_audit_corrected.csv,omo_seed_mass_residual_genus_evidence_audit_corrected.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_audit_corrected_summary.csv,omo_seed_mass_residual_genus_evidence_audit_corrected_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_detail.csv,omo_seed_mass_residual_genus_evidence_detail.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_detail_normalized.csv,omo_seed_mass_residual_genus_evidence_detail_normalized.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_evidence_summary.csv,omo_seed_mass_residual_genus_evidence_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_family_authoritative_crosswalk.csv,omo_seed_mass_residual_genus_family_authoritative_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_genus_family_crosswalk_summary.csv,omo_seed_mass_residual_genus_family_crosswalk_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_residual_species_acquisition_manifest.csv,omo_seed_mass_residual_species_acquisition_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_deferred_to_family_audit.csv,omo_seed_mass_single_congener_deferred_to_family_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_review_canonical_decisions.csv,omo_seed_mass_single_congener_review_canonical_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_review_canonical_targets.csv,omo_seed_mass_single_congener_review_canonical_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_review_decisions.csv,omo_seed_mass_single_congener_review_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_review_summary.csv,omo_seed_mass_single_congener_review_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_single_congener_transfer_review.csv,omo_seed_mass_single_congener_transfer_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_special_biological_case_targets.csv,omo_seed_mass_special_biological_case_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_special_nonnumeric_cases.csv,omo_seed_mass_special_nonnumeric_cases.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_species_alias_rescue_manifest.csv,omo_seed_mass_species_alias_rescue_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_species_non_try_rescue_targets.csv,omo_seed_mass_species_non_try_rescue_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_spondias_accepted_true_seed_measurements.csv,omo_seed_mass_spondias_accepted_true_seed_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_spondias_definition_excluded_measurements.csv,omo_seed_mass_spondias_definition_excluded_measurements.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_spondias_definition_review_hold.csv,omo_seed_mass_spondias_definition_review_hold.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_spondias_definition_review_resolved.csv,omo_seed_mass_spondias_definition_review_resolved.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_seed_mass_spondias_species_value.csv,omo_seed_mass_spondias_species_value.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_strombosia_pustulata_definition_review.csv,omo_seed_mass_strombosia_pustulata_definition_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_taxon_backbone_discrepancies.csv,omo_seed_mass_taxon_backbone_discrepancies.csv,,,,,,,FAILED,EmptyDataError: No columns to parse from file,False,False
+outputs\functional_traits\omo_seed_mass_taxon_backbone_validation_summary.csv,omo_seed_mass_taxon_backbone_validation_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_taxonomic_name_rescue_pending_targets.csv,omo_seed_mass_taxonomic_name_rescue_pending_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_true_residual_gaps_after_bien_try.csv,omo_seed_mass_true_residual_gaps_after_bien_try.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_true_taxonomic_species_aliases.csv,omo_seed_mass_true_taxonomic_species_aliases.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_aggregation_diagnostic_summary.csv,omo_seed_mass_try_51911_aggregation_diagnostic_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_aggregation_sensitivity_review.csv,omo_seed_mass_try_51911_aggregation_sensitivity_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_associated_metadata.csv,omo_seed_mass_try_51911_associated_metadata.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_canonical_coverage_status.csv,omo_seed_mass_try_51911_canonical_coverage_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_canonical_mapping_expansion.csv,omo_seed_mass_try_51911_canonical_mapping_expansion.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_celtis_value_hold_resolved.csv,omo_seed_mass_try_51911_celtis_value_hold_resolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_celtis_zenkeri_value_review.csv,omo_seed_mass_try_51911_celtis_zenkeri_value_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_cross_dataset_dedup_summary.csv,omo_seed_mass_try_51911_cross_dataset_dedup_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_cross_dataset_deduplication_audit.csv,omo_seed_mass_try_51911_cross_dataset_deduplication_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_cross_dataset_duplicate_groups.csv,omo_seed_mass_try_51911_cross_dataset_duplicate_groups.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_definition_review_hold.csv,omo_seed_mass_try_51911_definition_review_hold.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_dracaena_mannii_metadata_review.csv,omo_seed_mass_try_51911_dracaena_mannii_metadata_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_dracaena_mannii_variability_review.csv,omo_seed_mass_try_51911_dracaena_mannii_variability_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_duplicate_measurements_excluded.csv,omo_seed_mass_try_51911_duplicate_measurements_excluded.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_duplicate_signature_diagnostic.csv,omo_seed_mass_try_51911_duplicate_signature_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_exceptional_record_review_summary.csv,omo_seed_mass_try_51911_exceptional_record_review_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_final_omo_canonical_gaps.csv,omo_seed_mass_try_51911_final_omo_canonical_gaps.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_final_omo_canonical_values.csv,omo_seed_mass_try_51911_final_omo_canonical_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_final_species_quality_summary.csv,omo_seed_mass_try_51911_final_species_quality_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_final_species_values.csv,omo_seed_mass_try_51911_final_species_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_final_summary.csv,omo_seed_mass_try_51911_final_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_integrity_summary.csv,omo_seed_mass_try_51911_integrity_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_material_definition_metadata.csv,omo_seed_mass_try_51911_material_definition_metadata.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurement_metadata_linkage_summary.csv,omo_seed_mass_try_51911_measurement_metadata_linkage_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurement_qc_register.csv,omo_seed_mass_try_51911_measurement_qc_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurement_qc_summary.csv,omo_seed_mass_try_51911_measurement_qc_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurement_reconciliation_summary.csv,omo_seed_mass_try_51911_measurement_reconciliation_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurements_for_qc.csv,omo_seed_mass_try_51911_measurements_for_qc.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_measurements_ready_for_species_aggregation.csv,omo_seed_mass_try_51911_measurements_ready_for_species_aggregation.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_metadata_type_summary.csv,omo_seed_mass_try_51911_metadata_type_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_no_seed_mass_return.csv,omo_seed_mass_try_51911_no_seed_mass_return.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_non_numeric_measurement_review.csv,omo_seed_mass_try_51911_non_numeric_measurement_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_original_measurement_evidence.csv,omo_seed_mass_try_51911_original_measurement_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_post_dedup_species_summary.csv,omo_seed_mass_try_51911_post_dedup_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_provisionally_retained_measurements.csv,omo_seed_mass_try_51911_provisionally_retained_measurements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_raw_preserved.csv,omo_seed_mass_try_51911_raw_preserved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_raw_species_summary.csv,omo_seed_mass_try_51911_raw_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_request_return_crosswalk.csv,omo_seed_mass_try_51911_request_return_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_seed_mass_raw_measurements.csv,omo_seed_mass_try_51911_seed_mass_raw_measurements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_source_lineage_dedup_audit.csv,omo_seed_mass_try_51911_source_lineage_dedup_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_source_lineage_dedup_summary.csv,omo_seed_mass_try_51911_source_lineage_dedup_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_source_lineage_duplicate_groups.csv,omo_seed_mass_try_51911_source_lineage_duplicate_groups.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_source_lineage_duplicates_excluded.csv,omo_seed_mass_try_51911_source_lineage_duplicates_excluded.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_source_lineage_post_dedup_species_summary.csv,omo_seed_mass_try_51911_source_lineage_post_dedup_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_species_aggregation_comparison.csv,omo_seed_mass_try_51911_species_aggregation_comparison.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_species_evidence_structure.csv,omo_seed_mass_try_51911_species_evidence_structure.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_species_preaggregation_summary.csv,omo_seed_mass_try_51911_species_preaggregation_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_51911_try_id_canonical_mapping.csv,omo_seed_mass_try_51911_try_id_canonical_mapping.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_existing_candidate_traits.csv,omo_seed_mass_try_existing_candidate_traits.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_existing_trait_inventory.csv,omo_seed_mass_try_existing_trait_inventory.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_final_species_request_manifest.csv,omo_seed_mass_try_final_species_request_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_final_unique_species_queries.csv,omo_seed_mass_try_final_unique_species_queries.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_candidate_summary.csv,omo_seed_mass_try_gap_candidate_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_genus_candidate_diagnostics.csv,omo_seed_mass_try_gap_genus_candidate_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_global_candidate_diagnostics.csv,omo_seed_mass_try_gap_global_candidate_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_resolution_register.csv,omo_seed_mass_try_gap_resolution_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_resolved.csv,omo_seed_mass_try_gap_resolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_review_routing.csv,omo_seed_mass_try_gap_review_routing.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_still_unresolved.csv,omo_seed_mass_try_gap_still_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_gap_validated_name_candidates.csv,omo_seed_mass_try_gap_validated_name_candidates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_genus_deferred.csv,omo_seed_mass_try_genus_deferred.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_request_51911_species_provenance.csv,omo_seed_mass_try_request_51911_species_provenance.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_request_51911_submission_record.csv,omo_seed_mass_try_request_51911_submission_record.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_request_51911_unique_species.csv,omo_seed_mass_try_request_51911_unique_species.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_request_species_crosswalk.csv,omo_seed_mass_try_request_species_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_request_submission_summary.csv,omo_seed_mass_try_request_submission_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_residual_taxonomic_candidates.csv,omo_seed_mass_try_residual_taxonomic_candidates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_species_request_manifest_after_gap_resolution.csv,omo_seed_mass_try_species_request_manifest_after_gap_resolution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_species_request_manifest_preliminary.csv,omo_seed_mass_try_species_request_manifest_preliminary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_species_request_ready.csv,omo_seed_mass_try_species_request_ready.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_species_request_ready_after_gap_resolution.csv,omo_seed_mass_try_species_request_ready_after_gap_resolution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_try_taxonomic_review_required.csv,omo_seed_mass_try_taxonomic_review_required.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_validated_species_aliases_clean.csv,omo_seed_mass_validated_species_aliases_clean.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_seed_mass_validated_taxonomic_aliases.csv,omo_seed_mass_validated_taxonomic_aliases.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_accepted_values_family_harmonized.csv,omo_sla_accepted_values_family_harmonized.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_accepted_values_missing_family_assignment.csv,omo_sla_accepted_values_missing_family_assignment.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_accepted_values_still_missing_family.csv,omo_sla_accepted_values_still_missing_family.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_accepted_values_with_family_assignment.csv,omo_sla_accepted_values_with_family_assignment.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_accepted_genus_estimates.csv,omo_sla_bien_accepted_genus_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_external_family_coverage.csv,omo_sla_bien_external_family_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_external_family_genus_summary.csv,omo_sla_bien_external_family_genus_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_external_family_hierarchical_estimates.csv,omo_sla_bien_external_family_hierarchical_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_external_family_record_qc.csv,omo_sla_bien_external_family_record_qc.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_external_family_retained_records.csv,omo_sla_bien_external_family_retained_records.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_external_family_species_summary.csv,omo_sla_bien_external_family_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_genus_coverage.csv,omo_sla_bien_genus_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_genus_qc_summary.csv,omo_sla_bien_genus_qc_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_raw_genus_numeric_summary.csv,omo_sla_bien_raw_genus_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_raw_missingness.csv,omo_sla_bien_raw_missingness.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_raw_numeric_summary.csv,omo_sla_bien_raw_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_record_level_qc.csv,omo_sla_bien_record_level_qc.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_residual_accepted_genus_estimates.csv,omo_sla_bien_residual_accepted_genus_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_candidate_genus_estimates.csv,omo_sla_bien_residual_candidate_genus_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_clear_low_scale_anomalies.csv,omo_sla_bien_residual_clear_low_scale_anomalies.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_genus_candidates_pending_review.csv,omo_sla_bien_residual_genus_candidates_pending_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_genus_coverage.csv,omo_sla_bien_residual_genus_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_genus_only_records.csv,omo_sla_bien_residual_genus_only_records.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_residual_genus_query_manifest.csv,omo_sla_bien_residual_genus_query_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_measurement_qc.csv,omo_sla_bien_residual_measurement_qc.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_residual_measurements_retained.csv,omo_sla_bien_residual_measurements_retained.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_residual_omo_genus_values.csv,omo_sla_bien_residual_omo_genus_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_raw_genus_numeric_summary.csv,omo_sla_bien_residual_raw_genus_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_raw_missingness.csv,omo_sla_bien_residual_raw_missingness.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_raw_numeric_summary.csv,omo_sla_bien_residual_raw_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_raw_species_numeric_summary.csv,omo_sla_bien_residual_raw_species_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_species_medians.csv,omo_sla_bien_residual_species_medians.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_suspicious_genus_summary.csv,omo_sla_bien_residual_suspicious_genus_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_suspicious_records.csv,omo_sla_bien_residual_suspicious_records.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_residual_unit_distribution.csv,omo_sla_bien_residual_unit_distribution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_bien_retained_records.csv,omo_sla_bien_retained_records.csv,,,latitude; longitude,,latitude; longitude,,OK,,True,False
+outputs\functional_traits\omo_sla_bien_unit_distribution.csv,omo_sla_bien_unit_distribution.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_current_integrated_coverage.csv,omo_sla_current_integrated_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_current_provenance_summary.csv,omo_sla_current_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_external_bien_family_estimates_accepted.csv,omo_sla_external_bien_family_estimates_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_external_bien_family_omo_values.csv,omo_sla_external_bien_family_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_external_bien_family_taxon_coverage.csv,omo_sla_external_bien_family_taxon_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_external_family_acquisition_manifest.csv,omo_sla_external_family_acquisition_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_external_family_target_detail.csv,omo_sla_external_family_target_detail.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_acquisition_manifest.csv,omo_sla_family_acquisition_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_empirical_genus_evidence.csv,omo_sla_family_empirical_genus_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_empirical_taxon_evidence.csv,omo_sla_family_empirical_taxon_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_fallback_canonical_targets.csv,omo_sla_family_fallback_canonical_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_fallback_normalized_targets.csv,omo_sla_family_fallback_normalized_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_family_hierarchical_evidence_assessment.csv,omo_sla_family_hierarchical_evidence_assessment.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final.csv,omo_sla_final.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_evidence_ledger.csv,omo_sla_final_evidence_ledger.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_evidence_overlaps.csv,omo_sla_final_evidence_overlaps.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_fallback_targets.csv,omo_sla_final_fallback_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_musa_closure.csv,omo_sla_final_musa_closure.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_musa_evidence.csv,omo_sla_final_musa_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_musaceae_rescue_register.csv,omo_sla_final_musaceae_rescue_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_numeric_summary.csv,omo_sla_final_numeric_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_provenance_summary.csv,omo_sla_final_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_quality_summary.csv,omo_sla_final_quality_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_residual_after_external_family_estimates.csv,omo_sla_final_residual_after_external_family_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_selected_evidence.csv,omo_sla_final_selected_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_final_species_try_values.csv,omo_sla_final_species_try_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_genus_family_authority.csv,omo_sla_genus_family_authority.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_genus_family_conflicts.csv,omo_sla_genus_family_conflicts.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_genus_family_evidence_combined.csv,omo_sla_genus_family_evidence_combined.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_genus_target_acquisition_status.csv,omo_sla_genus_target_acquisition_status.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_internal_family_estimates_accepted.csv,omo_sla_internal_family_estimates_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_internal_family_evidence_assessment_harmonized.csv,omo_sla_internal_family_evidence_assessment_harmonized.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_internal_family_omo_values.csv,omo_sla_internal_family_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch1_accepted_omo_values.csv,omo_sla_literature_batch1_accepted_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch1_accepted_species_evidence.csv,omo_sla_literature_batch1_accepted_species_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch1_unresolved.csv,omo_sla_literature_batch1_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch2_accepted_omo_values.csv,omo_sla_literature_batch2_accepted_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch2_accepted_species_evidence.csv,omo_sla_literature_batch2_accepted_species_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch2_unresolved.csv,omo_sla_literature_batch2_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch3_accepted_omo_values.csv,omo_sla_literature_batch3_accepted_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch3_accepted_species_evidence.csv,omo_sla_literature_batch3_accepted_species_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch3_unresolved.csv,omo_sla_literature_batch3_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch4_search_outcomes.csv,omo_sla_literature_batch4_search_outcomes.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch5_accepted_omo_values.csv,omo_sla_literature_batch5_accepted_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch5_accepted_species_evidence.csv,omo_sla_literature_batch5_accepted_species_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch5_unresolved.csv,omo_sla_literature_batch5_unresolved.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch6_accepted_omo_values.csv,omo_sla_literature_batch6_accepted_omo_values.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch6_accepted_species_evidence.csv,omo_sla_literature_batch6_accepted_species_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_literature_batch6_picralima_measurements.csv,omo_sla_literature_batch6_picralima_measurements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_non_species_rescue_fallback_manifest.csv,omo_sla_non_species_rescue_fallback_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_omo_taxa_with_try_sla.csv,omo_sla_omo_taxa_with_try_sla.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_omo_taxa_without_try_sla.csv,omo_sla_omo_taxa_without_try_sla.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_omo_try_species_coverage_crosswalk.csv,omo_sla_omo_try_species_coverage_crosswalk.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_evidence_ledger.csv,omo_sla_post_literature_evidence_ledger.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_integrated_coverage.csv,omo_sla_post_literature_integrated_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_overlapping_evidence.csv,omo_sla_post_literature_overlapping_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_provenance_summary.csv,omo_sla_post_literature_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_remaining_gaps.csv,omo_sla_post_literature_remaining_gaps.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_post_literature_selected_evidence.csv,omo_sla_post_literature_selected_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_remaining_external_family_requirements.csv,omo_sla_remaining_external_family_requirements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_remaining_gaps_after_bien_genus_integration.csv,omo_sla_remaining_gaps_after_bien_genus_integration.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_remaining_gaps_after_try.csv,omo_sla_remaining_gaps_after_try.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_remaining_genera_after_bien_integration.csv,omo_sla_remaining_genera_after_bien_integration.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_remaining_targets_after_internal_family_estimates.csv,omo_sla_remaining_targets_after_internal_family_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_acquisition_decisions.csv,omo_sla_residual_acquisition_decisions.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_external_genus_queries.csv,omo_sla_residual_external_genus_queries.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_genus_targets.csv,omo_sla_residual_genus_targets.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_species_literature_accepted.csv,omo_sla_residual_species_literature_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_targeted_evidence_review.csv,omo_sla_residual_targeted_evidence_review.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_targeted_search_register.csv,omo_sla_residual_targeted_search_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_taxonomic_normalization.csv,omo_sla_residual_taxonomic_normalization.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_try_congeneric_opportunities.csv,omo_sla_residual_try_congeneric_opportunities.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_residual_unique_genus_manifest.csv,omo_sla_residual_unique_genus_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_resolved_taxa_without_final_try_value.csv,omo_sla_resolved_taxa_without_final_try_value.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register.csv,omo_sla_targeted_literature_acquisition_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch1.csv,omo_sla_targeted_literature_acquisition_register_updated_batch1.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch2.csv,omo_sla_targeted_literature_acquisition_register_updated_batch2.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch3.csv,omo_sla_targeted_literature_acquisition_register_updated_batch3.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch4.csv,omo_sla_targeted_literature_acquisition_register_updated_batch4.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch5.csv,omo_sla_targeted_literature_acquisition_register_updated_batch5.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_acquisition_register_updated_batch6.csv,omo_sla_targeted_literature_acquisition_register_updated_batch6.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_literature_search_batches.csv,omo_sla_targeted_literature_search_batches.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_targeted_species_rescue_manifest.csv,omo_sla_targeted_species_rescue_manifest.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_congeneric_genus_estimates_accepted.csv,omo_sla_try_congeneric_genus_estimates_accepted.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_congeneric_genus_evidence.csv,omo_sla_try_congeneric_genus_evidence.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_controlled_rescue_registry.csv,omo_sla_try_controlled_rescue_registry.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_dataset_summary.csv,omo_sla_try_dataset_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_excluded_measurements.csv,omo_sla_try_excluded_measurements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_extreme_low_diagnostics.csv,omo_sla_try_extreme_low_diagnostics.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_final_measurement_qc.csv,omo_sla_try_final_measurement_qc.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_final_retained_measurements.csv,omo_sla_try_final_retained_measurements.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_final_species_estimates.csv,omo_sla_try_final_species_estimates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_final_species_summary.csv,omo_sla_try_final_species_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_measurement_level_qc.csv,omo_sla_try_measurement_level_qc.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_measurement_missingness.csv,omo_sla_try_measurement_missingness.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_measurements_retained.csv,omo_sla_try_measurements_retained.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_qc_failed_omo_taxa.csv,omo_sla_try_qc_failed_omo_taxa.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_request_51853_candidate_columns.csv,omo_sla_try_request_51853_candidate_columns.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_request_51853_measurements_raw.csv,omo_sla_try_request_51853_measurements_raw.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_request_51853_raw_schema.csv,omo_sla_try_request_51853_raw_schema.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_request_51853_release_inventory.csv,omo_sla_try_request_51853_release_inventory.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_rescue_review_register.csv,omo_sla_try_rescue_review_register.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_species_measurement_coverage.csv,omo_sla_try_species_measurement_coverage.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_species_qc_summary.csv,omo_sla_try_species_qc_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_taxa_shared_by_multiple_omo_records.csv,omo_sla_try_taxa_shared_by_multiple_omo_records.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_trait_definition_summary.csv,omo_sla_try_trait_definition_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_zero_retention_central_candidates.csv,omo_sla_try_zero_retention_central_candidates.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_zero_retention_dataset_diagnostic.csv,omo_sla_try_zero_retention_dataset_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_try_zero_retention_species_diagnostic.csv,omo_sla_try_zero_retention_species_diagnostic.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_sla_unique_species_rescue_queries.csv,omo_sla_unique_species_rescue_queries.csv,,,,,,,OK,,False,False
+outputs\functional_traits\omo_wood_density_final.csv,omo_wood_density_final.csv,,,,site,,nb_sites; GWDD_Genus_Sites,OK,,False,True
+outputs\functional_traits\omo_wood_density_provenance_summary.csv,omo_wood_density_provenance_summary.csv,,,,,,,OK,,False,False
+outputs\functional_traits\seed_mass_existing_evidence_file_audit.csv,seed_mass_existing_evidence_file_audit.csv,,,,,,,OK,,False,False
+outputs\functional_traits\wd_gwdd_taxonomic_review.csv,wd_gwdd_taxonomic_review.csv,,,,,,,OK,,False,False
+outputs\tables\community_harmonization_summary.csv,community_harmonization_summary.csv,,,,,,,OK,,False,False
+outputs\tables\community_integrity_validation.csv,community_integrity_validation.csv,,,,,,,OK,,False,False
+outputs\tables\community_matrix_90plots.csv,community_matrix_90plots.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\community_species_inventory.csv,community_species_inventory.csv,,,,,,,OK,,False,False
+outputs\tables\community_taxonomic_corrections.csv,community_taxonomic_corrections.csv,,,,,,,OK,,False,False
+outputs\tables\community_taxonomic_review.csv,community_taxonomic_review.csv,,,,,,,OK,,False,False
+outputs\tables\data_integrity_report.csv,data_integrity_report.csv,,,,,,,OK,,False,False
+outputs\tables\exact_duplicate_species.csv,exact_duplicate_species.csv,,,,,,,OK,,False,False
+outputs\tables\genus_similarity_candidates.csv,genus_similarity_candidates.csv,,,,,,,OK,,False,False
+outputs\tables\missing_values.csv,missing_values.csv,,,,,,,OK,,False,False
+outputs\tables\notebook_07a\omo_tree_structure_raw.csv,omo_tree_structure_raw.csv,,,,habitat; zone,,Management_Zone; Habitat,OK,,False,True
+outputs\tables\notebook_07a\structure_taxonomic_matching.csv,structure_taxonomic_matching.csv,,,,,,,OK,,False,False
+outputs\tables\omo_community_matrix.csv,omo_community_matrix.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\omo_community_matrix_harmonized.csv,omo_community_matrix_harmonized.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\omo_data_integrity_report.csv,omo_data_integrity_report.csv,,,,,,,OK,,False,False
+outputs\tables\omo_plot_metadata.csv,omo_plot_metadata.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\omo_species_metadata.csv,omo_species_metadata.csv,,,,,,,OK,,False,False
+outputs\tables\plot_metadata.csv,plot_metadata.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\species_metadata.csv,species_metadata.csv,,,,,,,OK,,False,False
+outputs\tables\species_similarity_candidates.csv,species_similarity_candidates.csv,,,,,,,FAILED,EmptyDataError: No columns to parse from file,False,False
+outputs\tables\Table_01_Dataset_Summary.csv,Table_01_Dataset_Summary.csv,,,,,,,OK,,False,False
+outputs\tables\Table_02_Zone_Summary.csv,Table_02_Zone_Summary.csv,,zone,,zone,,Zone,OK,,False,True
+outputs\tables\Table_03_Habitat_Summary.csv,Table_03_Habitat_Summary.csv,,habitat,,habitat,,Habitat,OK,,False,True
+outputs\tables\Table_04_Zone_Habitat.csv,Table_04_Zone_Habitat.csv,,habitat; zone,,habitat; zone,,Zone; Habitat,OK,,False,True
+outputs\tables\Table_05_Family_Richness.csv,Table_05_Family_Richness.csv,,,,,,,OK,,False,False
+outputs\tables\Table_06_Genus_Richness.csv,Table_06_Genus_Richness.csv,,,,,,,OK,,False,False
+outputs\tables\Table_07_Most_Abundant_Species.csv,Table_07_Most_Abundant_Species.csv,,,,,,,OK,,False,False
+outputs\tables\Table_08_Zone_Abundance.csv,Table_08_Zone_Abundance.csv,,zone,,zone,,Zone,OK,,False,True
+outputs\tables\Table_09_Habitat_Abundance.csv,Table_09_Habitat_Abundance.csv,,habitat,,habitat,,Habitat,OK,,False,True
+outputs\tables\Table_10_Top20_Species.csv,Table_10_Top20_Species.csv,,,,,,,OK,,False,False
+outputs\tables\Table_11_relative_contribution_of_zones.csv,Table_11_relative_contribution_of_zones.csv,,zone,,,,,OK,,False,True
+outputs\tables\Table_12_Overall_Biodiversity.csv,Table_12_Overall_Biodiversity.csv,,,,,,,OK,,False,False
+outputs\tables\Table_13_Zone_Biodiversity.csv,Table_13_Zone_Biodiversity.csv,,zone,,zone,,Zone,OK,,False,True
+outputs\tables\Table_14_Habitat_Biodiversity.csv,Table_14_Habitat_Biodiversity.csv,,habitat,,habitat,,Habitat,OK,,False,True
+outputs\tables\Table_15_Zone_Habitat_Biodiversity.csv,Table_15_Zone_Habitat_Biodiversity.csv,,habitat; zone,,habitat; zone,,Zone; Habitat,OK,,False,True
+outputs\tables\Table_16_Top_RIV.csv,Table_16_Top_RIV.csv,,,,,,,OK,,False,False
+outputs\tables\Table_17_Top_Relative_Density.csv,Table_17_Top_Relative_Density.csv,,,,,,,OK,,False,False
+outputs\tables\taxonomic_candidate_corrections.csv,taxonomic_candidate_corrections.csv,,,,,,,OK,,False,False
+outputs\tables\taxonomic_manual_review.csv,taxonomic_manual_review.csv,,,,,,,OK,,False,False
+outputs\tables\taxonomic_merge_report.csv,taxonomic_merge_report.csv,,,,,,,OK,,False,False
+outputs\tables\taxonomic_QA_report.csv,taxonomic_QA_report.csv,,,,,,,OK,,False,False
+outputs\tables\taxonomic_similarity_candidates.csv,taxonomic_similarity_candidates.csv,,,,,,,OK,,False,False
+results\tables\alpha_diversity_all_plots.csv,alpha_diversity_all_plots.csv,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\alpha_diversity_by_habitat.csv,alpha_diversity_by_habitat.csv,,habitat,,,,,OK,,False,True
+results\tables\alpha_diversity_by_zone.csv,alpha_diversity_by_zone.csv,,zone,,,,,OK,,False,True
+results\tables\Table_06_01_Alpha_Diversity.csv,Table_06_01_Alpha_Diversity.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_06_02_Alpha_Diversity_Summary.csv,Table_06_02_Alpha_Diversity_Summary.csv,,,,,,,OK,,False,False
+results\tables\Table_06_02_Zone_Diversity.csv,Table_06_02_Zone_Diversity.csv,,zone,,,,,OK,,False,True
+results\tables\Table_06_03_Habitat_Diversity.csv,Table_06_03_Habitat_Diversity.csv,,habitat,,,,,OK,,False,True
+results\tables\Table_06_04_Zone_Statistics.csv,Table_06_04_Zone_Statistics.csv,,zone,,,,,OK,,False,True
+results\tables\Table_06_05_Habitat_Statistics.csv,Table_06_05_Habitat_Statistics.csv,,habitat,,,,,OK,,False,True
+results\tables\Table_06_06_BrayCurtis_Summary.csv,Table_06_06_BrayCurtis_Summary.csv,,,,,,,OK,,False,False
+results\tables\Table_06_07_Jaccard_Summary.csv,Table_06_07_Jaccard_Summary.csv,,,,,,,OK,,False,False
+results\tables\Table_06_08_Cluster_Membership.csv,Table_06_08_Cluster_Membership.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_06_10_NMDS_Coordinates.csv,Table_06_10_NMDS_Coordinates.csv,coordinate; coordinates,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,True,True
+results\tables\Table_10_Multivariate_Summary.csv,Table_10_Multivariate_Summary.csv,,,,,,,OK,,False,False
+results\tables\Table_11_PERMDISP_Dispersion.csv,Table_11_PERMDISP_Dispersion.csv,,,,habitat,,Habitat,OK,,False,True
+results\tables\Table_12_PCA_Variance.csv,Table_12_PCA_Variance.csv,,,,,,,OK,,False,False
+results\tables\Table_13_PCA_Scores.csv,Table_13_PCA_Scores.csv,,,,habitat; plot,,Plot_ID; Habitat,OK,,False,True
+results\tables\Table_14_PCA_Loadings.csv,Table_14_PCA_Loadings.csv,,,,,,,OK,,False,False
+results\tables\Table_15_Cluster_Membership.csv,Table_15_Cluster_Membership.csv,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_16_Cluster_Summary.csv,Table_16_Cluster_Summary.csv,,,,plot,,Number_of_Plots,OK,,False,True
+results\tables\Table_17_Cluster_Habitat_Summary.csv,Table_17_Cluster_Habitat_Summary.csv,,habitat,,,,,OK,,False,True
+results\tables\Table_18_Cluster_Zone_Summary.csv,Table_18_Cluster_Zone_Summary.csv,,zone,,,,,OK,,False,True
+data\functional_traits\twdd\TWDD.xlsx,TWDD.xlsx,,,,,,,OK,,False,False
+data\processed\community_matrix_90plots.xlsx,community_matrix_90plots.xlsx,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+data\processed\omo_community_matrix.xlsx,omo_community_matrix.xlsx,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\alpha_diversity_results.xlsx,alpha_diversity_results.xlsx,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\community_matrix_90plots.xlsx,community_matrix_90plots.xlsx,,plot,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+outputs\tables\omo_community_matrix.xlsx,omo_community_matrix.xlsx,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_06_01_Alpha_Diversity.xlsx,Table_06_01_Alpha_Diversity.xlsx,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_06_02_Alpha_Diversity_Statistics_Zone.xlsx,Table_06_02_Alpha_Diversity_Statistics_Zone.xlsx,,zone,,,,,OK,,False,True
+results\tables\Table_06_03_Alpha_Diversity_Statistics_Habitat.xlsx,Table_06_03_Alpha_Diversity_Statistics_Habitat.xlsx,,habitat,,,,,OK,,False,True
+results\tables\Table_06_04_Bray_Curtis_Distance_Matrix.xlsx,Table_06_04_Bray_Curtis_Distance_Matrix.xlsx,,,,plot,,Plot_ID,OK,,False,True
+results\tables\Table_06_05_Hierarchical_Clustering.xlsx,Table_06_05_Hierarchical_Clustering.xlsx,,,,habitat; plot; zone,,Plot_ID; Zone; Habitat,OK,,False,True
+results\tables\Table_06_06_Indicator_Species_Analysis.xlsx,Table_06_06_Indicator_Species_Analysis.xlsx,,,,,,,OK,,False,False
+results\tables\Table_06_07_Integrated_Community_Ecology_Summary.xlsx,Table_06_07_Integrated_Community_Ecology_Summary.xlsx,,,,,,,OK,,False,False

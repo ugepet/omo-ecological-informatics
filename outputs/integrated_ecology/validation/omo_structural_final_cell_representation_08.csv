@@ -1,0 +1,10 @@
+Zone,Habitat,N_Total_Plots,N_Primary_Association,N_Factorial_Structural,Mean_Structural_Coverage,Min_Structural_Coverage,Percent_Primary_Association,Percent_Factorial_Structural
+Buffer,Major River,10,1,9,81.76994783420614,70.0,10.0,90.0
+Buffer,Stream,10,10,10,97.9833460462751,94.44444444444444,100.0,100.0
+Buffer,Upland,10,3,8,82.0778669043375,63.333333333333336,30.0,80.0
+Core,Major River,10,4,10,84.83428377178377,77.77777777777777,40.0,100.0
+Core,Stream,10,1,7,77.09188903631627,50.0,10.0,70.0
+Core,Upland,10,10,10,98.59749373433584,94.73684210526316,100.0,100.0
+Transition,Major River,10,10,10,100.0,100.0,100.0,100.0
+Transition,Stream,10,6,9,92.57387057387056,69.23076923076923,60.0,90.0
+Transition,Upland,10,9,10,97.75,87.5,90.0,100.0

@@ -1,0 +1,17 @@
+Variable,Posthoc_Type,Reason
+Pielou,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+Pielou,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+CWM_WD,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+CWM_WD,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+CWM_Log10_Seed_Mass,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+CWM_Log10_Seed_Mass,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+CWM_Max_Height_m,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+CWM_Max_Height_m,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+FDis,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+FDis,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+Estimated_Mean_DBH,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+Estimated_Mean_DBH,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+Estimated_Mean_Height,SIMPLE_ZONE_WITHIN_HABITAT,FDR-significant Zone × Habitat interaction.
+Estimated_Mean_Height,SIMPLE_HABITAT_WITHIN_ZONE,FDR-significant Zone × Habitat interaction.
+Richness,MARGINAL_ZONE,FDR-significant Zone main effect without significant interaction.
+CWM_SLA,MARGINAL_ZONE,FDR-significant Zone main effect without significant interaction.

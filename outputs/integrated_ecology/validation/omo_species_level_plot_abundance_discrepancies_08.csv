@@ -1,0 +1,10 @@
+Species,Plot1,Plot2,Plot3,Plot4,Plot5,Plot6,Plot7,Plot8,Plot9,Plot10,Frequency,Individuals,Density,Relative_Density,Relative_Frequency,RIV,Zone,Habitat,Plot_Count_Sum,N_Plots_Occupied,Individuals_Num,Numeric_Species_Label,No_Plot_Allocation,Probable_Cell_Summary_Row,Plot_Individuals_Exact,Plot_Individuals_Difference
+Alstonei boonei,1.0,,,,,1.0,,,,1.0,2,2,0.0027,1.156,2.04,1.5984,Buffer,Major River,3.0,3,2,False,False,False,False,1.0
+Blighia sapida,2.0,,1.0,1.0,,,1.0,,1.0,1.0,5,5,0.0068,2.8901,5.102,3.9961,Buffer,Major River,7.0,6,5,False,False,False,False,2.0
+Celtis zenkeri,,1.0,,1.0,1.0,,1.0,2.0,,,4,5,0.0068,2.8901,4.0816,3.4859,Buffer,Major River,6.0,5,5,False,False,False,False,1.0
+Cleistopholis patens,1.0,2.0,1.0,1.0,,1.0,1.0,2.0,1.0,1.0,7,8,0.011,4.6242,7.1428,5.8835,Buffer,Major River,11.0,9,8,False,False,False,False,3.0
+Nauclea diderrichi,,,,,2.0,,,3.0,2.0,2.0,4,4,0.00552,1.80995,3.63636,2.7232,Buffer,Stream,9.0,4,4,False,False,False,False,5.0
+Sterculia oblonga,,,,,1.0,,,,1.0,,2,3,0.00414,1.35747,1.81818,1.5878,Buffer,Stream,2.0,2,3,False,False,False,False,-1.0
+Funtumia elastica,,1.0,,,6.0,,1.0,,1.0,1.0,5,11,0.0151,4.78261,4.310345,4.546477,Buffer,Upland,10.0,5,11,False,False,False,False,-1.0
+Strombosia postulata,,1.0,2.0,1.0,,1.0,2.0,2.0,,2.0,7,10,0.016,5.49452,7.14286,6.318,Core,Stream,11.0,7,10,False,False,False,False,1.0
+Diospyrous mespiliformis,,,,,1.0,1.0,1.0,1.0,,,4,1,0.001379,0.44053,3.703704,2.072116,Core,Upland,4.0,4,1,False,False,False,False,3.0

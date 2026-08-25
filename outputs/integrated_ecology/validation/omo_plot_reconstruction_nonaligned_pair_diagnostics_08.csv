@@ -1,0 +1,5 @@
+Reconstruction_Species,Community_Species,Reconstruction_Total,Community_Total,Total_Difference,Exact_Plot_Cells,Percent_Plot_Cells_Exact,Absolute_Difference_Sum
+alstonei bonei,cola species,18.0,2.0,16.0,81,90.0,20.0
+alstonei bonei,drypetes species,18.0,150.0,-132.0,47,52.22222222222223,168.0
+bligha sapida,cola species,4.0,2.0,2.0,85,94.44444444444444,6.0
+bligha sapida,drypetes species,4.0,150.0,-146.0,51,56.666666666666664,154.0

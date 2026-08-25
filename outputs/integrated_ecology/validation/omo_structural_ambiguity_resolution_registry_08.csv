@@ -1,0 +1,5 @@
+Raw_Record_ID,Integration_Decision,Resolution_Basis
+OMO_STR_0018,RETAIN_FOR_MASTER_CROSSWALK,"DBH-derived and height-derived abundance both equal 5, matching master abundance of 5."
+OMO_STR_0019,EXCLUDE_FROM_MASTER_CROSSWALK,"DBH-derived and height-derived abundance both equal 4, inconsistent with master abundance of 5."
+OMO_STR_0064,RETAIN_FOR_MASTER_CROSSWALK,"DBH-derived and height-derived abundance both equal 9, matching master abundance of 9."
+OMO_STR_0062,EXCLUDE_FROM_MASTER_CROSSWALK,"DBH-derived and height-derived abundance both equal 1, inconsistent with master abundance of 9."

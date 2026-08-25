@@ -1,0 +1,9 @@
+Target_Variable,Source_Column,Status
+CWM_WD,CWM_WD,FOUND
+CWM_SLA,CWM_SLA,FOUND
+CWM_Seed_Mass,,NOT_FOUND
+CWM_Max_Height,,NOT_FOUND
+FDis,FDis,FOUND
+RaoQ,RaoQ,FOUND
+FEve,FEve,FOUND
+FRic_4D,FRic_4D,FOUND

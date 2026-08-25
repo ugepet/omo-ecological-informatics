@@ -1,0 +1,5 @@
+Variable,Domain,Interpretation,Primary_Use
+Estimated_Mean_DBH,STRUCTURAL,Abundance-weighted estimated mean DBH from validated species × Habitat × Zone summaries.,True
+Estimated_Mean_Height,STRUCTURAL,Abundance-weighted estimated mean tree height from validated species × Habitat × Zone summaries.,True
+Estimated_Mean_Basal_Area_Contribution,STRUCTURAL,Abundance-weighted mean basal-area contribution derived from validated structural summaries.,True
+Structural_Coverage_Percent,STRUCTURAL_QC,Percent of plot individuals represented by validated structural evidence.,False

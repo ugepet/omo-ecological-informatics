@@ -1,0 +1,11 @@
+Source_Species,Source_Families,Family_Variants,Canonical_Species,Match_Status,Match_Method,Taxonomic_Notes,Canonical_Present,Review_Required,Source_Species_Key,Canonical_Species_Key
+Blghia sapida,Sapindaceae,1,Blighia sapida,HARMONIZED_MATCH,Controlled historical-name harmonization,,True,False,blghia sapida,blighia sapida
+Blighia Sapida,Sapindaceae,1,Blighia sapida,NORMALIZED_CANONICAL_MATCH,Case/whitespace-normalized exact match,,True,False,blighia sapida,blighia sapida
+Blighia sapida,Sapindaceae; sapindaceae,2,Blighia sapida,EXACT_CANONICAL_MATCH,Exact string match,,True,False,blighia sapida,blighia sapida
+Cola species,Sterculiaceae,1,Cola species,EXACT_CANONICAL_MATCH,Exact string match,,True,False,cola species,cola species
+Elaeis guinenesis,Palmae,1,,AMBIGUOUS,Individual review,"Multiple competing Elaeis forms remain in the canonical 127 inventory: Elaeis guineensis, Elaeis guinensis, and Elaeis guineense. No silent assignment made.",False,True,elaeis guinenesis,
+Ficus mucosa,Moraceae,1,Ficus mucosa,EXACT_CANONICAL_MATCH,Exact string match,,True,False,ficus mucosa,ficus mucosa
+Micranga barteri,Euphorbiaceae,1,,AMBIGUOUS,Individual review,"Macaranga barteri exists in the canonical inventory, but Macaranga barteri and Micranga barteri occur as separate historical structural records. Automatic consolidation would therefore be unsafe.",False,True,micranga barteri,
+Pavetta crassipes,Rubiaceae,1,,NOT_IN_CANONICAL_127,Individual review,No supported canonical equivalent identified. Similarity to Pavetta corymbosa/corymbosia is insufficient for taxonomic consolidation.,False,True,pavetta crassipes,
+Strombosia  pustulata,Olacaceae,1,Strombosia pustulata,NORMALIZED_CANONICAL_MATCH,Case/whitespace-normalized exact match,,True,False,strombosia pustulata,strombosia pustulata
+Strombosia pustulata,Olacaceae,1,Strombosia pustulata,EXACT_CANONICAL_MATCH,Exact string match,,True,False,strombosia pustulata,strombosia pustulata

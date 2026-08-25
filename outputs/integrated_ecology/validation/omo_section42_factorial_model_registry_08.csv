@@ -1,0 +1,11 @@
+Variable,Domain,Analysis_Dataset,Primary_Strategy,Rationale
+Richness,TAXONOMIC_DIVERSITY,FULL_BACKBONE,STANDARD_FACTORIAL_MODEL,No severe preliminary distributional or variance problem detected.
+Pielou,TAXONOMIC_DIVERSITY,FULL_BACKBONE,FACTORIAL_MODEL_WITH_ROBUST_INFERENCE,Cell variances differ significantly; use factorial modelling with robust inference and sensitivity checks.
+CWM_WD,FUNCTIONAL_COMPOSITION,FULL_BACKBONE,STANDARD_FACTORIAL_MODEL,No severe preliminary distributional or variance problem detected.
+CWM_SLA,FUNCTIONAL_COMPOSITION,FULL_BACKBONE,STANDARD_FACTORIAL_MODEL,No severe preliminary distributional or variance problem detected.
+CWM_Log10_Seed_Mass,FUNCTIONAL_COMPOSITION,FULL_BACKBONE,FACTORIAL_MODEL_WITH_ROBUST_INFERENCE,Cell variances differ significantly; use factorial modelling with robust inference and sensitivity checks.
+CWM_Max_Height_m,FUNCTIONAL_COMPOSITION,FULL_BACKBONE,FACTORIAL_MODEL_WITH_ROBUST_INFERENCE,Cell variances differ significantly; use factorial modelling with robust inference and sensitivity checks.
+FDis,FUNCTIONAL_DIVERSITY,FULL_BACKBONE,FACTORIAL_MODEL_WITH_ROBUST_INFERENCE,Cell variances differ significantly; use factorial modelling with robust inference and sensitivity checks.
+FEve,FUNCTIONAL_DIVERSITY,FULL_BACKBONE,STANDARD_FACTORIAL_MODEL,No severe preliminary distributional or variance problem detected.
+Estimated_Mean_DBH,STRUCTURAL_ECOLOGY,FACTORIAL_STRUCTURAL_>=75,ROBUST_OR_TRANSFORMATION_SENSITIVITY,Very high skewness; classical factorial model requires careful residual diagnostics and robust/transformation sensitivity.
+Estimated_Mean_Height,STRUCTURAL_ECOLOGY,FACTORIAL_STRUCTURAL_>=75,FACTORIAL_MODEL_PLUS_SENSITIVITY,Moderate/high skewness; use factorial model but verify residual behaviour and robustness.

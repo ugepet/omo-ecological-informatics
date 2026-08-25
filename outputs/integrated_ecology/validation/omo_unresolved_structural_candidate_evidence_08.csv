@@ -1,0 +1,64 @@
+Master_Zone,Master_Habitat,Master_Species,Master_Individuals,Master_Plot_Count_Sum,Candidate_Record_ID,Candidate_Source_Species,Candidate_Canonical_Species,Candidate_Match_Status,Source_Name_Similarity,Canonical_Name_Similarity,Best_Name_Similarity,Candidate_Rank
+Buffer,Major River,Diospyros dendo,30,30.0,OMO_STR_0084,Diospyrous dendo,Diospyrous dendo,EXACT_CANONICAL_MATCH,0.967741935483871,0.967741935483871,0.967741935483871,1.0
+Buffer,Major River,Diospyros dendo,30,30.0,OMO_STR_0081,Cleistopholis patens,Cleistopholis patens,EXACT_CANONICAL_MATCH,0.45714285714285713,0.45714285714285713,0.45714285714285713,2.0
+Buffer,Major River,Diospyros dendo,30,30.0,OMO_STR_0096,Ricinodendron heudeotii,Ricinodendron heudeotii,EXACT_CANONICAL_MATCH,0.3684210526315789,0.3684210526315789,0.3684210526315789,3.0
+Buffer,Major River,Lecaniodiscus cupaniodes,2,2.0,OMO_STR_0089,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,EXACT_CANONICAL_MATCH,0.9795918367346939,0.9795918367346939,0.9795918367346939,1.0
+Buffer,Major River,Lecaniodiscus cupaniodes,2,2.0,OMO_STR_0081,Cleistopholis patens,Cleistopholis patens,EXACT_CANONICAL_MATCH,0.45454545454545453,0.45454545454545453,0.45454545454545453,2.0
+Buffer,Major River,Lecaniodiscus cupaniodes,2,2.0,OMO_STR_0095,Pycnanthus angolensis,Pycnanthus angolensis,EXACT_CANONICAL_MATCH,0.4444444444444444,0.4444444444444444,0.4444444444444444,3.0
+Buffer,Major River,Margartaria discoidea,6,6.0,OMO_STR_0090,Margaritaria discoidea,Margaritaria discoidea,EXACT_CANONICAL_MATCH,0.9767441860465116,0.9767441860465116,0.9767441860465116,1.0
+Buffer,Major River,Margartaria discoidea,6,6.0,OMO_STR_0091,Musanga cecropioides,Musanga cecropioides,EXACT_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,2.0
+Buffer,Major River,Margartaria discoidea,6,6.0,OMO_STR_0077,Blighia sapida,Blighia sapida,EXACT_CANONICAL_MATCH,0.45714285714285713,0.45714285714285713,0.45714285714285713,3.0
+Buffer,Major River,Pycanthus angolensis,6,6.0,OMO_STR_0095,Pycnanthus angolensis,Pycnanthus angolensis,EXACT_CANONICAL_MATCH,0.975609756097561,0.975609756097561,0.975609756097561,1.0
+Buffer,Major River,Pycanthus angolensis,6,6.0,OMO_STR_0079,Bosqueia angolensis,Bosqueia angolensis,EXACT_CANONICAL_MATCH,0.6153846153846154,0.6153846153846154,0.6153846153846154,2.0
+Buffer,Major River,Pycanthus angolensis,6,6.0,OMO_STR_0089,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,EXACT_CANONICAL_MATCH,0.4888888888888889,0.4888888888888889,0.4888888888888889,3.0
+Buffer,Major River,Strombosia postulata,6,6.0,OMO_STR_0099,Strombosia pustulata,Strombosia pustulata,EXACT_CANONICAL_MATCH,0.95,0.95,0.95,1.0
+Buffer,Major River,Strombosia postulata,6,6.0,OMO_STR_0097,Sterculia rhinopetala,Sterculia rhinopetala,EXACT_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,2.0
+Buffer,Major River,Strombosia postulata,6,6.0,OMO_STR_0098,Sterculia tragacantha,Sterculia tragacantha,EXACT_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,3.0
+Buffer,Stream,Diospyros dendo,9,9.0,OMO_STR_0110,Diospyrous dendo,Diospyrous dendo,EXACT_CANONICAL_MATCH,0.967741935483871,0.967741935483871,0.967741935483871,1.0
+Buffer,Stream,Diospyros dendo,9,9.0,OMO_STR_0111,Diospyrous melistoformis,Diospyrous melistoformis,EXACT_CANONICAL_MATCH,0.6153846153846154,0.6153846153846154,0.6153846153846154,2.0
+Buffer,Stream,Diospyros dendo,9,9.0,OMO_STR_0109,Cleistopholis patens,Cleistopholis patens,EXACT_CANONICAL_MATCH,0.45714285714285713,0.45714285714285713,0.45714285714285713,3.0
+Core,Major River,Lonchocarpus cilliata,3,3.0,OMO_STR_0038,Lonchocarpus ciliata,Lonchocarpus cilliata,HARMONIZED_MATCH,0.975609756097561,1.0,1.0,1.0
+Core,Major River,Lonchocarpus cilliata,3,3.0,OMO_STR_0048,Strombosia  pustulata,Strombosia pustulata,NORMALIZED_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,2.0
+Core,Major River,Lonchocarpus cilliata,3,3.0,OMO_STR_0041,Monodora lenuifolia,Monodora tenuifolia,HARMONIZED_MATCH,0.45,0.45,0.45,3.0
+Core,Major River,Monodora tenuifolia,7,7.0,OMO_STR_0041,Monodora lenuifolia,Monodora tenuifolia,HARMONIZED_MATCH,0.9473684210526315,1.0,1.0,1.0
+Core,Major River,Monodora tenuifolia,7,7.0,OMO_STR_0038,Lonchocarpus ciliata,Lonchocarpus cilliata,HARMONIZED_MATCH,0.46153846153846156,0.45,0.46153846153846156,2.0
+Core,Major River,Monodora tenuifolia,7,7.0,OMO_STR_0048,Strombosia  pustulata,Strombosia pustulata,NORMALIZED_CANONICAL_MATCH,0.41025641025641024,0.41025641025641024,0.41025641025641024,3.0
+Core,Major River,Pycnanthus angolensis,7,7.0,OMO_STR_0044,Pycanthus angolensis,Pycanthus angolensis,EXACT_CANONICAL_MATCH,0.975609756097561,0.975609756097561,0.975609756097561,1.0
+Core,Major River,Pycnanthus angolensis,7,7.0,OMO_STR_0037,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,EXACT_CANONICAL_MATCH,0.4782608695652174,0.4782608695652174,0.4782608695652174,2.0
+Core,Major River,Pycnanthus angolensis,7,7.0,OMO_STR_0027,Annonidium manni,Annonidium manni,EXACT_CANONICAL_MATCH,0.43243243243243246,0.43243243243243246,0.43243243243243246,3.0
+Core,Major River,Ricinodendron heudelotii,5,5.0,OMO_STR_0045,Ricinodendron heudeloti,Ricinodendron heudeloti,EXACT_CANONICAL_MATCH,0.9787234042553191,0.9787234042553191,0.9787234042553191,1.0
+Core,Major River,Ricinodendron heudelotii,5,5.0,OMO_STR_0051,Uapaca heudelotii,Uapaca heudelotii,EXACT_CANONICAL_MATCH,0.5853658536585366,0.5853658536585366,0.5853658536585366,2.0
+Core,Major River,Ricinodendron heudelotii,5,5.0,OMO_STR_0050,Trichilia monadelpha,Trichilia monadelpha,EXACT_CANONICAL_MATCH,0.4090909090909091,0.4090909090909091,0.4090909090909091,3.0
+Core,Stream,Strombosia postulata,10,11.0,OMO_STR_0024,Strombosia pustulata,Strombosia pustulata,EXACT_CANONICAL_MATCH,0.95,0.95,0.95,1.0
+Core,Stream,Strombosia postulata,10,11.0,OMO_STR_0022,Sterculia rhinopetala,Sterculia rhinopetala,EXACT_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,2.0
+Core,Stream,Strombosia postulata,10,11.0,OMO_STR_0023,Sterculia tragacantha,Sterculia tragacantha,EXACT_CANONICAL_MATCH,0.4878048780487805,0.4878048780487805,0.4878048780487805,3.0
+Core,Upland,Blighia sapida,1,1.0,OMO_STR_0053,Baphia nitida,Baphia nitida,EXACT_CANONICAL_MATCH,0.5925925925925926,0.5925925925925926,0.5925925925925926,1.0
+Core,Upland,Blighia sapida,1,1.0,OMO_STR_0055,Cola species,Cola species,EXACT_CANONICAL_MATCH,0.46153846153846156,0.46153846153846156,0.46153846153846156,2.0
+Core,Upland,Blighia sapida,1,1.0,OMO_STR_0063,Magaritaria discoidea,Margaritaria discoidea,HARMONIZED_MATCH,0.45714285714285713,0.4444444444444444,0.45714285714285713,3.0
+Core,Upland,Diospyros dendo,80,80.0,OMO_STR_0056,Diospyrous dendo,Diospyrous dendo,EXACT_CANONICAL_MATCH,0.967741935483871,0.967741935483871,0.967741935483871,1.0
+Core,Upland,Diospyros dendo,80,80.0,OMO_STR_0057,Diospyros mespiliformis,Diospyrous mespiliformis,HARMONIZED_MATCH,0.631578947368421,0.6153846153846154,0.631578947368421,2.0
+Core,Upland,Diospyros dendo,80,80.0,OMO_STR_0070,Rinorea dentata,Rinorea dentata,EXACT_CANONICAL_MATCH,0.4666666666666667,0.4666666666666667,0.4666666666666667,3.0
+Core,Upland,Diospyrous mespiliformis,1,4.0,OMO_STR_0057,Diospyros mespiliformis,Diospyrous mespiliformis,HARMONIZED_MATCH,0.9787234042553191,1.0,1.0,1.0
+Core,Upland,Diospyrous mespiliformis,1,4.0,OMO_STR_0056,Diospyrous dendo,Diospyrous dendo,EXACT_CANONICAL_MATCH,0.65,0.65,0.65,2.0
+Core,Upland,Diospyrous mespiliformis,1,4.0,OMO_STR_0068,Pycnantus angolensis,Pycnanthus angolensis,HARMONIZED_MATCH,0.4090909090909091,0.4,0.4090909090909091,3.0
+Core,Upland,Hildegardia barteri,3,3.0,OMO_STR_0060,Hildergardia baarteri,Hildegardia barteri,HARMONIZED_MATCH,0.95,1.0,1.0,1.0
+Core,Upland,Hildegardia barteri,3,3.0,OMO_STR_0064,Mesobotyra barteri,Maesobotrya barteri,HARMONIZED_MATCH,0.5945945945945946,0.5789473684210527,0.5945945945945946,2.0
+Core,Upland,Hildegardia barteri,3,3.0,OMO_STR_0066,Nesorgodonia papaverifera,Nesogordonia papaverifera,HARMONIZED_MATCH,0.36363636363636365,0.5,0.5,3.0
+Core,Upland,Ricinodendron heudelotii,3,3.0,OMO_STR_0069,Ricinodendron heudeloti,Ricinodendron heudeloti,EXACT_CANONICAL_MATCH,0.9787234042553191,0.9787234042553191,0.9787234042553191,1.0
+Core,Upland,Ricinodendron heudelotii,3,3.0,OMO_STR_0070,Rinorea dentata,Rinorea dentata,EXACT_CANONICAL_MATCH,0.41025641025641024,0.41025641025641024,0.41025641025641024,2.0
+Core,Upland,Ricinodendron heudelotii,3,3.0,OMO_STR_0057,Diospyros mespiliformis,Diospyrous mespiliformis,HARMONIZED_MATCH,0.3829787234042553,0.375,0.3829787234042553,3.0
+Core,Upland,Scotellia coriaceae,25,25.0,OMO_STR_0071,Scotelia coriacea,Scotellia coriacea,HARMONIZED_MATCH,0.9444444444444444,0.972972972972973,0.972972972972973,1.0
+Core,Upland,Scotellia coriaceae,25,25.0,OMO_STR_0055,Cola species,Cola species,EXACT_CANONICAL_MATCH,0.5161290322580645,0.5161290322580645,0.5161290322580645,2.0
+Core,Upland,Scotellia coriaceae,25,25.0,OMO_STR_0072,Sterculia rhinopetala,Sterculia rhinopetala,EXACT_CANONICAL_MATCH,0.5,0.5,0.5,3.0
+Transition,Major River,Strombosia pustulata,4,4.0,OMO_STR_0186,Strombosia postulata,Strombosia postulata,EXACT_CANONICAL_MATCH,0.95,0.95,0.95,1.0
+Transition,Major River,Strombosia pustulata,4,4.0,OMO_STR_0168,Cleistopholis patens,Cleistopholis patens,EXACT_CANONICAL_MATCH,0.45,0.45,0.45,2.0
+Transition,Major River,Strombosia pustulata,4,4.0,OMO_STR_0165,Bambusa vulgaris,Bambusa vulgaris,EXACT_CANONICAL_MATCH,0.4444444444444444,0.4444444444444444,0.4444444444444444,3.0
+Transition,Major River,Uapaca heudeloti,2,2.0,OMO_STR_0190,Uapaca heudelotii,Uapaca heudelotii,EXACT_CANONICAL_MATCH,0.9696969696969697,0.9696969696969697,0.9696969696969697,1.0
+Transition,Major River,Uapaca heudeloti,2,2.0,OMO_STR_0184,Ricinodendron heudelotii,Ricinodendron heudelotii,EXACT_CANONICAL_MATCH,0.55,0.55,0.55,2.0
+Transition,Major River,Uapaca heudeloti,2,2.0,OMO_STR_0180,Musanga cecropoides,Musanga cecropoides,EXACT_CANONICAL_MATCH,0.4,0.4,0.4,3.0
+Transition,Upland,Elaeis guineense,19,19.0,OMO_STR_0214,Elaeis guineensis,Elaeis guineensis,EXACT_CANONICAL_MATCH,0.9090909090909091,0.9090909090909091,0.9090909090909091,1.0
+Transition,Upland,Elaeis guineense,19,19.0,OMO_STR_0211,Citrus sinenses,Citrus sinenses,EXACT_CANONICAL_MATCH,0.5806451612903226,0.5806451612903226,0.5806451612903226,2.0
+Transition,Upland,Elaeis guineense,19,19.0,OMO_STR_0207,Bombax buonopozene,Bombax buonopozense,HARMONIZED_MATCH,0.17647058823529413,0.45714285714285713,0.45714285714285713,3.0
+Transition,Upland,Ficus mucuso,2,2.0,OMO_STR_0216,Ficus mucosa,Ficus mucosa,EXACT_CANONICAL_MATCH,0.8333333333333334,0.8333333333333334,0.8333333333333334,1.0
+Transition,Upland,Ficus mucuso,2,2.0,OMO_STR_0215,Ficus exasperata,Ficus exasperata,EXACT_CANONICAL_MATCH,0.5,0.5,0.5,2.0
+Transition,Upland,Ficus mucuso,2,2.0,OMO_STR_0205,Artocarpus communis,Artocarpus communis,EXACT_CANONICAL_MATCH,0.45161290322580644,0.45161290322580644,0.45161290322580644,3.0

@@ -1,0 +1,4 @@
+Zone,N_Sampling_Cells,Mean_Structural_Coverage,Mean_Typology_Classification_Percent,Dominant_Zone_Typology_ID,Dominant_Zone_Typology_Name,Dominant_Zone_Typology_Percent,Characteristic_Indicators
+Buffer,3,87.27705359493957,90.0,T2,Buffer-Enriched Structurally Developed Diverse State,59.25925925925926,Richness=+0.43 SD; CWM_Log10_Seed_Mass=-0.42 SD; Estimated_Mean_Height=+0.29 SD; CWM_SLA=-0.26 SD; CWM_WD=+0.21 SD
+Core,3,86.84122218081195,90.0,T1,Core–Upland Dense-Wood Conservative State,62.96296296296296,CWM_WD=+0.85 SD; CWM_SLA=-0.64 SD; Richness=+0.43 SD; Estimated_Mean_Height=+0.18 SD; Pielou=-0.16 SD
+Transition,3,96.77462352462352,93.33333333333333,T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,46.42857142857143,CWM_WD=-1.06 SD; CWM_SLA=+0.90 SD; Richness=-0.87 SD; Estimated_Mean_Height=-0.47 SD; CWM_Log10_Seed_Mass=+0.44 SD

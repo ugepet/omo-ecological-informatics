@@ -1,0 +1,4 @@
+Dataset,Coverage_Threshold,N_Plots,Approved_Use,Factorial_Habitat_Zone_Use
+PRIMARY_ASSOCIATION_SET,>=90%,54,"Primary cross-domain correlations, regressions and integrated plot-level associations.",NO
+FACTORIAL_STRUCTURAL_SET,>=75%,83,Habitat × Zone structural comparisons and sensitivity analyses.,YES
+FULL_DESCRIPTIVE_SET,All plots,90,"Descriptive summaries, visualization and structural-coverage reporting.",DESCRIPTIVE_ONLY

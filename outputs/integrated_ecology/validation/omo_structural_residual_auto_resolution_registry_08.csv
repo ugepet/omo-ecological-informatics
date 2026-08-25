@@ -1,0 +1,21 @@
+Zone,Habitat,Master_Species,Candidate_Record_ID,Candidate_Source_Species,Candidate_Canonical_Species,Master_Individuals,Rounded_N_DBH,Rounded_N_Height,Best_Similarity,Evidence_Margin,Resolution_Status
+Buffer,Major River,Diospyros dendo,OMO_STR_0084,Diospyrous dendo,Diospyrous dendo,30,30.0,30.0,0.967741935483871,9.617741935483872,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Major River,Lecaniodiscus cupaniodes,OMO_STR_0089,Lecaniodiscus cupanioides,Lecaniodiscus cupanioides,2,2.0,2.0,0.9795918367346939,9.535147392290249,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Major River,Margartaria discoidea,OMO_STR_0090,Margaritaria discoidea,Margaritaria discoidea,6,6.0,6.0,0.9767441860465116,0.684061259217243,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Major River,Pycanthus angolensis,OMO_STR_0095,Pycnanthus angolensis,Pycnanthus angolensis,6,6.0,6.0,0.975609756097561,0.7375145180023246,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Major River,Strombosia postulata,OMO_STR_0099,Strombosia pustulata,Strombosia pustulata,6,6.0,6.0,0.95,0.6166666666666654,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Stream,Diospyros dendo,OMO_STR_0110,Diospyrous dendo,Diospyrous dendo,9,9.0,9.0,0.967741935483871,9.70967741935484,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Upland,Albizia auxilary,OMO_STR_0134,Albizia auxillary,Albizia auxilary,3,3.0,3.0,1.0,0.8499999999999996,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Upland,Dialium guineense,OMO_STR_0141,Diallium guineense,Diallium guineense,7,7.0,7.0,0.9714285714285714,9.678745644599303,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Upland,Musanga cecropoidies,OMO_STR_0151,Musanga cecropioides,Musanga cecropioides,5,5.0,5.0,0.95,9.56111111111111,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Buffer,Upland,Ricinidendron heudeloti,OMO_STR_0155,Ricinidendron heudelotii,,3,3.0,3.0,0.9787234042553191,0.9274413529732684,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Major River,Monodora tenuifolia,OMO_STR_0041,Monodora lenuifolia,Monodora tenuifolia,7,7.0,7.0,1.0,0.7948717948717956,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Major River,Pycnanthus angolensis,OMO_STR_0044,Pycanthus angolensis,Pycanthus angolensis,7,7.0,7.0,0.975609756097561,0.6256097560975622,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Major River,Ricinodendron heudelotii,OMO_STR_0045,Ricinodendron heudeloti,Ricinodendron heudeloti,5,5.0,5.0,0.9787234042553191,9.606630380999505,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Upland,Hildegardia barteri,OMO_STR_0060,Hildergardia baarteri,Hildegardia barteri,3,3.0,3.0,1.0,0.67741935483871,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Upland,Ricinodendron heudelotii,OMO_STR_0069,Ricinodendron heudeloti,Ricinodendron heudeloti,3,3.0,3.0,0.9787234042553191,0.5957446808510642,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Core,Upland,Scotellia coriaceae,OMO_STR_0071,Scotelia coriacea,Scotellia coriacea,25,25.0,25.0,0.972972972972973,9.45684394071491,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Transition,Major River,Bligha sapida,OMO_STR_0166,Blghia sapida,Blighia sapida,4,4.0,4.0,0.9629629629629629,0.5387205387205398,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Transition,Major River,Strombosia pustulata,OMO_STR_0186,Strombosia postulata,Strombosia postulata,4,4.0,4.0,0.95,0.586363636363636,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Transition,Major River,Uapaca heudeloti,OMO_STR_0190,Uapaca heudelotii,Uapaca heudelotii,2,2.0,2.0,0.9696969696969697,9.6770140428677,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE
+Transition,Stream,Termialia superba,OMO_STR_0203,Terminalia superba,Terminalia superba,11,11.0,11.0,0.9714285714285714,9.596428571428572,ACCEPTED_STRONG_ORTHOGRAPHIC_AND_ABUNDANCE_EVIDENCE

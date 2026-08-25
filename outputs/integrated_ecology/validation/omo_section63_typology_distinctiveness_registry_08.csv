@@ -1,0 +1,5 @@
+Typology_ID,N_Plots,Mean_Within_Consensus,Mean_Silhouette,Percent_Negative_Silhouette,Dominant_Ecological_Profile,Habitat_Enrichment,Zone_Enrichment
+T1,26,0.8860246153846153,0.2373845414729587,0.0,CWM_SLA=-0.97 SD; Pielou=-0.86 SD; CWM_WD=+0.85 SD; Estimated_Mean_DBH=-0.54 SD; Estimated_Mean_Height=-0.53 SD,Upland (1.40×),Core (1.99×)
+T2,30,0.748512643678161,0.22069228315612827,0.0,Estimated_Mean_Height=+0.83 SD; Estimated_Mean_DBH=+0.75 SD; Richness=+0.67 SD; Pielou=+0.66 SD; CWM_WD=+0.28 SD,Stream (1.26×),Buffer (1.62×)
+T3,13,0.8242948717948718,0.13193823981931224,0.0,FDis=+1.16 SD; CWM_WD=-1.13 SD; CWM_Log10_Seed_Mass=-0.99 SD; CWM_Max_Height_m=+0.83 SD; FEve=+0.81 SD,Stream (1.46×),Transition (2.25×)
+T4,13,0.830974358974359,0.23476051476373733,15.384615384615385,CWM_SLA=+1.34 SD; Richness=-1.23 SD; CWM_WD=-1.22 SD; CWM_Log10_Seed_Mass=+1.14 SD; CWM_Max_Height_m=-0.98 SD,Upland (1.40×),Transition (2.93×)

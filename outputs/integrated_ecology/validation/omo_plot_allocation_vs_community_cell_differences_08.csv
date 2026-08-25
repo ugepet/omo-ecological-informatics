@@ -1,0 +1,11 @@
+Plot_Key,Species_Key,Reconstructed_Abundance,Community_Abundance,Difference
+transition||major_river||plot01,blighia sapida,0.0,1,-1.0
+transition||major_river||plot07,blighia sapida,0.0,2,-2.0
+transition||major_river||plot09,blighia sapida,0.0,1,-1.0
+transition||stream||plot02,alstonia boonei,0.0,1,-1.0
+transition||stream||plot03,alstonia boonei,0.0,1,-1.0
+transition||stream||plot04,alstonia boonei,0.0,4,-4.0
+transition||stream||plot06,alstonia boonei,0.0,1,-1.0
+transition||stream||plot07,alstonia boonei,0.0,4,-4.0
+transition||stream||plot08,alstonia boonei,0.0,3,-3.0
+transition||stream||plot10,alstonia boonei,0.0,4,-4.0

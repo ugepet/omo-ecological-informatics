@@ -1,0 +1,13 @@
+Finding_ID,Theme,Finding,Evidence_Section
+F01,DATA_INTEGRATION,"Taxonomic, functional and structural evidence was successfully integrated on the common 90-plot sampling backbone.",2
+F02,STRUCTURAL_COVERAGE,"Validated structural evidence represents 89.37% of plot-level abundance overall, with explicit structural analysis tiers.",2.6
+F03,MULTIVARIATE_GRADIENT,The ecological system is multidimensional: four PCA axes are required to exceed 70% cumulative variance.,3.4–3.5
+F04,FACTORIAL_ECOLOGY,"Habitat and Management Zone jointly structure taxonomic diversity, functional traits and forest structure, with several responses dominated by interaction effects.",4
+F05,CROSS_DOMAIN_COUPLING,"Several ecological domains remain significantly coupled after Habitat/Zone adjustment, especially taxonomic diversity with functional diversity and forest structure.",5
+F06,DESIGN_EFFECT,Taxonomic diversity–functional composition coupling is largely explained by Habitat and Management Zone structure.,5.2–5.4
+F07,ECOLOGICAL_TYPOLOGY,Four recurrent integrated ecological states were validated from the 10-metric ecological core.,6
+F08,CORE_STATE,Core plots are dominated by the Dense-Wood Conservative state and exhibit high wood density with generally low SLA.,6–7
+F09,BUFFER_STATE,Buffer plots are dominated by the Structurally Developed Diverse state and are comparatively intermediate across the ecological indicator space.,6–7
+F10,TRANSITION_STATE,"Transition plots are dominated by T3/T4 trait syndromes and are characterized overall by lower wood density, higher SLA and lower richness.",6–7
+F11,LANDSCAPE_HETEROGENEITY,"Transition Major River exhibits the greatest typology heterogeneity, containing all four validated ecological states.",7.2–7.3
+F12,MONITORING,The final indicator framework supports multidimensional repeat monitoring without requiring a synthetic ecological-condition score.,7

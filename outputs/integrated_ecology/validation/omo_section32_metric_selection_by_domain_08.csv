@@ -1,0 +1,6 @@
+Domain,N_Total_Metrics,N_Core_Retained,Core_Metrics
+FUNCTIONAL_COMPOSITION,4,4,CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m
+FUNCTIONAL_DIVERSITY,4,2,FDis; FEve
+STRUCTURAL_ECOLOGY,3,2,Estimated_Mean_DBH; Estimated_Mean_Height
+TAXONOMIC_COMMUNITY,1,0,
+TAXONOMIC_DIVERSITY,4,2,Richness; Pielou

@@ -1,0 +1,13 @@
+Typology_ID,Typology_Name,Habitat,N_Plots,Typology_Total,Percent_of_Typology
+T1,Core–Upland Dense-Wood Conservative State,Major River,10,26,38.46153846153846
+T1,Core–Upland Dense-Wood Conservative State,Stream,4,26,15.384615384615385
+T1,Core–Upland Dense-Wood Conservative State,Upland,12,26,46.15384615384615
+T2,Buffer-Enriched Structurally Developed Diverse State,Major River,13,30,43.333333333333336
+T2,Buffer-Enriched Structurally Developed Diverse State,Stream,12,30,40.0
+T2,Buffer-Enriched Structurally Developed Diverse State,Upland,5,30,16.666666666666668
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Major River,3,13,23.076923076923077
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Stream,6,13,46.15384615384615
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Upland,4,13,30.76923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Major River,3,13,23.076923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Stream,4,13,30.76923076923077
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Upland,6,13,46.15384615384615

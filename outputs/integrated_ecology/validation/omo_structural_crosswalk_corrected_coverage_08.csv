@@ -1,0 +1,10 @@
+Zone,Habitat,N_Master_Records,N_Resolved,Percent_Resolved
+Buffer,Major River,24,19,79.16666666666667
+Buffer,Stream,33,31,93.93939393939394
+Buffer,Upland,27,23,85.18518518518519
+Core,Major River,25,21,84.0
+Core,Stream,23,20,86.95652173913044
+Core,Upland,23,17,73.91304347826087
+Transition,Major River,27,23,85.18518518518519
+Transition,Stream,14,11,78.57142857142857
+Transition,Upland,18,16,88.88888888888889

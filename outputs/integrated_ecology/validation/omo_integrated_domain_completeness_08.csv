@@ -1,0 +1,6 @@
+Domain,N_Variables,Variables,N_Complete_Plots,Percent_Complete
+TAXONOMIC,4,Richness; Shannon; Simpson; Pielou,90,100.0
+FUNCTIONAL_COMPOSITION,4,CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m,90,100.0
+FUNCTIONAL_DIVERSITY_CORE,3,FDis; RaoQ; FEve,89,98.88888888888889
+FUNCTIONAL_RICHNESS,1,FRic_4D,83,92.22222222222223
+STRUCTURAL,3,Estimated_Mean_DBH; Estimated_Mean_Height; Estimated_Mean_Basal_Area_Contribution,90,100.0

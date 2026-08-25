@@ -1,0 +1,9 @@
+Domain,N_Variables,Variables
+ANALYSIS_ELIGIBILITY,4,Use_Primary_Association; Use_Factorial_Structural; Use_Full_Descriptive; Structural_Use_Class
+FUNCTIONAL_COMPOSITION,4,CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m
+FUNCTIONAL_DIVERSITY,4,FDis; RaoQ; FEve; FRic_4D
+SAMPLING_DESIGN,3,Plot_ID; Zone; Habitat
+STRUCTURAL_ECOLOGY,3,Estimated_Mean_DBH; Estimated_Mean_Height; Estimated_Mean_Basal_Area_Contribution
+STRUCTURAL_QC,2,Structural_Coverage_Percent; Structural_Analysis_Tier
+TAXONOMIC_COMMUNITY,1,Plot_Total_Abundance
+TAXONOMIC_DIVERSITY,4,Richness; Shannon; Simpson; Pielou

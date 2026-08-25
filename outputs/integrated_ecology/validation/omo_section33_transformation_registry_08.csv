@@ -1,0 +1,11 @@
+Variable,Transformation_Decision,Reason
+Richness,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+Pielou,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+CWM_WD,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+CWM_SLA,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+CWM_Log10_Seed_Mass,KEEP_EXISTING_LOG10,Seed mass already transformed to log10 scale upstream in Notebook 07C.
+CWM_Max_Height_m,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+FDis,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+FEve,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.
+Estimated_Mean_DBH,RETAIN_BUT_REVIEW_SENSITIVITY,High skewness present but automatic transformation is not justified without ecological and model diagnostics.
+Estimated_Mean_Height,RETAIN_CURRENT_SCALE,No severe distributional distortion requiring pre-emptive transformation.

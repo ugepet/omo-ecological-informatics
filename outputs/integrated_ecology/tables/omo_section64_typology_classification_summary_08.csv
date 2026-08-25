@@ -1,0 +1,5 @@
+Typology_ID,Typology_Name,Short_Name,N_Plots,Mean_Within_Consensus,Mean_Consensus_Margin,Mean_Silhouette,Mean_Structural_Coverage,Minimum_Structural_Coverage,N_Low_Confidence,Percent_of_82
+T1,Core–Upland Dense-Wood Conservative State,Dense-Wood Conservative,26,0.8860246153846153,0.28014,0.2373845414729587,93.10838739037416,76.47058823529412,3,31.70731707317073
+T2,Buffer-Enriched Structurally Developed Diverse State,Structurally Developed Diverse,30,0.748512643678161,0.24221264367816092,0.22069228315612827,87.62695441651223,75.0,6,36.58536585365854
+T3,Transition–Stream Functionally Diverse Light-Seeded State,Functionally Diverse Light-Seeded,13,0.8242948717948718,0.34521794871794875,0.13193823981931224,93.25702075702075,80.95238095238095,0,15.853658536585366
+T4,Transition–Upland Acquisitive Low-Richness Heavy-Seeded State,Acquisitive Low-Richness Heavy-Seeded,13,0.830974358974359,0.4135128205128205,0.23476051476373733,100.0,100.0,2,15.853658536585366

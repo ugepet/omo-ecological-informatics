@@ -1,0 +1,4 @@
+Analysis_Tier,Minimum_Coverage_Percent,Use
+PRIMARY,90,Primary inferential analyses involving structural metrics.
+SENSITIVITY,75,Sensitivity analyses assessing whether primary conclusions persist under broader inclusion.
+DESCRIPTIVE,0,Descriptive summaries and coverage reporting only when coverage is below 75%.

@@ -1,0 +1,5 @@
+Domain,N_Variables,Variables
+TAXONOMIC_DIVERSITY,2,Richness; Pielou
+FUNCTIONAL_COMPOSITION,4,CWM_WD; CWM_SLA; CWM_Log10_Seed_Mass; CWM_Max_Height_m
+FUNCTIONAL_DIVERSITY,2,FDis; FEve
+STRUCTURAL_ECOLOGY,2,Estimated_Mean_DBH; Estimated_Mean_Height

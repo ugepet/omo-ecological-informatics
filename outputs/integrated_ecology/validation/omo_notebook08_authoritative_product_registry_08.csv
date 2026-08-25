@@ -1,0 +1,9 @@
+Product,Path,Role,Exists
+90_PLOT_COMMUNITY_BACKBONE,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_authoritative_community_backbone_90plots_08.csv,Authoritative abundance layer,True
+FINAL_STRUCTURAL_LAYER,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_plot_structural_estimates_final_90plots_08.csv,Authoritative structural plot layer,True
+INTEGRATED_ECOLOGICAL_BACKBONE,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_integrated_ecological_backbone_90plots_08.csv,Cross-domain ecological backbone,True
+PRIMARY_ASSOCIATION_SET,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_integrated_primary_association_set_08.csv,High-coverage structural association dataset,True
+FACTORIAL_STRUCTURAL_SET,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_integrated_factorial_structural_set_08.csv,Factorial structural inference dataset,True
+AUTHORITATIVE_TYPOLOGY,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_ecological_typology_authoritative_82plots_08.csv,Validated ecological typology classification,True
+ALL_90_PLOT_TYPOLOGY_STATUS,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_ecological_typology_status_all_90plots_08.csv,Complete classification-status registry,True
+FINAL_INDICATOR_REGISTRY,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\integrated_ecology\tables\omo_section71_final_integrated_indicator_registry_08.csv,Final ecological monitoring indicators,True

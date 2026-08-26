@@ -1,0 +1,3 @@
+Task,Null_Model,Purpose
+CLASSIFICATION,DummyClassifier(strategy='stratified'),Estimate performance expected from class-frequency-aware random prediction.
+REGRESSION,DummyRegressor(strategy='mean'),Estimate performance expected from predicting the training-set mean.

@@ -1,0 +1,4 @@
+Variable,Domain,Selected_Model_Appearances,Permutation_Importance_Appearances,Permutation_Rank1_Count,Mean_Relative_Permutation_Importance,SHAP_Appearances,SHAP_Rank1_Count,SHAP_Positive_Direction_Count,SHAP_Negative_Direction_Count,Ridge_Coefficient_Appearances,Ridge_Rank1_Count,Transition_Analyses,High_Transition_Evidence_Count,Descriptive_Transition_Evidence_Count,Monitoring_Evidence_Score,Monitoring_Priority,Recommended_Use
+Richness,TAXONOMIC,3,3,3,0.684201300513349,2,1,1,1,1,1,2,0,2,12.5,HIGH,Primary taxonomic monitoring variable
+CWM_WD,FUNCTIONAL_COMPOSITION,1,1,1,0.5904637933422351,1,1,1,0,0,0,1,1,0,5.5,HIGH,Primary functional-composition monitoring variable
+Pielou,TAXONOMIC,3,3,0,0.31579869948665107,2,1,2,0,1,0,1,0,1,4.0,MODERATE,Taxonomic evenness / functional-diversity support

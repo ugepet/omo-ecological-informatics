@@ -1,0 +1,3 @@
+Task,CV_Type,N_Splits,N_Repeats,Total_Folds,Random_Seed,Primary_Metrics,Secondary_Metrics,Null_Model
+TYPOLOGY_CLASSIFICATION,RepeatedStratifiedKFold,5,20,100,42,Macro_F1 | Balanced_Accuracy,Accuracy | Multiclass_Log_Loss,Stratified Dummy Classifier
+CONTINUOUS_REGRESSION,RepeatedKFold,5,20,100,42,RMSE | MAE,R2,Training-Mean Dummy Regressor

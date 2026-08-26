@@ -1,0 +1,10 @@
+Habitat,Zone,N_Plots
+Major River,Buffer,10
+Major River,Core,10
+Major River,Transition,10
+Stream,Buffer,10
+Stream,Core,10
+Stream,Transition,10
+Upland,Buffer,10
+Upland,Core,10
+Upland,Transition,10

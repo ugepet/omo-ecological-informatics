@@ -1,0 +1,10 @@
+Table_ID,Title,Path,Exists,Read_Status,Rows,Columns,Validation_Status
+T09_01,Cross-domain model screening,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_cross_domain_r2_screening.csv,True,READ_OK,30,13,PASS
+T09_02,Prioritized nonlinear model comparison,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_prioritized_nonlinear_r2_comparison.csv,True,READ_OK,8,17,PASS
+T09_03,Global permutation importance,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_global_permutation_importance.csv,True,READ_OK,10,11,PASS
+T09_04,SHAP global summary,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_rf_shap_global_summary.csv,True,READ_OK,8,9,PASS
+T09_05,Descriptive transition-zone summary,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_descriptive_transition_zone_summary.csv,True,READ_OK,5,22,PASS
+T09_06,Primary-model uncertainty and robustness synthesis,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_primary_model_uncertainty_robustness_synthesis.csv,True,READ_OK,3,18,PASS
+T09_07,Monitoring-variable synthesis,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_monitoring_variable_synthesis.csv,True,READ_OK,7,17,PASS
+T09_08,Publication claim registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_publication_claim_registry.csv,True,READ_OK,15,6,PASS
+T09_09,Final scientific synthesis registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_final_scientific_synthesis_registry.csv,True,READ_OK,8,3,PASS

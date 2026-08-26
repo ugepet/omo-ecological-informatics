@@ -1,0 +1,4 @@
+Claim_ID,Claim,Evidence_Class,Evidence,Required_Boundary,Headline_Eligible
+CLM13,Independent environmental variables drive the observed ecological patterns.,NOT_SUPPORTED,No validated independent plot-level environmental predictor set exists.,Do not make environmental-driver claims.,False
+CLM14,The observed CWM-WD transition near 0.53 g cm-3 represents a universal ecological threshold.,NOT_SUPPORTED,Bootstrap transition location is broad and only moderately stable.,Use descriptive transition-zone language only.,False
+CLM15,High predictive uncertainty identifies degraded or disturbed plots.,NOT_SUPPORTED,"Uncertainty quantifies model instability/error, not ecological condition.",Do not equate prediction uncertainty with degradation.,False

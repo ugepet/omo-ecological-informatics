@@ -1,0 +1,4 @@
+Variable,Expected_Priority,Observed_Priority,Validation_Status
+Richness,HIGH,HIGH,PASS
+CWM_WD,HIGH,HIGH,PASS
+Pielou,MODERATE,MODERATE,PASS

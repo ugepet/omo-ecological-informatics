@@ -1,0 +1,11 @@
+Product,Path,Exists,Readable,Rows,Columns,Read_Status,Validation_Status
+Authoritative_Modelling_Backbone,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\data\omo_notebook09_authoritative_modelling_backbone.csv,True,True,90,23,READ_OK,PASS
+Final_XAI_Selection_Registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_final_cross_domain_xai_selection_registry.csv,True,True,4,22,READ_OK,PASS
+Section7_Closure,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_section7_closure.csv,True,True,1,9,READ_OK,PASS
+Section8_Closure,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_section8_closure.csv,True,True,1,13,READ_OK,PASS
+Publication_Figure_Audit,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_publication_figure_audit.csv,True,True,4,7,READ_OK,PASS
+Publication_Table_Audit,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_publication_table_audit.csv,True,True,9,8,READ_OK,PASS
+Publication_Claim_Registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_publication_claim_registry.csv,True,True,15,6,READ_OK,PASS
+Prohibited_Claims_Registry,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\validation\omo_notebook09_prohibited_claims_registry.csv,True,True,3,6,READ_OK,PASS
+Monitoring_Variable_Synthesis,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_monitoring_variable_synthesis.csv,True,True,7,17,READ_OK,PASS
+Final_Scientific_Synthesis,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics\outputs\ecological_informatics\tables\omo_notebook09_final_scientific_synthesis_registry.csv,True,True,8,3,READ_OK,PASS

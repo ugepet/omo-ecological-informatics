@@ -1,0 +1,9 @@
+Synthesis_ID,Theme,Synthesis
+SYN01,Ecological-state organization,The integrated Omo ecological states are highly separable in their underlying multidimensional ecological metric space.
+SYN02,Landscape/context structure,"Habitat and Management Zone encode meaningful contextual ecological structure, especially along PC2."
+SYN03,Cross-domain coupling,Ecological domains are only partially coupled; predictive relationships are selective rather than ubiquitous.
+SYN04,Functional composition and richness,"Species richness is moderately predictable from functional composition, with community-weighted wood density providing the dominant information."
+SYN05,Taxonomic–functional coupling,Taxonomic diversity predicts CWM wood density robustly and contains weaker nonlinear information about functional dispersion.
+SYN06,Predictive heterogeneity,"The strength and stability of ecological coupling vary among plots and contexts, with recurrent uncertainty concentrated particularly in Stream × Transition plots."
+SYN07,Monitoring informatics,"Richness, CWM wood density and Pielou provide a compact information-rich set for future repeat ecological monitoring, supplemented by Habitat × Zone context."
+SYN08,Scientific boundary,The current repository supports ecological-informatics prediction and explanation but not independent environmental-driver or causal inference.

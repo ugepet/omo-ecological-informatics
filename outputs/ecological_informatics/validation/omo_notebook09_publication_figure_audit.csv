@@ -1,0 +1,5 @@
+Figure_ID,Title,PNG_Exists,PDF_Exists,SVG_Exists,Data_Exists,Validation_Status
+Figure_10_01,Cross-domain predictive performance,True,True,True,True,PASS
+Figure_10_02,Functional composition → richness explainability,True,True,True,True,PASS
+Figure_10_03,Contextual predictive uncertainty,True,True,True,True,PASS
+Figure_10_04,Monitoring-oriented ecological information priorities,True,True,True,True,PASS

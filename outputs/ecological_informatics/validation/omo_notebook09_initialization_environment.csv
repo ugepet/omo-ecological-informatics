@@ -1,0 +1,14 @@
+Field,Value
+Notebook_ID,09
+Notebook_Title,Ecological Informatics: Explainable Modelling of Multidimensional Forest Ecological Patterns
+Project_Root,C:\Peter\SDM_data\omo_ecodb\omo-ecological-informatics
+Python_Version,3.10.19
+Platform,Windows-10-10.0.26200-SP0
+Pandas_Version,2.3.3
+NumPy_Version,2.2.6
+Random_Seed,42
+Scientific_Scope,LOCKED
+Environmental_Prediction_Status,NOT_FEASIBLE_FROM_CURRENT_VALIDATED_REPOSITORY
+Ecological_Informatics_Status,FEASIBLE
+Leakage_Audit_Required,True
+Validation_First_Required,True

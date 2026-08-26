@@ -1,0 +1,4 @@
+Variable,Role,Evidence,Interpretation
+Habitat,SUPPORTING_CONTEXT,Contextual baseline predicts ecological typology and contributes to uncertainty heterogeneity.,Sampling/ecological context; not independent environmental driver.
+Zone,SUPPORTING_CONTEXT,PC2 and several uncertainty patterns show strong Zone structure.,Management/context variable; not independent environmental driver.
+Habitat × Zone,SUPPORTING_CONTEXT,Stream × Transition contains the strongest recurrent uncertainty concentration.,Useful stratification context for repeat monitoring.

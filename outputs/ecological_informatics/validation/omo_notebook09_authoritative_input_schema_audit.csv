@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,Plot_Column_Candidates,Habitat_Column_Candidates,Zone_Column_Candidates,Total_Missing_Cells,Columns_With_Missing
+integrated_backbone,90,25,Plot_ID | Plot_Total_Abundance,Habitat,Zone,8,2
+core_metrics,90,16,Plot_ID,Habitat,Zone,1,1
+typology_status,90,14,Plot_ID,Habitat,Zone,64,8
+typology_authoritative,82,38,Plot_ID,Habitat,Zone,0,0
+pca_scores_full,89,13,Plot_ID,Habitat,Zone,0,0

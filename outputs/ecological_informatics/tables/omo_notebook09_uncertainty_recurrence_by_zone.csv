@@ -1,0 +1,4 @@
+Zone,N_Plots,Recurrent_High_Plots,Recurrent_Moderate_or_High_Plots
+Buffer,30,3,9
+Core,30,1,12
+Transition,30,6,15

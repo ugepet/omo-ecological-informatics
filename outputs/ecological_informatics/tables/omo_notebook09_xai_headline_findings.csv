@@ -1,0 +1,6 @@
+Finding_ID,Finding,Evidence,Interpretation_Boundary
+XAI01,Functional composition predicts species richness with moderate out-of-fold performance.,CD04_Richness Random Forest mean CV R2 = 0.4751.,Cross-domain predictive association; not causal.
+XAI02,CWM wood density is the dominant functional-composition predictor of species richness.,Ranked #1 by both permutation importance and SHAP.,Importance reflects fitted predictive contribution.
+XAI03,"The CWM wood-density–richness relationship is nonlinear and transition-like, but the transition location is uncertain.",100% bootstrap transition detection; 93% SHAP-rank-1 rate; bootstrap median ≈0.568 with broad uncertainty.,"Descriptive transition zone, not a universal threshold."
+XAI04,Taxonomic diversity predicts CWM wood density through a simpler approximately linear relationship.,Ridge mean CV R2 = 0.3375; richness dominates predictor contribution.,Standardized conditional association.
+XAI05,Taxonomic diversity contains weaker nonlinear predictive information about functional dispersion.,Random Forest mean CV R2 = 0.1336; richness and Pielou contribute similarly.,Weak cross-domain prediction; interpret conservatively.
